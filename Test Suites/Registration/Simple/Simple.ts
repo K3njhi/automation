@@ -12,10 +12,10 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>b336323f-b4de-4193-bcc4-3712454af155</testSuiteGuid>
    <testCaseLink>
-      <guid>960172ba-5daa-4b33-b11c-bc0f3c545ba5</guid>
+      <guid>a47e5aeb-70fe-44cd-a2ca-0fd5026734da</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/reusable test case/Open browser</testCaseId>
+      <testCaseId>Test Cases/reusable test case/create account</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -142,13 +142,6 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Merchant/Registration/Simple/Verify if validation text is present if the user inputs invalid email address</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>0aa391f1-1b85-4c32-a4cd-44d5a0fe18da</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Merchant/Registration/Simple/Verify if Notfication email accepts alphanumeric and special characters</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

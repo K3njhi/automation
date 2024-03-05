@@ -6,15 +6,19 @@
    <elementGuidId>19a51e3c-d3ca-4a64-a42d-722dbb2e685e</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>(//input[@name='username'])[2]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#frmaccount > div.signin-form-group > input[name=&quot;username&quot;]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//input[@name='username'])[2]</value>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div[1]/div[1]/div[2]/form/div[1]/input[count(. | //*[@type = 'text' and @name = 'username']) = count(//*[@type = 'text' and @name = 'username'])]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>c4f34ed6-9c85-4af9-bd5e-18450b0cfe1f</webElementGuid>
+      <webElementGuid>41a9ea76-6a05-4b1a-8250-302833482c34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +34,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>8fdbc429-86cb-44b5-803d-16c50db38a6c</webElementGuid>
+      <webElementGuid>bab14f8d-3178-442a-816e-5b29022eb665</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>name</name>
       <type>Main</type>
       <value>username</value>
-      <webElementGuid>ff5865ca-4e57-478a-8ba1-b2072fa1d0e4</webElementGuid>
+      <webElementGuid>b9dadae7-e2ef-49e1-ad97-c8e27b4c4e70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +50,15 @@
       <name>class</name>
       <type>Main</type>
       <value>singfrm-txtbox required</value>
-      <webElementGuid>4b5a0d23-25fa-4a90-8769-ef011855c5a3</webElementGuid>
+      <webElementGuid>2706dadd-c426-41f4-b405-43748bb2f3fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;frmaccount&quot;)/div[@class=&quot;signin-form-group&quot;]/input[@class=&quot;singfrm-txtbox required&quot;]</value>
-      <webElementGuid>4c699620-dcc5-483c-bc9a-1637073ddcba</webElementGuid>
+      <value>/html/body/div[4]/div[1]/div[1]/div[2]/form/div[1]/input</value>
+      <webElementGuid>874aaa50-300b-4a95-9f6d-dc46ea0d8978</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@name='username'])[2]</value>
-      <webElementGuid>3d4aabf6-d48c-46ba-81fa-419cc5c3423c</webElementGuid>
+      <webElementGuid>1ddd11a2-b137-4561-8573-1d8b43c0da76</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='frmaccount']/div/input</value>
-      <webElementGuid>fa851b8c-50aa-45cc-bdfb-4489271a0f57</webElementGuid>
+      <webElementGuid>424c4ae7-2eef-4d7d-92f8-e10ae46e2043</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/form/div/input</value>
-      <webElementGuid>d165d779-5cc5-4c86-b2e4-09e0e920d354</webElementGuid>
+      <webElementGuid>d30ac981-aaeb-4034-8119-23bc5eabe48e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +90,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'username']</value>
-      <webElementGuid>ceef633c-d494-4d33-ae51-93cbcd1f0a00</webElementGuid>
+      <webElementGuid>baf689f8-9e15-45aa-968f-11cde7c94680</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

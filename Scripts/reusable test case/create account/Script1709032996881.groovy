@@ -27,5 +27,3 @@ WebUI.verifyElementPresent(findTestObject('sign_up/be_a_seller'), 0)
 
 WebUI.waitForElementVisible(findTestObject('sign_up/be_a_seller'), 0)
 
-WebUI.click(findTestObject('sign_up/be_a_seller'))
-

@@ -6,23 +6,27 @@
    <elementGuidId>c0f66133-b954-4a1d-aa20-b7c48c02f354</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//input[@id='account-submit']</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#account-submit</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='account-submit']</value>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div[1]/div[1]/div[2]/form/div[5]/input[count(. | //input[@type = 'submit' and @name = 'account-submit' and @id = 'account-submit']) = count(//input[@type = 'submit' and @name = 'account-submit' and @id = 'account-submit'])]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b64ecc4c-2cee-46ec-a5f0-fa38608d946b</webElementGuid>
+      <webElementGuid>cc6e4f32-78ed-4c63-be86-7c5557694764</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +34,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>fff445ae-a4e1-4a74-b0c0-f599b84c014b</webElementGuid>
+      <webElementGuid>687f071a-e158-4b1f-9901-f7b0402bb0d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>return signup_form_validate(event); </value>
-      <webElementGuid>f6edd190-902c-4351-b8ea-5a16c1017e52</webElementGuid>
+      <webElementGuid>362f4982-283d-4258-ab26-7ea670b7ad90</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>name</name>
       <type>Main</type>
       <value>account-submit</value>
-      <webElementGuid>02d0c287-8f9f-45aa-97ca-1cc436744c48</webElementGuid>
+      <webElementGuid>d293676b-bee7-478c-a5cc-b46a3315ab34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>id</name>
       <type>Main</type>
       <value>account-submit</value>
-      <webElementGuid>65014cdd-566f-406d-ab31-9ab246e80ea8</webElementGuid>
+      <webElementGuid>3477c9d2-0049-4ab1-a220-631fdbac61bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>class</name>
       <type>Main</type>
       <value>black-btn</value>
-      <webElementGuid>1a1b16a6-22ab-4762-990c-e5e44798c0b1</webElementGuid>
+      <webElementGuid>77cfd558-e275-4a0c-a7fa-0809bc57fb45</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,15 +74,15 @@
       <name>value</name>
       <type>Main</type>
       <value>Create Account</value>
-      <webElementGuid>f08508e2-f8d3-47ba-a11c-a96e6ab1a81d</webElementGuid>
+      <webElementGuid>db47c545-1fad-4422-9dcc-f43f9da3ccf6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;account-submit&quot;)</value>
-      <webElementGuid>1460a114-31e2-48fe-ac44-501e4d38195e</webElementGuid>
+      <value>/html/body/div[4]/div[1]/div[1]/div[2]/form/div[5]/input</value>
+      <webElementGuid>42da0bcd-994f-4fe9-89de-c3a246451d26</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='account-submit']</value>
-      <webElementGuid>be2b9f7f-3bb5-42c9-9728-f48ec4b85be4</webElementGuid>
+      <webElementGuid>3bd7f3af-b711-4066-8acb-a3eef192a98d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='frmaccount']/div[5]/input</value>
-      <webElementGuid>c163024b-0d2f-4f72-a8d8-ee950669a399</webElementGuid>
+      <webElementGuid>7dbbac3f-4446-4f79-a136-a8aacac6058f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/input</value>
-      <webElementGuid>81766071-4441-40e0-9e88-1a037d94388f</webElementGuid>
+      <webElementGuid>3118bbd7-b7c0-425a-b9a4-42541dd1dde8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +114,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit' and @name = 'account-submit' and @id = 'account-submit']</value>
-      <webElementGuid>6396b94e-c234-4e1c-8e2d-ac7d1ed91469</webElementGuid>
+      <webElementGuid>4a1d7ba5-d3c6-488f-9dcd-60252fdeda69</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

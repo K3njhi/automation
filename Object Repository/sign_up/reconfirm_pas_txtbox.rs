@@ -6,23 +6,27 @@
    <elementGuidId>96634c78-9f72-4863-af20-3680a09bbe77</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//input[@name='reconfirm-password']</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>input[name=&quot;reconfirm-password&quot;]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@name='reconfirm-password']</value>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div[1]/div[1]/div[2]/form/div[3]/input[count(. | //input[@type = 'password' and @name = 'reconfirm-password']) = count(//input[@type = 'password' and @name = 'reconfirm-password'])]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5411b875-118d-42f3-a789-954d883fd1ac</webElementGuid>
+      <webElementGuid>1475b4d1-e422-4d07-83fb-e1cc19405389</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +34,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>b9fdb6ea-2290-4375-b73a-2af7aa95dc45</webElementGuid>
+      <webElementGuid>55255ad5-96f5-4fdb-8b5e-8a38bed5c72e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>name</name>
       <type>Main</type>
       <value>reconfirm-password</value>
-      <webElementGuid>41cf039b-73fc-4a82-9a9c-9f6f012db338</webElementGuid>
+      <webElementGuid>cb5172fd-3775-4ad4-9eb9-627a435047dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +50,15 @@
       <name>class</name>
       <type>Main</type>
       <value>singfrm-txtbox required</value>
-      <webElementGuid>8fb25df2-d02f-44df-85c0-3aa424dbd7ca</webElementGuid>
+      <webElementGuid>febaf2f4-5803-4f95-ac0c-eb539ba10111</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;frmaccount&quot;)/div[@class=&quot;signin-form-group&quot;]/input[@class=&quot;singfrm-txtbox required&quot;]</value>
-      <webElementGuid>5fbe343b-be4d-416a-a4f7-d2dce4e35a19</webElementGuid>
+      <value>/html/body/div[4]/div[1]/div[1]/div[2]/form/div[3]/input</value>
+      <webElementGuid>c7d79119-e69e-49f2-95c5-bcdc09f16ee3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='reconfirm-password']</value>
-      <webElementGuid>0483ee53-3194-483e-97ef-44c986e414dd</webElementGuid>
+      <webElementGuid>3ea02ca3-4f44-4b9b-8aee-07532467f341</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='frmaccount']/div[3]/input</value>
-      <webElementGuid>ed58dc0c-9a1d-4235-82a3-2dde0c6f25cf</webElementGuid>
+      <webElementGuid>0aeaf08d-7f01-4b0a-a530-383d7077ed90</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/form/div[3]/input</value>
-      <webElementGuid>be8733a4-ee89-4ff6-9544-fe1300c4a40d</webElementGuid>
+      <webElementGuid>50c4bd93-1049-4a66-8925-d9be1b900ca6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +90,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'password' and @name = 'reconfirm-password']</value>
-      <webElementGuid>865f38c8-d61e-45e1-a012-3ff192879a40</webElementGuid>
+      <webElementGuid>cd01829a-37d9-4a54-bd09-16f0edf4fa59</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -26,6 +26,13 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
+      <guid>a2694d4f-2bc1-4714-9592-1faccdc47bca</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/reusable test case/Click be a seller</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
       <guid>ee5a7a93-782b-486a-8835-5a86f04bcfbd</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>

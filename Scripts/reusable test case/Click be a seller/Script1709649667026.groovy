@@ -17,15 +17,5 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.maximizeWindow()
-
-WebUI.navigateToUrl('https://bespokeautomationken.test.arcadier.io/user/marketplace/customlogin?isSeller=false&returnUrl=https%3A%2F%2Fbespokeautomationken.test.arcadier.io%2F')
-
-WebUI.setText(findTestObject('Sign in page/input_Your emailusername_username'), 'kenmerchant_automation8')
-
-WebUI.setText(findTestObject('Sign in page/input_Your password_password'), 'welcome8')
-
-WebUI.click(findTestObject('Sign in page/Sign_in_button'))
+WebUI.click(findTestObject('sign_up/be_a_seller'))
 

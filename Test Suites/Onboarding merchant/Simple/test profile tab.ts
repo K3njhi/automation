@@ -12,10 +12,31 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>5ef40cb6-0494-4d09-84f5-277b4b033706</testSuiteGuid>
    <testCaseLink>
-      <guid>5a1e76be-b40c-46c6-b5b3-00b6794b6d6d</guid>
+      <guid>e070ca92-2a60-482c-bf54-35956b69e002</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/reusable test case/Log in</testCaseId>
+      <testCaseId>Test Cases/reusable test case/create account</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0040ed77-4553-48fc-98a1-1fe125d14714</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/reusable test case/Click be a seller</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>46a3d9d9-6930-4be6-8522-a75a3f99ee5a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/reusable test case/click create button</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f90feb26-b52d-474d-9001-a9cbd3db0042</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/reusable test case/onboarding account</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

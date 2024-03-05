@@ -6,23 +6,26 @@
    <elementGuidId>4aed665a-d90f-48dd-8cc8-ad2609ff6411</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//form[@id='frmaccount']/div[4]/label</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div[1]/div[1]/div[2]/form/div[4]/label[count(. | //label[(text() = 'Notification email' or . = 'Notification email')]) = count(//label[(text() = 'Notification email' or . = 'Notification email')])]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>f8601e8c-3600-4dc8-bd4d-94364e607bf7</webElementGuid>
+      <webElementGuid>96085c6d-87c3-4edc-8943-b085a90db70f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,15 +33,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Notification email</value>
-      <webElementGuid>f6f93b71-c808-4958-a655-e6f86f0f9993</webElementGuid>
+      <webElementGuid>ab2f72ba-0305-4280-b4e7-2ac6003e67c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;frmaccount&quot;)/div[@class=&quot;signin-form-group&quot;]/label[1]</value>
-      <webElementGuid>4bc0df44-1054-4f36-bf9f-445cc7e39506</webElementGuid>
+      <value>/html/body/div[4]/div[1]/div[1]/div[2]/form/div[4]/label</value>
+      <webElementGuid>4a74d68d-7a7b-4f84-be48-3a5566414b1c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +49,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='frmaccount']/div[4]/label</value>
-      <webElementGuid>27fb80cb-b2bc-46d8-9d9e-59b25b320eb5</webElementGuid>
+      <webElementGuid>42bf03fb-f33a-4d6c-bf23-a347d814b570</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +57,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Reconfirm password'])[1]/following::label[1]</value>
-      <webElementGuid>f11a5035-295a-4643-aefd-be2543275e19</webElementGuid>
+      <webElementGuid>ae27948a-8b99-4403-8f8c-0bdc66994207</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +65,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Your password'])[2]/following::label[2]</value>
-      <webElementGuid>1dc43249-2186-4a94-8634-aa1d5f013aa4</webElementGuid>
+      <webElementGuid>4c5bf2a1-8e7c-4588-acb1-959debccba8e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +73,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Already have an account?'])[1]/preceding::label[1]</value>
-      <webElementGuid>6610f7f4-f667-457c-ad78-d5cb320540c1</webElementGuid>
+      <webElementGuid>35c81649-7464-4024-93b6-9da26059c270</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::label[1]</value>
-      <webElementGuid>f18e2997-52df-4e4a-b2e9-71667d63b9a9</webElementGuid>
+      <webElementGuid>8a11498b-17d6-48a6-a4ad-123c581c8038</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Notification email']/parent::*</value>
-      <webElementGuid>6a85ab38-2324-422b-baab-fc03e8d8f0ad</webElementGuid>
+      <webElementGuid>0a0c723a-7784-4689-81e5-cb1a48e4f875</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +97,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/label</value>
-      <webElementGuid>6feb05e8-fef1-48e6-8a0f-a99d2f655624</webElementGuid>
+      <webElementGuid>e6748164-2a9a-4db6-9e99-87205fe015e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +105,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'Notification email' or . = 'Notification email')]</value>
-      <webElementGuid>98d24bbd-ab10-40fa-a7b2-e00de2648be1</webElementGuid>
+      <webElementGuid>52774856-7773-4723-abf9-7daec6975601</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,23 +6,27 @@
    <elementGuidId>92e8fd2a-6fd7-4293-aff7-cd3158247038</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//input[@id='create-account']</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#create-account</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='create-account']</value>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div[1]/div[1]/div[1]/div[2]/form/div[3]/input[1][count(. | //input[@type = 'button' and @name = 'create-account' and @id = 'create-account']) = count(//input[@type = 'button' and @name = 'create-account' and @id = 'create-account'])]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1c8b9807-6a7e-44b0-9b7e-9e5f15609839</webElementGuid>
+      <webElementGuid>17293840-5589-4b34-8d5b-f78aec2d292e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +34,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>332ed9d2-2652-4f45-9d5d-f66bd23d4c6e</webElementGuid>
+      <webElementGuid>ff2fd57d-2632-4e55-8115-5276713ec09f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>name</name>
       <type>Main</type>
       <value>create-account</value>
-      <webElementGuid>5f549211-cbdd-44c0-b4e6-a90e3fdcc005</webElementGuid>
+      <webElementGuid>6ebaf28d-4752-4b01-8768-ab2c9802f27c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>id</name>
       <type>Main</type>
       <value>create-account</value>
-      <webElementGuid>468d2b51-50d3-4833-be1f-16db534ebd9b</webElementGuid>
+      <webElementGuid>a4698682-a23c-4892-9b9a-58394d3cda6f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>class</name>
       <type>Main</type>
       <value>black-btn</value>
-      <webElementGuid>16bad5bd-d283-4000-9f2e-933efafffa3d</webElementGuid>
+      <webElementGuid>88deca53-b9cb-40a8-8048-81f7ff20342b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,15 +66,15 @@
       <name>value</name>
       <type>Main</type>
       <value>Create Account</value>
-      <webElementGuid>fbd4abab-4050-457b-8445-52c8db38f174</webElementGuid>
+      <webElementGuid>5e1ecf34-65be-4ba9-bfc3-1abb0a03e16d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;create-account&quot;)</value>
-      <webElementGuid>af7eefa2-6f52-430f-98a8-2c2fa60e63ef</webElementGuid>
+      <value>/html/body/div[4]/div[1]/div[1]/div[1]/div[2]/form/div[3]/input[1]</value>
+      <webElementGuid>e31f5d30-8edd-4c89-ae49-9fae399ec9d6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='create-account']</value>
-      <webElementGuid>0763999e-2706-41ee-aac1-3d3e4ecdd928</webElementGuid>
+      <webElementGuid>1400a638-6be8-4f37-85b0-28a2987b18b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='frmlogin']/div[3]/input</value>
-      <webElementGuid>4c557c06-0102-472b-84da-67bc201e7778</webElementGuid>
+      <webElementGuid>5c223590-7839-4a48-9b55-1f5e730d313d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/input</value>
-      <webElementGuid>69376dc8-9f81-4dc4-921a-acaf044ebfd5</webElementGuid>
+      <webElementGuid>150c3d4d-a157-4050-a6d5-85d954a444d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'button' and @name = 'create-account' and @id = 'create-account']</value>
-      <webElementGuid>be9ff2e9-0577-4b88-b486-0a97c1cebdb9</webElementGuid>
+      <webElementGuid>1a6bca53-f7cd-4cc4-bf4f-f7839370dbc4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

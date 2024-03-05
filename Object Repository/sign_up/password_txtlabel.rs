@@ -6,23 +6,26 @@
    <elementGuidId>76c14349-10bd-42a9-af1c-1a6c7e54d790</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//form[@id='frmaccount']/div[2]/label</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div[1]/div[1]/div[2]/form/div[2]/label[count(. | //label[(text() = 'Your password' or . = 'Your password')]) = count(//label[(text() = 'Your password' or . = 'Your password')])]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>62de9389-b699-41ef-b9cb-aa205859262d</webElementGuid>
+      <webElementGuid>7ed0ad85-555d-4bd5-9840-95399457fcfe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,15 +33,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Your password</value>
-      <webElementGuid>e5e56739-f5b0-474a-9a57-b7743a802a7e</webElementGuid>
+      <webElementGuid>bfee61e5-fac9-44d2-b450-860ab89322b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;frmaccount&quot;)/div[@class=&quot;signin-form-group&quot;]/label[1]</value>
-      <webElementGuid>680e635d-01c8-40ec-84d8-9fcad7500336</webElementGuid>
+      <value>/html/body/div[4]/div[1]/div[1]/div[2]/form/div[2]/label</value>
+      <webElementGuid>39ef3145-3001-40fb-a2fd-bb1f64f54ba6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +49,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='frmaccount']/div[2]/label</value>
-      <webElementGuid>c9fe0432-97b1-4c56-9e47-e11ae8fabe70</webElementGuid>
+      <webElementGuid>324ded24-ce97-40c1-9382-caedd24620e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +57,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Your email/username'])[2]/following::label[1]</value>
-      <webElementGuid>9a5776c5-5479-4541-ae76-236fcfe6a15c</webElementGuid>
+      <webElementGuid>7d0c51d7-80e9-4cf8-a087-89db8b8a4a08</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +65,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot password?'])[1]/following::label[2]</value>
-      <webElementGuid>3fac295c-54e3-43b6-9c1f-66c741711bd0</webElementGuid>
+      <webElementGuid>3c625788-0dd9-4b44-883b-81288ef17178</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +73,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Reconfirm password'])[1]/preceding::label[1]</value>
-      <webElementGuid>da07ebe1-2bbd-4ef4-b0b1-f2d2b38fee19</webElementGuid>
+      <webElementGuid>0aa9fff4-0d5f-4921-8ed9-78d03b840582</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Notification email'])[1]/preceding::label[2]</value>
-      <webElementGuid>4a7d45f9-d9d2-4940-b1fd-5ce2a197e52e</webElementGuid>
+      <webElementGuid>fa645e69-428f-4afb-aaf8-1d5cbc32104b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +89,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/form/div[2]/label</value>
-      <webElementGuid>93e31dbb-1f49-4c81-a42f-29c81644461a</webElementGuid>
+      <webElementGuid>0f9c1863-78de-4647-824f-2838dcb69eda</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +97,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'Your password' or . = 'Your password')]</value>
-      <webElementGuid>8a46aef8-a417-407a-8caf-e2292220bbe2</webElementGuid>
+      <webElementGuid>d79c94d6-61b3-41ea-9841-b28be4857371</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

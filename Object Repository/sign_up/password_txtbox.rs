@@ -6,15 +6,19 @@
    <elementGuidId>51b67060-d2bd-46d1-bbcc-db1cd6bdee19</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>(//input[@name='password'])[2]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#frmaccount > div.signin-form-group > input[name=&quot;password&quot;]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//input[@name='password'])[2]</value>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div[1]/div[1]/div[2]/form/div[2]/input[count(. | //*[@type = 'password' and @name = 'password']) = count(//*[@type = 'password' and @name = 'password'])]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5a0cd644-104c-46a8-adba-051b0056aebf</webElementGuid>
+      <webElementGuid>8fc768c9-1636-484c-a87d-f059862774ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +34,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>3d44ac91-f185-4b86-bd55-1c2a155d4a1c</webElementGuid>
+      <webElementGuid>065d1da4-c49f-40d3-b4e8-03f8964ec92e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>name</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>ee775cc3-de3d-4bc8-a755-79cc41d39d6f</webElementGuid>
+      <webElementGuid>bf2205bb-8dd2-40b0-9e51-a61f836c2c96</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +50,15 @@
       <name>class</name>
       <type>Main</type>
       <value>singfrm-txtbox required</value>
-      <webElementGuid>f4106ceb-a9cf-4f10-83b3-acfe9295feb0</webElementGuid>
+      <webElementGuid>0fa7957e-79c5-4432-929f-b7a00a63b698</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;frmaccount&quot;)/div[@class=&quot;signin-form-group&quot;]/input[@class=&quot;singfrm-txtbox required&quot;]</value>
-      <webElementGuid>8aea30f0-8d8d-404f-acf7-0312b8938d76</webElementGuid>
+      <value>/html/body/div[4]/div[1]/div[1]/div[2]/form/div[2]/input</value>
+      <webElementGuid>67b71ad1-0094-435d-a8d4-8e6764a854f1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@name='password'])[2]</value>
-      <webElementGuid>67430b82-1aed-43f1-b4ac-d14cd2b19090</webElementGuid>
+      <webElementGuid>3ec006af-c2ed-4fcd-b14d-adb9b6919e12</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='frmaccount']/div[2]/input</value>
-      <webElementGuid>07575b36-a6c8-4929-b815-a1a8a0b56259</webElementGuid>
+      <webElementGuid>947baf9b-0db2-49d0-8450-5d2d83f88156</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/form/div[2]/input</value>
-      <webElementGuid>ea98b729-3fe9-49ac-b002-95c498b1821b</webElementGuid>
+      <webElementGuid>9c614d2b-480e-47eb-b411-0aae7a5198d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +90,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'password' and @name = 'password']</value>
-      <webElementGuid>a3d1ad98-b9c9-4c25-8be2-eca27b30b888</webElementGuid>
+      <webElementGuid>1799639d-3f25-4f3f-97ea-b17dc9811209</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

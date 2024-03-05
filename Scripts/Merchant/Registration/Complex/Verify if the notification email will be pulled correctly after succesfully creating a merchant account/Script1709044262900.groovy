@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.setText(findTestObject('sign_up/username_txtbox'), 'kenmerchant_automation8')
+/*WebUI.setText(findTestObject('sign_up/username_txtbox'), 'kenmerchant_automation8')
 
 WebUI.setText(findTestObject('sign_up/password_txtbox'), 'welcome8')
 
@@ -29,10 +29,10 @@ WebUI.click(findTestObject('sign_up/create_btn_2'))
 
 WebUI.waitForElementVisible(findTestObject('user settings/user_settings_txtlabel'), 0)
 
-WebUI.delay(15)
+WebUI.delay(15)*/
 
 WebUI.scrollToPosition(0, 500)
 
-WebUI.verifyElementAttributeValue(findTestObject('user settings/email_txtbox'), 'value', 'kentest06+kenmerchant_automation8@gmail.com', 
+WebUI.verifyElementAttributeValue(findTestObject('user settings/email_txtbox'), 'value', 'kentest06+kenmerchant_automation16@gmail.com', 
     0)
 
