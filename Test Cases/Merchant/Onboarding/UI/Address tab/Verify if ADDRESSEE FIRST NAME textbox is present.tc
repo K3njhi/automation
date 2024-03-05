@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if ADDRESSEE FIRST NAME textbox is present</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76a73a01-e485-4ff9-bb9b-b32938e057c8</testCaseGuid>
+</TestCaseEntity>

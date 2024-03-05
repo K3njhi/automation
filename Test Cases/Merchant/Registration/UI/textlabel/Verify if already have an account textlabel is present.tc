@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if already have an account textlabel is present</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>efabd992-0108-49ba-952e-a51cc25c2e9c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if create button in sign in page is clickable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3e7fb395-40b5-4293-aa84-7835deb60265</testCaseGuid>
+</TestCaseEntity>

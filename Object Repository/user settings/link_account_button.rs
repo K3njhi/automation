@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_account_button</name>
+   <tag></tag>
+   <elementGuidId>a02aef1c-1d74-407a-8328-1035b323b81b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div[2]/div/div[3]/div/div[1]/div/div[2]/div[3]/div[count(. | //div[@id = '15712-cash-on-delivery-cash-on-delivery2yqwr1tsnco1pi0nife6' and @class = 'btn-link-payment']) = count(//div[@id = '15712-cash-on-delivery-cash-on-delivery2yqwr1tsnco1pi0nife6' and @class = 'btn-link-payment'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='15712-cash-on-delivery-cash-on-delivery2yqwr1tsnco1pi0nife6']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#15712-cash-on-delivery-cash-on-delivery2yqwr1tsnco1pi0nife6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3f2f19a7-b02a-407d-bcc0-789ad166499c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>15712-cash-on-delivery-cash-on-delivery2yqwr1tsnco1pi0nife6</value>
+      <webElementGuid>1333091b-da9e-4755-be76-ced4e9e65fa2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>linkpayment</value>
+      <webElementGuid>2a4a1976-0d51-4b82-b443-c665d9218591</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-description</name>
+      <type>Main</type>
+      <value>By verifying this payment method, all your buyers will be able to checkout your items using Cash on Delivery and settlement has to be handled by you manually if they were to use this payment method.</value>
+      <webElementGuid>c67374ea-098a-4934-8e34-6461de07d61e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-link-payment</value>
+      <webElementGuid>b4da812e-ccdc-4ceb-859f-d137de9d2f16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                Link Account
+                                            </value>
+      <webElementGuid>94c2f8cd-9b07-4f8c-9b1b-0674d6eb91c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[4]/div[2]/div/div[3]/div/div[1]/div/div[2]/div[3]/div</value>
+      <webElementGuid>7ad91a1c-cdeb-43ae-9833-75126b61fba6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='15712-cash-on-delivery-cash-on-delivery2yqwr1tsnco1pi0nife6']</value>
+      <webElementGuid>0bdf7f15-ef3b-47f7-9aa6-c4efc69256fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='payment_acceptance']/div/div/div/div[2]/div[3]/div</value>
+      <webElementGuid>d09f8cd9-a75b-4985-b8dc-71ab80e5c538</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No account linked yet'])[1]/following::div[2]</value>
+      <webElementGuid>5b53d014-d06e-474b-b212-bbf1991140af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cash on delivery'])[1]/following::div[4]</value>
+      <webElementGuid>c751fb18-f644-4ad7-b957-51fa635f2b02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This payment method is compulsory.'])[1]/preceding::div[2]</value>
+      <webElementGuid>8f5a1874-3fbb-4c85-84af-86562b4c5d2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::div[3]</value>
+      <webElementGuid>a6787167-cb29-4763-8bb2-accdee07e720</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Link Account']/parent::*</value>
+      <webElementGuid>ca4b82f7-1eef-4b9e-ab44-8947cf3b6b47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[2]/div[3]/div</value>
+      <webElementGuid>9d894066-3c92-4021-b02f-90d0a2822083</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = '15712-cash-on-delivery-cash-on-delivery2yqwr1tsnco1pi0nife6' and @name = 'linkpayment' and (text() = '
+                                                Link Account
+                                            ' or . = '
+                                                Link Account
+                                            ')]</value>
+      <webElementGuid>8b6eba9c-572e-4db6-a54f-3418d2559d17</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

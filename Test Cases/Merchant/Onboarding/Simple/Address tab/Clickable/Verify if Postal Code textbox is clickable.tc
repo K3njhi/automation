@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if Postal Code textbox is clickable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6207953-1e18-40ac-bd57-f481f0c31644</testCaseGuid>
+</TestCaseEntity>

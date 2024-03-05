@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if clicking the cancel image button will delete the uploaded image</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6147e1c3-b81b-4e98-8e87-3834ccfa7a1e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>edit_image_btn</name>
+   <tag></tag>
+   <elementGuidId>71e80cb8-1f48-4c51-847f-a2f10c8f02d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[6]/div/div/div/div/div[3]/div[1][count(. | //div[@class = 'btn btn-info btn-edit' and @title = 'Edit']) = count(//div[@class = 'btn btn-info btn-edit' and @title = 'Edit'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b27ef229-ed44-4e56-881a-68e7b8e6c779</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-info btn-edit</value>
+      <webElementGuid>7547386d-8a43-4f81-b3e5-d3a3ec5428a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>03325d70-5cd6-4849-885c-ba4102f3fb2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[6]/div/div/div/div/div[3]/div[1]</value>
+      <webElementGuid>98e6ec90-afe1-4bb8-8d16-6af772aa1ef4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

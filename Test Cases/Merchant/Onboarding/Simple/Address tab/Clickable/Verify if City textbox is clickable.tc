@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if City textbox is clickable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>deb77456-6c61-4dde-9277-ccbae8248ae7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if leaving all the mandatory field empty will validate the textfields</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fdd7bf1e-0801-4fe3-a749-62e5b652e308</testCaseGuid>
+</TestCaseEntity>

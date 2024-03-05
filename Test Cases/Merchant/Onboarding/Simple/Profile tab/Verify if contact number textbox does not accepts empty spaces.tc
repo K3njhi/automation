@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if contact number textbox does not accepts empty spaces</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aabec379-b6a7-4290-8771-732d486800ec</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if link account button is clickable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7a8c4076-e9fe-4352-aca7-bd237b24ddc1</testCaseGuid>
+</TestCaseEntity>

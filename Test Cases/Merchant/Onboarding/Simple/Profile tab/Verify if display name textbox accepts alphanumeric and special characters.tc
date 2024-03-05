@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if display name textbox accepts alphanumeric and special characters</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f33471fa-59f9-45c3-a7ba-d20e06a70e8c</testCaseGuid>
+</TestCaseEntity>

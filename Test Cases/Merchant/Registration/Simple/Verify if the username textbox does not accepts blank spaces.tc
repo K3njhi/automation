@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if the username textbox does not accepts blank spaces</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>333aaf16-96ce-4468-a4ee-21ebd0e4df9f</testCaseGuid>
+</TestCaseEntity>

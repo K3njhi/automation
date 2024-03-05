@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if Link Account button is present</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>75fa7d19-2a05-4cf2-8133-43601e7e2020</testCaseGuid>
+</TestCaseEntity>

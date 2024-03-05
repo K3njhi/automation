@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if the notifcation email will validate for invalid email address format</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb6f0c77-cdc7-4d38-8626-bded27b2a5cf</testCaseGuid>
+</TestCaseEntity>

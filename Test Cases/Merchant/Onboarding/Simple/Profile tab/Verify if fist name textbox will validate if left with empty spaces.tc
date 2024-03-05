@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if fist name textbox will validate if left with empty spaces</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed447156-032c-4281-9318-2018d8084dc3</testCaseGuid>
+</TestCaseEntity>

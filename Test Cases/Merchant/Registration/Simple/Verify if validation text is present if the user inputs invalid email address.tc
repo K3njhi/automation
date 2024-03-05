@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if validation text is present if the user inputs invalid email address</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccf26c6f-f079-4189-8506-cd9dafcaa84c</testCaseGuid>
+</TestCaseEntity>

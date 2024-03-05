@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if Display Name textbox is clickable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6f7dc855-b94b-4b2a-b627-d09cf13621ad</testCaseGuid>
+</TestCaseEntity>

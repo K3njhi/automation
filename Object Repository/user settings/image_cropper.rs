@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>image_cropper</name>
+   <tag></tag>
+   <elementGuidId>8a315b2f-94ca-42ba-952a-b5ace2722446</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[6]/div/div/div/div/input[count(. | //input[@type = 'file' and @name = 'thumb']) = count(//input[@type = 'file' and @name = 'thumb'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>1fef468e-6e0b-4042-85d2-413d6199b096</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>file</value>
+      <webElementGuid>419027e6-3a67-4904-89c4-0ebbf2ede5c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>thumb</value>
+      <webElementGuid>5a2304b9-d9a2-4a7c-8983-a597a572bce8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[6]/div/div/div/div/input</value>
+      <webElementGuid>4213b8d3-5c06-41cc-a0f2-dd6554a574ff</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

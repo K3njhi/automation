@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if ADDRESS textbox is clickable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6c32b0c-c50f-4140-947f-0ff8f85d3245</testCaseGuid>
+</TestCaseEntity>

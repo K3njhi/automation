@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if register sign in textlabel is present</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5c201352-ab97-4882-b801-d2cce27bb323</testCaseGuid>
+</TestCaseEntity>

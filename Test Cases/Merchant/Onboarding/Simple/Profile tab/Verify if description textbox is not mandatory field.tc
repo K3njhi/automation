@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if description textbox is not mandatory field</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fcdeaea3-6bab-4507-8ace-b1226f2246cc</testCaseGuid>
+</TestCaseEntity>

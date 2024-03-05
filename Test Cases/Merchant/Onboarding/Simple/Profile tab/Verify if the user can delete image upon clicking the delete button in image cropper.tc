@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if the user can delete image upon clicking the delete button in image cropper</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>048f38cb-d55f-48d2-83a0-ce053e8fd725</testCaseGuid>
+</TestCaseEntity>

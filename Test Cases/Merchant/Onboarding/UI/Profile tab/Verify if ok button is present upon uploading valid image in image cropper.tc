@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if ok button is present upon uploading valid image in image cropper</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9de040ec-66f0-4f0a-bcd2-1c0a26ce8cbb</testCaseGuid>
+</TestCaseEntity>

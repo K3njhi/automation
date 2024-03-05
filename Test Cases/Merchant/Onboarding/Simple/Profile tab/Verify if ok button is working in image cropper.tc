@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if ok button is working in image cropper</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b91d62ec-3de9-4570-93c3-0093291a6dc8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if Next button in address tab is present</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7e2711d3-c8f1-4748-ab8c-6532d15b6d99</testCaseGuid>
+</TestCaseEntity>

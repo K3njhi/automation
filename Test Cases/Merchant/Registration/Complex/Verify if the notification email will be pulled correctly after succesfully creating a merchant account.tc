@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if the notification email will be pulled correctly after succesfully creating a merchant account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>99235b92-f7ac-41f0-a6f7-a6313629078a</testCaseGuid>
+</TestCaseEntity>

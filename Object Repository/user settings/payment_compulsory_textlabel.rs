@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>payment_compulsory_textlabel</name>
+   <tag></tag>
+   <elementGuidId>96778960-f158-4692-90f8-e5c0e60013e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div[2]/div/div[3]/div/div[1]/div/div[2]/div[4]/span[count(. | //span[(text() = 'This payment method is compulsory.' or . = 'This payment method is compulsory.')]) = count(//span[(text() = 'This payment method is compulsory.' or . = 'This payment method is compulsory.')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='payment_acceptance']/div/div/div/div[2]/div[4]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-xs-12.col-sm-2.verified > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>30ab466c-59d0-4ce8-902a-11fe9b568bd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>This payment method is compulsory.</value>
+      <webElementGuid>7a4ae409-a0d9-45cf-ab44-044ab4ae6f45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[4]/div[2]/div/div[3]/div/div[1]/div/div[2]/div[4]/span</value>
+      <webElementGuid>ac569be3-2841-480b-9a6c-32481ca5adb1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='payment_acceptance']/div/div/div/div[2]/div[4]/span</value>
+      <webElementGuid>ba7976e0-d339-430a-8b19-93eafdfdf9ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Link Account'])[1]/following::span[1]</value>
+      <webElementGuid>8db9aa19-16b8-48ff-b1c8-1911cc485ad7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No account linked yet'])[1]/following::span[1]</value>
+      <webElementGuid>5bdf4a03-bf98-4666-9c04-ef1e0731fb60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::span[1]</value>
+      <webElementGuid>417fae0a-91b7-4352-8ec6-b830eec666f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACCOUNT CONFIGURATION'])[1]/preceding::span[1]</value>
+      <webElementGuid>dba58752-c09a-4caf-9e0f-51164912fb84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='This payment method is compulsory.']/parent::*</value>
+      <webElementGuid>0813be40-4924-4c3c-b62d-93f34b155e47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[4]/span</value>
+      <webElementGuid>b9b99751-d1ee-4abf-8b93-a1a3ab086203</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'This payment method is compulsory.' or . = 'This payment method is compulsory.')]</value>
+      <webElementGuid>835f348a-8250-4e26-b538-870c106dd0ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

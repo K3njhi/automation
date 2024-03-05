@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>uploaded_image_container</name>
+   <tag></tag>
+   <elementGuidId>2f1dd85d-36ab-4a42-a892-3f9952efeb2c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[6]/div/div/div/div/div[1]/img[count(. | //img[@class = 'main']) = count(//img[@class = 'main'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>8c201710-56ce-4130-8b74-183d6d02e2f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>pexels-lisa-fotios-15669613.jpg</value>
+      <webElementGuid>457f6ac8-75ee-4a6c-ad88-c6f3376ecb0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[6]/div/div/div/div/div[1]/img</value>
+      <webElementGuid>72099713-be02-4520-b923-0901929a25aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>main</value>
+      <webElementGuid>3be52968-d4e1-4c64-9974-efce4f368c22</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

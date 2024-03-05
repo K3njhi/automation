@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if cancel image button is clickable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc695e0c-5adf-41de-9cce-cbee32be8cef</testCaseGuid>
+</TestCaseEntity>

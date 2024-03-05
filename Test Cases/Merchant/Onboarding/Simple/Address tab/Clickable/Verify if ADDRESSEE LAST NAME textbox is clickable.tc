@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if ADDRESSEE LAST NAME textbox is clickable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>78bde3b3-b7bd-43ca-8e4f-4a46fc0702ef</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if the user can edit image upon clicking the edit button in image cropper</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4d61c3a0-0dc9-470c-9a38-3553978078b6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if Notification Email textbox is present</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6d11c2cc-a40c-417b-8f8c-b935845d08f2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if COUNTRY textlabel is present</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a835e107-aeb9-4cb5-8af0-3127f9b67199</testCaseGuid>
+</TestCaseEntity>

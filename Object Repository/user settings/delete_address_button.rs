@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>delete_address_button</name>
+   <tag></tag>
+   <elementGuidId>3ad11da4-123d-414e-bf7f-b90977ba3b81</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div[2]/div/div[2]/div/div[2]/div[3]/div[1]/div/div[2]/a/i[count(. | //i[@class = 'icon icon-remove']) = count(//i[@class = 'icon icon-remove'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='120877']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon.icon-remove</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>0caf07b7-b78a-4a8f-910f-56e01b209d17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon icon-remove</value>
+      <webElementGuid>de066f05-3710-4a94-bfe0-5f6c14dc7ad2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[4]/div[2]/div/div[2]/div/div[2]/div[3]/div[1]/div/div[2]/a/i</value>
+      <webElementGuid>aed77e36-9feb-4821-99e0-a50f10ce994c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='120877']/i</value>
+      <webElementGuid>eef66ac6-14b4-46a2-9bbc-49657c8f6e8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/i</value>
+      <webElementGuid>c71a7b65-6744-44e6-893e-b623aff94ae6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

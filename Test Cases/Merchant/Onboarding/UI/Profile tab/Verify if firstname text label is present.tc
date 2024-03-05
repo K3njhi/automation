@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if firstname text label is present</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eee6550c-b330-4e8d-a2bb-c1fcc15dbf6d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if ok button is clickable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>00493dcb-b590-4f51-a887-27d9bbd4845a</testCaseGuid>
+</TestCaseEntity>

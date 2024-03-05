@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if display name textbox will validate if left empty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>41a88b0c-f845-4244-aa52-fc8a0c481a98</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if last name textbox will validate if left with empty spaces</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>496d3b75-67ed-4e1e-84fc-0e624d4e74d6</testCaseGuid>
+</TestCaseEntity>

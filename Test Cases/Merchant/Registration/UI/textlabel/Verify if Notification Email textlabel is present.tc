@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if Notification Email textlabel is present</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a51f5eee-4ec0-49a8-b56e-d194f52ea0ea</testCaseGuid>
+</TestCaseEntity>

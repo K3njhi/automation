@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if user settings textlabel is present</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db5132a9-6592-4eba-b4c1-d6dfc18ece75</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>already_have_an_acct_txtlabel</name>
+   <tag></tag>
+   <elementGuidId>de7833e5-f968-40f6-98b1-4d866a59b687</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#frmaccount > div.forgotpass-link > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick='AlreadyAccount()']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6ff43c43-e6f8-428f-909a-dab509d573b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+      <webElementGuid>73bc0275-dea6-45a0-a8b7-550654dcc4fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>AlreadyAccount()</value>
+      <webElementGuid>ce7427fd-9c87-4646-93fd-f9f0a765dcdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Already have an account?</value>
+      <webElementGuid>e1e37815-ba06-46df-96e8-69df48f1a006</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmaccount&quot;)/div[@class=&quot;forgotpass-link&quot;]/a[1]</value>
+      <webElementGuid>bce704d1-4a66-4a7e-a728-482c08593f0a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick='AlreadyAccount()']</value>
+      <webElementGuid>01c6dfdf-87dd-4f68-bf40-a3ab870e4902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmaccount']/div[6]/a</value>
+      <webElementGuid>e290b3b2-cf93-400e-9161-a96b6258661d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Already have an account?')]</value>
+      <webElementGuid>c6eb5c79-4503-4332-b33c-80d0ec158fef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notification email'])[1]/following::a[1]</value>
+      <webElementGuid>dfd4cdc7-95c9-4197-b610-fc2a27d12801</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reconfirm password'])[1]/following::a[1]</value>
+      <webElementGuid>41bcdd52-9688-4894-b554-097535c3103f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::a[1]</value>
+      <webElementGuid>86c5680e-dd10-4721-b448-5d07217c0d24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ABOUT US'])[1]/preceding::a[1]</value>
+      <webElementGuid>1aece585-f250-4bdb-a650-3a7fdef3ae5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Already have an account?']/parent::*</value>
+      <webElementGuid>4d4326c6-b40b-4359-a327-37c447658c1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:void(0);')]</value>
+      <webElementGuid>96362566-33dd-4e67-831f-cff6d0b2160c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/a</value>
+      <webElementGuid>a87ec770-10e0-43d2-8bb9-73d136d98a77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0);' and (text() = 'Already have an account?' or . = 'Already have an account?')]</value>
+      <webElementGuid>b6e2bdc9-fc36-4f13-b3b8-683c150621dd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

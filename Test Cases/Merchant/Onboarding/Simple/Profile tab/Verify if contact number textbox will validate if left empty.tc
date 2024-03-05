@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if contact number textbox will validate if left empty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e200e09f-cb0b-4444-afc4-8853772bc168</testCaseGuid>
+</TestCaseEntity>

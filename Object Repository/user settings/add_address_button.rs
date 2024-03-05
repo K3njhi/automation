@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>add_address_button</name>
+   <tag></tag>
+   <elementGuidId>27c7b3c0-e27a-4373-bf00-2314bcc2b418</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div[2]/div/div[2]/div/div[1]/form/div[4]/input[count(. | //input[@type = 'button' and @value = 'ADD ADDRESS' and @class = 'my-btn btn-black']) = count(//input[@type = 'button' and @value = 'ADD ADDRESS' and @class = 'my-btn btn-black'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='ADD ADDRESS']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.my-btn.btn-black</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>c705e5bb-b351-4768-b715-88924b3fa7d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>43379d4c-e4dd-4df0-9cff-fc250bea4366</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>ADD ADDRESS</value>
+      <webElementGuid>9e190098-7e3c-4761-b92b-25d555a532f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>add_address(event)</value>
+      <webElementGuid>7b58b251-409c-4c78-acaa-c7bcfda7c590</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>my-btn btn-black</value>
+      <webElementGuid>fa387fc4-3c18-4b84-a6b0-31dbb1de90bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[4]/div[2]/div/div[2]/div/div[1]/form/div[4]/input</value>
+      <webElementGuid>a19fd61d-5376-4a0e-852c-7d9c30ca8c6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='ADD ADDRESS']</value>
+      <webElementGuid>9c90e45b-8e3e-450d-bf3a-cf531fed0e57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='address-form']/div[4]/input</value>
+      <webElementGuid>2215cc02-8a7c-4b54-b963-de08f45d8d09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[4]/input</value>
+      <webElementGuid>6b3c4877-068f-468a-a402-473f9fb9339d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'button']</value>
+      <webElementGuid>66c95d00-a3f4-4045-be99-834cb768974b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Google_btn</name>
+   <tag></tag>
+   <elementGuidId>0d0cc1a0-553b-406a-829a-01f061edb512</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div[1]/div[1]/div[1]/div[1]/form/div/a[count(. | //a[@class = 'login-btn btn-google']) = count(//a[@class = 'login-btn btn-google'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8cd9a5dd-8db7-438b-b932-f47e63337f76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>login-btn btn-google</value>
+      <webElementGuid>55fbdbf9-d668-4dc5-a769-8b6700e18099</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[4]/div[1]/div[1]/div[1]/div[1]/form/div/a</value>
+      <webElementGuid>ea64be65-f62a-476e-8aec-e23d90d7adcb</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

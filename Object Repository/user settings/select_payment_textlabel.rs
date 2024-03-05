@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_payment_textlabel</name>
+   <tag></tag>
+   <elementGuidId>d5589363-10a4-4877-99eb-f9f528218fa4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div[2]/div/div[3]/div/div[1]/div/div[1]/p[2][count(. | //p[(text() = 'Select your preferred payment method.' or . = 'Select your preferred payment method.')]) = count(//p[(text() = 'Select your preferred payment method.' or . = 'Select your preferred payment method.')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='payment_acceptance']/div/div/div/div/p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>504439f0-4e85-4bc8-9391-1e2939049034</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select your preferred payment method.</value>
+      <webElementGuid>843f81fe-ab51-4a06-ac5a-486bcb400121</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[4]/div[2]/div/div[3]/div/div[1]/div/div[1]/p[2]</value>
+      <webElementGuid>fea547c4-1194-4446-a206-8f76dfcdb6e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='payment_acceptance']/div/div/div/div/p[2]</value>
+      <webElementGuid>e42e2507-250e-4c9a-97b8-98c960ff045b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Method'])[1]/following::p[1]</value>
+      <webElementGuid>91b97d11-cb11-4c23-8dc9-b46d9aeca76d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NEXT'])[2]/following::p[2]</value>
+      <webElementGuid>ce2d30e1-46a8-4e49-97cb-2463c671e168</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cash on delivery'])[1]/preceding::p[1]</value>
+      <webElementGuid>7d33167b-554d-4516-95ab-3e52020a6da7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No account linked yet'])[1]/preceding::p[1]</value>
+      <webElementGuid>9b8c7254-0ac6-45a2-a476-76e31a76bb27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select your preferred payment method.']/parent::*</value>
+      <webElementGuid>81a6b9f4-bd3d-4208-8d2e-2944681f39a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>49164881-243f-474d-902e-67a644f60ecc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Select your preferred payment method.' or . = 'Select your preferred payment method.')]</value>
+      <webElementGuid>43cc24c4-66a5-42e2-a3b8-e1ea6c51732d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

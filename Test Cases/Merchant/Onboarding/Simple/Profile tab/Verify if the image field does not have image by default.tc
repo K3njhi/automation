@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if the image field does not have image by default</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f914b1b1-68be-4212-a911-ad5fb32da038</testCaseGuid>
+</TestCaseEntity>
