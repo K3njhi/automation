@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if display name textbox will validate if the user input empty spaces</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aafe2608-9f5f-425d-8a28-5510dacd608d</testCaseGuid>
+</TestCaseEntity>

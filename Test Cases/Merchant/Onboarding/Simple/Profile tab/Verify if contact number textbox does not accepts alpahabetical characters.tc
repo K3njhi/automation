@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if contact number textbox does not accepts alpahabetical characters</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dda7e911-6076-4675-85a0-ce920c064505</testCaseGuid>
+</TestCaseEntity>

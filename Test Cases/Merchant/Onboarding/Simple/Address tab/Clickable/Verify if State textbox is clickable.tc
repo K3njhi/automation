@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if State textbox is clickable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c79013fc-0193-4e68-af2b-93c350e3ae8e</testCaseGuid>
+</TestCaseEntity>

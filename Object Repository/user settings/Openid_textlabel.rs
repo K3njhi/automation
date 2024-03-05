@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Openid_textlabel</name>
+   <tag></tag>
+   <elementGuidId>115956dc-b0d3-4670-898d-697bdcc76dda</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;profile&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;seller-common-box&quot;]/form[1]/div[@class=&quot;item-form-group&quot;]/div[@class=&quot;col-md-6&quot;]/label[1][count(. | //label[(text() = 'OPENID LOGIN' or . = 'OPENID LOGIN')]) = count(//label[(text() = 'OPENID LOGIN' or . = 'OPENID LOGIN')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='profile']/div/div/form/div[6]/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>6b063ba0-4115-4ade-8a1c-c0e3a454acf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OPENID LOGIN</value>
+      <webElementGuid>4e391492-4180-42d8-952d-654c04231b96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;profile&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;seller-common-box&quot;]/form[1]/div[@class=&quot;item-form-group&quot;]/div[@class=&quot;col-md-6&quot;]/label[1]</value>
+      <webElementGuid>b8fe9ee8-2acd-4eb5-9537-26ab3523e091</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='profile']/div/div/form/div[6]/div/label</value>
+      <webElementGuid>f419a888-077c-4d64-879c-0a176539183d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTACT NUMBER'])[1]/following::label[1]</value>
+      <webElementGuid>4d2a0634-995b-4af6-81e6-11db267980a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NOTIFICATION EMAIL'])[1]/following::label[2]</value>
+      <webElementGuid>7f3786c6-15b3-4c0b-8d25-19fab887cffb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seller Location'])[1]/preceding::label[1]</value>
+      <webElementGuid>f3b73ff9-d81c-4e39-8e30-151a6b136080</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NEXT'])[1]/preceding::label[2]</value>
+      <webElementGuid>c2ffa6f5-e029-4085-abf3-b066d302e79b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='OPENID LOGIN']/parent::*</value>
+      <webElementGuid>f41b78cf-7866-4b01-8071-8cdaa6346997</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/label</value>
+      <webElementGuid>ade6ccd5-d2dd-4f3c-a9ca-ebe9f05cb064</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'OPENID LOGIN' or . = 'OPENID LOGIN')]</value>
+      <webElementGuid>4782fcbf-b0cc-4c04-8994-59fee24361b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

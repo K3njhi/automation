@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if ADDRESSEE FIRST NAME textlabel is present</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6063d9d-71ff-4e25-9fb3-d998f9b47b4a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fname_textlabel</name>
+   <tag></tag>
+   <elementGuidId>e9215514-4311-4cd3-80e2-883dfda7040a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;profile&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;seller-common-box&quot;]/form[1]/div[@class=&quot;item-form-group&quot;]/div[@class=&quot;col-md-6&quot;]/label[1][count(. | //label[(text() = 'FIRST NAME' or . = 'FIRST NAME')]) = count(//label[(text() = 'FIRST NAME' or . = 'FIRST NAME')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='profile']/div/div/form/div[4]/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>60652c87-c0bd-4739-9fcc-eb791a2fb948</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FIRST NAME</value>
+      <webElementGuid>126129bd-2a8c-4267-ac2f-baa87a4c4e61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;profile&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;seller-common-box&quot;]/form[1]/div[@class=&quot;item-form-group&quot;]/div[@class=&quot;col-md-6&quot;]/label[1]</value>
+      <webElementGuid>efe605ca-edcf-4c4d-9c84-d13813514141</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='profile']/div/div/form/div[4]/div/label</value>
+      <webElementGuid>9355da68-dbf2-494c-8687-9896a7507f0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DESCRIPTION'])[1]/following::label[1]</value>
+      <webElementGuid>1039055d-89f5-4992-89be-a05b0fa1331b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DISPLAY NAME'])[1]/following::label[2]</value>
+      <webElementGuid>b9d65996-e654-4911-b0e7-441a31155781</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LAST NAME'])[1]/preceding::label[1]</value>
+      <webElementGuid>0c1c2715-8ec1-43e3-9d02-3b816f9de37b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NOTIFICATION EMAIL'])[1]/preceding::label[2]</value>
+      <webElementGuid>39dbd5ea-81e5-45d5-a16c-1ed8da83687a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='FIRST NAME']/parent::*</value>
+      <webElementGuid>fd976e03-d614-4fb9-8149-ff1b2faf3c61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/label</value>
+      <webElementGuid>3f992ad2-8578-405d-863e-4e879b9a12f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'FIRST NAME' or . = 'FIRST NAME')]</value>
+      <webElementGuid>dff4c175-3956-42c8-941c-64a1f87f9fca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

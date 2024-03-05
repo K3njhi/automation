@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if image cropper will be present upon clicking the change button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d036ffde-ebcd-4cd5-aae0-7805ba7e3921</testCaseGuid>
+</TestCaseEntity>

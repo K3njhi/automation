@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if zoom out button is clickable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0892153a-a069-4b54-a6b9-b040b2decda1</testCaseGuid>
+</TestCaseEntity>

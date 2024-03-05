@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>address_textlabel</name>
+   <tag></tag>
+   <elementGuidId>0492954c-79ed-401f-978d-eb9368759530</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div[2]/div/div[2]/div/div[1]/form/div[2]/div/label[count(. | //label[(text() = 'ADDRESS' or . = 'ADDRESS')]) = count(//label[(text() = 'ADDRESS' or . = 'ADDRESS')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='address-form']/div[2]/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-12.gutter-30 > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>de4a59d2-b1d1-44f0-a069-9a76619b3d37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ADDRESS</value>
+      <webElementGuid>f86e438f-6274-4f18-a81d-82bc9ef74776</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[4]/div[2]/div/div[2]/div/div[1]/form/div[2]/div/label</value>
+      <webElementGuid>ef150c65-5443-4fdc-85f1-f2d1a49fd604</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='address-form']/div[2]/div/label</value>
+      <webElementGuid>183e43c4-6c99-451c-bce2-801a08ca7eed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ADDRESSEE LAST NAME'])[1]/following::label[1]</value>
+      <webElementGuid>5a121d31-6e74-432d-aa65-2fb9aa799a0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ADDRESSEE FIRST NAME'])[1]/following::label[2]</value>
+      <webElementGuid>3b776c15-1e67-4b53-a621-26200a96bba4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COUNTRY'])[1]/preceding::label[1]</value>
+      <webElementGuid>caf30f47-dda9-41f3-99fc-9aecfec5b2a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='STATE'])[1]/preceding::label[2]</value>
+      <webElementGuid>7bfdffea-bb79-4a43-8f57-26c28d89ca76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/form/div[2]/div/label</value>
+      <webElementGuid>64b4ecb8-3af6-4c7e-80a4-4e6171d762b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'ADDRESS' or . = 'ADDRESS')]</value>
+      <webElementGuid>11b02d5e-e2bd-4617-88ad-60cfec27f403</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if Description textbox is clickable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8733d37-6222-4fa3-9b3e-44b41320e5bd</testCaseGuid>
+</TestCaseEntity>

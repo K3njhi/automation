@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>seller_location_textlabel</name>
+   <tag></tag>
+   <elementGuidId>6c70ed0c-ed68-4b41-9ecf-ff43429a1042</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;profile&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;seller-common-box&quot;]/form[1]/div[@class=&quot;item-form-group&quot;]/div[@class=&quot;col-md-6&quot;]/label[1][count(. | //label[(text() = 'Seller Location' or . = 'Seller Location')]) = count(//label[(text() = 'Seller Location' or . = 'Seller Location')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='profile']/div/div/form/div[6]/div[2]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>8973c3dc-ffb0-4cb8-bc38-48fb01ffe74d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Seller Location</value>
+      <webElementGuid>52a5b1bc-d2f0-4cce-8249-93877bed9ec9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;profile&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;seller-common-box&quot;]/form[1]/div[@class=&quot;item-form-group&quot;]/div[@class=&quot;col-md-6&quot;]/label[1]</value>
+      <webElementGuid>8160b72a-be0e-4b2a-9474-dd8e628d7a9d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='profile']/div/div/form/div[6]/div[2]/label</value>
+      <webElementGuid>69e0ab2e-0de2-4955-9255-525b18b8d7fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OPENID LOGIN'])[1]/following::label[1]</value>
+      <webElementGuid>27eb7021-5bde-4c61-a0c8-bfb7a06c8746</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTACT NUMBER'])[1]/following::label[2]</value>
+      <webElementGuid>4aa4dae1-4265-4f14-8bde-117251bf24f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NEXT'])[1]/preceding::label[1]</value>
+      <webElementGuid>d52f6f18-1a9b-4146-8f0f-3aa0a2257ea6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NEW DELIVERY ADDRESS'])[1]/preceding::label[1]</value>
+      <webElementGuid>cccb7f70-925a-48e7-a565-0a655c3f7dfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Seller Location']/parent::*</value>
+      <webElementGuid>a67a7b0b-e0c3-4f3f-90e7-4324592a54dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/label</value>
+      <webElementGuid>c120778b-395f-4722-9267-34edc0dcf452</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Seller Location' or . = 'Seller Location')]</value>
+      <webElementGuid>6c62eb57-9f32-421a-815b-5c1178a03ed1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

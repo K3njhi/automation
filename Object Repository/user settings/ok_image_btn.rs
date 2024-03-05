@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ok_image_btn</name>
+   <tag></tag>
+   <elementGuidId>1db03802-5292-4757-8854-feb35a54277b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[6]/div/div/div/div/div[2]/div[5][count(. | //div[@title = 'Ok' and @class = 'btn btn-success btn-ok']) = count(//div[@title = 'Ok' and @class = 'btn btn-success btn-ok'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>83ec4317-4bd0-44b7-a4d3-11c09aef264c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Ok</value>
+      <webElementGuid>100100f2-3998-4f36-8145-98f8e43fcafa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-success btn-ok</value>
+      <webElementGuid>c232b935-4104-4b0f-bed3-467a26f58132</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[6]/div/div/div/div/div[2]/div[5]</value>
+      <webElementGuid>17b11b14-a946-42c7-b65f-9ee9ad4b820b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

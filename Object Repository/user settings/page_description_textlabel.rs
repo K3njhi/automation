@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>page_description_textlabel</name>
+   <tag></tag>
+   <elementGuidId>5feac03b-e346-4363-95a1-ae4c459d0ee3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div[1]/div/div/p[count(. | //p[(text() = 'Configure your profile, your delivery methods and how you receive payments.' or . = 'Configure your profile, your delivery methods and how you receive payments.')]) = count(//p[(text() = 'Configure your profile, your delivery methods and how you receive payments.' or . = 'Configure your profile, your delivery methods and how you receive payments.')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>7b763ec7-de2f-44e3-8eba-2e3047501e3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Configure your profile, your delivery methods and how you receive payments.</value>
+      <webElementGuid>1fee1a1f-d268-41d5-ab6b-e104ca593945</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[4]/div[1]/div/div/p</value>
+      <webElementGuid>c36e362b-1c63-4de8-a465-7174a258ee64</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

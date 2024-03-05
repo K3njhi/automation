@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if clicking the be a seller textlabel will redirect the user to sign in page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>39a6a906-f187-4765-a04c-e4efad1e0fea</testCaseGuid>
+</TestCaseEntity>

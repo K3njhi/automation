@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>cancel_image_btn</name>
+   <tag></tag>
+   <elementGuidId>296ab760-76ce-416c-a176-fd7b0ede5d5c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[6]/div/div/div/div/div[2]/div[4][count(. | //div[@class = 'btn btn-danger btn-cancel' and @title = 'Cancel']) = count(//div[@class = 'btn btn-danger btn-cancel' and @title = 'Cancel'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e77bd629-a03e-4eff-b2ee-4302927d74c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-danger btn-cancel</value>
+      <webElementGuid>0352ed98-e7bd-459c-b49b-7337ef74eb2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Cancel</value>
+      <webElementGuid>ca953418-0be2-4857-bf85-eb1a15074041</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[6]/div/div/div/div/div[2]/div[4]</value>
+      <webElementGuid>07e11520-621f-4a5b-a75d-e8959c5b7cd4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

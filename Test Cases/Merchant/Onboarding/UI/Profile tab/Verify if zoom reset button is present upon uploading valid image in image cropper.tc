@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if zoom reset button is present upon uploading valid image in image cropper</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccd6a9f6-5e68-4916-93d2-0203db535033</testCaseGuid>
+</TestCaseEntity>

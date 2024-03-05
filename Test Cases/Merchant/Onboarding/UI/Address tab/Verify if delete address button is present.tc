@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if delete address button is present</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>30c33f0f-7b77-45f0-8889-291641ee804a</testCaseGuid>
+</TestCaseEntity>

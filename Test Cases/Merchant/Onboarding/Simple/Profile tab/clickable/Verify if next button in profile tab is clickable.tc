@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if next button in profile tab is clickable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1555aa6-d5eb-410c-8312-484c4d8249df</testCaseGuid>
+</TestCaseEntity>

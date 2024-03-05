@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if create account button in sign up page is present</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2a3a60f5-c60f-4050-947c-4c92e8687086</testCaseGuid>
+</TestCaseEntity>

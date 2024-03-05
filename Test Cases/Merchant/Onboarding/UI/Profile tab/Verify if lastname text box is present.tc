@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if lastname text box is present</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e94b7637-9716-4614-ae91-28dff866e315</testCaseGuid>
+</TestCaseEntity>

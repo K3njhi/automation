@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if ok button tool tip is present upon hovering the mouse into it</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb81c0b5-328c-44c9-9c74-65cbb79a8677</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>country_textlabel</name>
+   <tag></tag>
+   <elementGuidId>1c18da35-8437-410a-bc4a-be5cb3762893</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div[2]/div/div[2]/div/div[1]/form/div[3]/div[1]/label[count(. | //label[(text() = 'COUNTRY' or . = 'COUNTRY')]) = count(//label[(text() = 'COUNTRY' or . = 'COUNTRY')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='address-fields']/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#address-fields > div.col-md-6.gutter-30 > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>287c0347-2a99-42e9-97a1-6c8af27235d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>COUNTRY</value>
+      <webElementGuid>484369d4-851a-4eac-9e9d-6d9fd04fd62d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[4]/div[2]/div/div[2]/div/div[1]/form/div[3]/div[1]/label</value>
+      <webElementGuid>4a3dc4bc-0684-44f9-80f5-f71fc172da86</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='address-fields']/div/label</value>
+      <webElementGuid>76d95f63-ff26-4b46-8c47-15682b580a0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ADDRESS'])[2]/following::label[1]</value>
+      <webElementGuid>027d2073-a1da-4a96-b423-7374b4eac227</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ADDRESSEE LAST NAME'])[1]/following::label[2]</value>
+      <webElementGuid>f607de47-f2af-485d-8e41-3b11ea283f22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='STATE'])[1]/preceding::label[1]</value>
+      <webElementGuid>40c80d3c-de07-4e25-a4d2-f7c8df1e9942</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CITY'])[1]/preceding::label[2]</value>
+      <webElementGuid>c7c742a1-ae79-4c1c-a122-2b4eb224d756</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='COUNTRY']/parent::*</value>
+      <webElementGuid>2a1f9974-e21b-4479-825b-270b95ce99a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/form/div[3]/div/label</value>
+      <webElementGuid>5bab735b-a5ae-4e1f-a206-199e693fb251</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'COUNTRY' or . = 'COUNTRY')]</value>
+      <webElementGuid>3b58031c-75ad-4ac9-9816-8065fdf1d968</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

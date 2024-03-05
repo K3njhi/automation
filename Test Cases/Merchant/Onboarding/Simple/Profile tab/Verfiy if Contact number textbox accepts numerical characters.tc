@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verfiy if Contact number textbox accepts numerical characters</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>85f06281-cdaf-4523-b10f-a2a3322d6c94</testCaseGuid>
+</TestCaseEntity>

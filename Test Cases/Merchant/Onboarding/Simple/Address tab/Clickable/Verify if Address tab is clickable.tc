@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if Address tab is clickable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8d881ea2-e5ca-4df5-a584-5192ac152165</testCaseGuid>
+</TestCaseEntity>

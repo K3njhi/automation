@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>delete_image_btn</name>
+   <tag></tag>
+   <elementGuidId>358b80b0-60db-43bc-a7f9-679dc7ce0c7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[6]/div/div/div/div/div[3]/div[2][count(. | //div[@class = 'btn btn-danger btn-del' and @title = 'Delete']) = count(//div[@class = 'btn btn-danger btn-del' and @title = 'Delete'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>34c64b0c-40aa-422f-961f-888523891f6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-danger btn-del</value>
+      <webElementGuid>3ff710d6-be1f-4546-b43a-b11aefd146ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Delete</value>
+      <webElementGuid>091fcd77-a7d2-4a3d-8200-8472aa3ac031</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[6]/div/div/div/div/div[3]/div[2]</value>
+      <webElementGuid>5eee9709-8c9e-4781-b9e5-296c74f094c3</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

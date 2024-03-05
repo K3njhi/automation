@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if username textbox is present</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff5cac49-2fbb-4447-9ef5-f23951d66a6d</testCaseGuid>
+</TestCaseEntity>

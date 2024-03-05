@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if cancel button tool tip is present upon hovering the mouse into it</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f86a90cf-1bea-4caa-8493-f159e721363e</testCaseGuid>
+</TestCaseEntity>

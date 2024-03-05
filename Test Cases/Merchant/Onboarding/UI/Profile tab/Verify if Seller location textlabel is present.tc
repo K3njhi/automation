@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if Seller location textlabel is present</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>41054a08-d6e1-4881-922e-8ff1e1f16e78</testCaseGuid>
+</TestCaseEntity>

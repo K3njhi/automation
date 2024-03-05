@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if State textbox is present</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac2a96b0-e39e-4a7c-9121-2fc557984829</testCaseGuid>
+</TestCaseEntity>

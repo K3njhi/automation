@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if Select your preferred payment method textlabel is present</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>50863ef8-a1cb-402e-8339-7efe955ac8d6</testCaseGuid>
+</TestCaseEntity>

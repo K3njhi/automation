@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if Next button in address tab is clickable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f427e850-122c-4a52-b94a-11b6b1c76190</testCaseGuid>
+</TestCaseEntity>

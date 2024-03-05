@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if clicking the save image button will pulled correctly on image field</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e390041b-1178-4225-9ef7-260fcb97bae0</testCaseGuid>
+</TestCaseEntity>

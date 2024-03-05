@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if For each transaction that is made through the marketplace there will be a seller transaction fee of 0 text label is present</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3261ed53-47ab-49e9-a615-fa77036a8739</testCaseGuid>
+</TestCaseEntity>
