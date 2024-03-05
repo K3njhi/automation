@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.verifyElementPresent(findTestObject('sign_up/password_txtbox'), 0)
+WebUI.verifyElementPresent(findTestObject('sign_up/reconfirm_pas_txtbox'), 0)
 
-WebUI.waitForElementVisible(findTestObject('sign_up/password_txtbox'), 0)
+WebUI.waitForElementVisible(findTestObject('sign_up/reconfirm_pas_txtbox'), 0)
 

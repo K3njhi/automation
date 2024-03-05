@@ -54,13 +54,6 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>cddb395c-21f7-4b05-b5fc-f7e0497f61eb</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Merchant/Registration/UI/textlabel/Verify if Your Password textlabel is present</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>18c9e244-7c1d-49af-b52f-6c5ce87ad376</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
@@ -99,7 +92,14 @@
       <guid>299c6fb3-a97b-4009-ab62-adf55c058f25</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Merchant/Registration/UI/textbox/Verify if password textlabel is present</testCaseId>
+      <testCaseId>Test Cases/Merchant/Registration/UI/textbox/Verify if your password textbox is present</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>cddb395c-21f7-4b05-b5fc-f7e0497f61eb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Registration/UI/textlabel/Verify if Your Password textlabel is present</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
