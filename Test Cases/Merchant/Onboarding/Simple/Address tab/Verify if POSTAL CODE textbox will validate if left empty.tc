@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if POSTAL CODE textbox will validate if left empty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3fd5aa43-6047-4685-b78f-4294b03c42e3</testCaseGuid>
+</TestCaseEntity>

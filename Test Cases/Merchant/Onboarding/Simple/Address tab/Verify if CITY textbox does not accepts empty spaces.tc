@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if CITY textbox does not accepts empty spaces</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf0931de-6dcf-439b-bebb-ab58931e0827</testCaseGuid>
+</TestCaseEntity>

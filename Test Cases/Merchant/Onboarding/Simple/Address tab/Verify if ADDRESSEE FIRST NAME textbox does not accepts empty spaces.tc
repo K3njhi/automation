@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if ADDRESSEE FIRST NAME textbox does not accepts empty spaces</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0aa58250-9b67-40c3-ad3f-bed0bcffe7c3</testCaseGuid>
+</TestCaseEntity>

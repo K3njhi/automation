@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if ADDRESSEE LAST NAME textbox accepts alphanumerical and special characters</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3d710f1-2422-4222-b781-cc27e46cfda4</testCaseGuid>
+</TestCaseEntity>

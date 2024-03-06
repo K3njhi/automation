@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if CITY textbox accepts alphanumerical and special characters</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d78bd118-e491-4620-a06b-316ccd9fbac1</testCaseGuid>
+</TestCaseEntity>

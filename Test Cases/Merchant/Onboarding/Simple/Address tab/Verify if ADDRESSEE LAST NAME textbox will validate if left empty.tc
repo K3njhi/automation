@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if ADDRESSEE LAST NAME textbox will validate if left empty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8d007e2-8cf3-45dc-b7ba-10ac1307928f</testCaseGuid>
+</TestCaseEntity>
