@@ -17,15 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.callTestCase(findTestCase('reusable test case/Log in'), [:], FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.maximizeWindow()
+WebUI.callTestCase(findTestCase('reusable test case/scroll down'), [:], FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.navigateToUrl('https://bespokeautomationken.test.arcadier.io/user/marketplace/customlogin?isSeller=false&returnUrl=https%3A%2F%2Fbespokeautomationken.test.arcadier.io%2F')
+WebUI.callTestCase(findTestCase('reusable test case/click next button in profile tab'), [:], FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.setText(findTestObject('Sign in page/input_Your emailusername_username'), 'kenmerchant_automation3')
+WebUI.scrollToElement(findTestObject('user settings/user_settings_txtlabel'), 0)
 
-WebUI.setText(findTestObject('Sign in page/input_Your password_password'), 'welcome8')
+WebUI.click(findTestObject('user settings/country_dd'))
 
-WebUI.click(findTestObject('Sign in page/Sign_in_button'))
+WebUI.selectOptionByLabel(findTestObject('user settings/country_dd'), 'Afghanistan', false)
+
+WebUI.click(findTestObject('user settings/country_dd'))
 

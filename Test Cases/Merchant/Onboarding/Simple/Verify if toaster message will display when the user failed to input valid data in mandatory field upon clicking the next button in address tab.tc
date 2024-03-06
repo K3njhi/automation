@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if toaster message will display when the user failed to input valid data in mandatory field upon clicking the next button in address tab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd352e90-d5c6-4b1b-9b66-f183b06370df</testCaseGuid>
+</TestCaseEntity>
