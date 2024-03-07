@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>address_toaster</name>
+   <name>modal_address</name>
    <tag></tag>
-   <elementGuidId>afc5e610-528a-4d51-b027-caabbd9d90a0</elementGuidId>
+   <elementGuidId>d14a9b61-c33b-4d58-9dcf-d6042b7e4d4e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>/html/body/div[16][count(. | //div[@id = 'toast-container']) = count(//div[@id = 'toast-container'])]</value>
+         <value>/html/body/div[16]/div/div[count(. | //div[@class = 'modal-body']) = count(//div[@class = 'modal-body'])]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -15,25 +15,25 @@
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>tag</name>
+      <name>class</name>
       <type>Main</type>
-      <value>div</value>
-      <webElementGuid>a8602dca-3cdd-45d8-bec3-0b721d1e5fb7</webElementGuid>
+      <value>modal-body</value>
+      <webElementGuid>6526dbf8-39da-46e3-94ba-2a7689dad930</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>tag</name>
       <type>Main</type>
-      <value>toast-container</value>
-      <webElementGuid>64ed2fd3-f1b0-4a4d-8320-75cbeb1ff3f3</webElementGuid>
+      <value>div</value>
+      <webElementGuid>19a31dc5-5d96-49ff-b53b-233dda326bea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html/body/div[16]</value>
-      <webElementGuid>c9311097-6c35-4663-99c2-77d4e3a93d18</webElementGuid>
+      <value>/html/body/div[16]/div/div</value>
+      <webElementGuid>7f35e1b2-a1f4-4ede-a085-70f4bcd6970e</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

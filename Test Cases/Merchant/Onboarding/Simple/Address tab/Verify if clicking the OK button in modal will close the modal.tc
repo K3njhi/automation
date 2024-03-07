@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if clicking the OK button in modal will close the modal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4aa42ae6-2a92-4d5e-afec-e85dd1f065d9</testCaseGuid>
+</TestCaseEntity>

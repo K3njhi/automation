@@ -54,6 +54,13 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
+      <guid>4f149fa8-42b6-425d-b039-31052261896e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Profile tab/Verify if leaving the image field empty error tosater message will display upon clicking the next button in profile tab</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
       <guid>2f1ba148-b1b2-41d4-a66d-5b66978ba349</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>

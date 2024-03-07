@@ -17,5 +17,5 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.verifyElementClickable(findTestObject('user settings/delete_address_button_1'))
+WebUI.verifyElementClickable(findTestObject('user settings/modal address/ok_button'))
 

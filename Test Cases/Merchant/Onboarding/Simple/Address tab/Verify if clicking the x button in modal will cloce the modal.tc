@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if clicking the x button in modal will cloce the modal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f272785d-6fdd-4d32-b294-8299161d5e5e</testCaseGuid>
+</TestCaseEntity>

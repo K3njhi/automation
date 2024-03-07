@@ -17,17 +17,27 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('reusable test case/Log in'), [:], FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.setText(findTestObject('user settings/address_fname_textbox'), 'test')
 
-WebUI.callTestCase(findTestCase('reusable test case/scroll down'), [:], FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.setText(findTestObject('user settings/address_lname_textbox'), 'ken27')
 
-WebUI.callTestCase(findTestCase('reusable test case/click next button in profile tab'), [:], FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.setText(findTestObject('user settings/address_textbox'), 'dyan lang')
 
-WebUI.click(findTestObject('user settings/nextaddress_button'))
+WebUI.setText(findTestObject('user settings/city_textbox'), 'dito lang')
 
-WebUI.click(findTestObject('user settings/nextaddress_button'))
+WebUI.setText(findTestObject('user settings/postalcode_textbox'), '5022')
 
-WebUI.waitForElementPresent(findTestObject('user settings/address_toaster'), 0)
+WebUI.setText(findTestObject('user settings/state_textbox'), 'state')
 
-WebUI.waitForElementVisible(findTestObject('user settings/address_toaster'), 0)
+WebUI.click(findTestObject('user settings/country_dd'))
+
+WebUI.selectOptionByLabel(findTestObject('user settings/country_dd'), 'Philippines', false)
+
+WebUI.click(findTestObject('user settings/country_dd'))
+
+WebUI.click(findTestObject('user settings/add_address_button'))
+
+WebUI.scrollToElement(findTestObject('user settings/address_container'), 0)
+
+WebUI.waitForElementVisible(findTestObject('user settings/address_container'), 0)
 

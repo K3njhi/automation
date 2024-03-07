@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ok_button</name>
+   <tag></tag>
+   <elementGuidId>fdc5de25-b2b4-4d25-8198-90be87eb402b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[16]/div/div/div[2]/button[count(. | //button[@type = 'button' and @class = 'btn btn-primary' and (text() = 'OK' or . = 'OK')]) = count(//button[@type = 'button' and @class = 'btn btn-primary' and (text() = 'OK' or . = 'OK')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3616c457-8e3c-467a-8698-820bf0135346</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>88d04fce-212f-46be-bfd1-6a856679c98c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>0545b0e2-07e5-4dcd-9eeb-dba382f3fcc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OK</value>
+      <webElementGuid>a626e27b-dbbd-4a53-9569-24c9ffd20ad1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[16]/div/div/div[2]/button</value>
+      <webElementGuid>50483214-33c7-45ed-a99a-dc25ee1c8cbe</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

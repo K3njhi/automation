@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>delete_address_button</name>
+   <name>delete_address_button_1</name>
    <tag></tag>
    <elementGuidId>3ad11da4-123d-414e-bf7f-b90977ba3b81</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>BASIC</key>
-         <value>/html/body/div[4]/div[2]/div/div[2]/div/div[2]/div[3]/div[1]/div/div[2]/a/i[count(. | //i[@class = 'icon icon-remove']) = count(//i[@class = 'icon icon-remove'])]</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//a[@id='120877']/i</value>
@@ -16,6 +12,10 @@
       <entry>
          <key>CSS</key>
          <value>i.icon.icon-remove</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div[2]/div/div[2]/div/div[2]/div[3]/div[1]/div/div[2]/a/i[count(. | //i[@class = 'icon icon-remove']) = count(//i[@class = 'icon icon-remove'])]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>

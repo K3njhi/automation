@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if COUNTRY dropdown will validate if left empty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>55d7971a-025e-46a8-a5f8-48e0bf2d7cba</testCaseGuid>
+</TestCaseEntity>

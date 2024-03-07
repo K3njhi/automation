@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if leaving the image field empty error tosater message will display upon clicking the next button in profile tab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3e1a1e16-a67d-4077-b268-574d77088374</testCaseGuid>
+</TestCaseEntity>

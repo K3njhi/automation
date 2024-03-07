@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if OK button in modal is present</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c073c341-39c3-4adf-95b0-b4eac0bee4de</testCaseGuid>
+</TestCaseEntity>

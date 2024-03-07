@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if Country dropdown does not have pre selected country by default</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>68ffd74c-f22b-4757-b2da-0b11217604d0</testCaseGuid>
+</TestCaseEntity>

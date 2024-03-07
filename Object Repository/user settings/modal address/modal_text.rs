@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>modal_text</name>
+   <tag></tag>
+   <elementGuidId>0723bf34-afa7-4382-a7a7-7e1937ef2793</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[16]/div/div/div[1]/div[count(. | //div[@class = 'bootbox-body' and (text() = 'You must have at least 1 saved address' or . = 'You must have at least 1 saved address')]) = count(//div[@class = 'bootbox-body' and (text() = 'You must have at least 1 saved address' or . = 'You must have at least 1 saved address')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d36aa895-e64f-4805-924a-3f7dd680383e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bootbox-body</value>
+      <webElementGuid>40472ff6-a60d-4c09-bfce-9ff3a6c7876f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>You must have at least 1 saved address</value>
+      <webElementGuid>1eb6037f-c4d3-4b67-ac67-7c8214121810</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[16]/div/div/div[1]/div</value>
+      <webElementGuid>77f8fd30-d4e2-442c-b48c-0a432a700d36</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

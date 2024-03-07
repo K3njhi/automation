@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.verifyElementPresent(findTestObject('user settings/delete_address_button'), 0)
+WebUI.verifyElementPresent(findTestObject('user settings/delete_address_button_1'), 0)
 
-WebUI.waitForElementVisible(findTestObject('user settings/delete_address_button'), 0)
+WebUI.waitForElementVisible(findTestObject('user settings/delete_address_button_1'), 0)
 

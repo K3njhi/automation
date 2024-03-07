@@ -17,5 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.verifyElementClickable(findTestObject('user settings/delete_address_button_1'))
+WebUI.scrollToElement(findTestObject('user settings/nextaddress_button'), 0)
+
+WebUI.click(findTestObject('user settings/nextaddress_button'))
+
+WebUI.waitForElementPresent(findTestObject('spyweb/address toaster'), 0)
+
+WebUI.waitForElementVisible(findTestObject('spyweb/address toaster'), 0)
+
+WebUI.scrollToElement(findTestObject('user settings/user_settings_txtlabel'), 0)
 

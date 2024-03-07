@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Verify if user can only sellect one country in country dropdown</name>
+   <name>Verify if user can only select one country in country dropdown</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>774cba27-4f75-461e-b547-3337f3df8173</testCaseGuid>
