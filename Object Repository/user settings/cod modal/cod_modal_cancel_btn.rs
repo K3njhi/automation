@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>cod_modal_cancel_btn</name>
+   <tag></tag>
+   <elementGuidId>28f1aa95-adbe-4002-9cdb-d5d15c60bdb0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[16]/div/div/div[2]/button[1][count(. | //button[@type = 'button' and @class = 'btn btn-danger' and (text() = 'Cancel' or . = 'Cancel')]) = count(//button[@type = 'button' and @class = 'btn btn-danger' and (text() = 'Cancel' or . = 'Cancel')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d4bd5712-0cf6-491d-9f26-e08140837815</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>60b44201-27dc-40e4-bfcb-845609bd1c92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-danger</value>
+      <webElementGuid>4ed1efb2-8153-40be-a8eb-0b58e4b68a2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cancel</value>
+      <webElementGuid>fae8f388-a6e7-420f-a9d7-ec0845e2f7b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[16]/div/div/div[2]/button[1]</value>
+      <webElementGuid>c4be287c-b5c4-4666-95af-baca7b779ff1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

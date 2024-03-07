@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>cod_email_textlabel</name>
+   <tag></tag>
+   <elementGuidId>e221ff14-3f79-4149-b783-01624eead1eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div[2]/div/div[3]/div/div[1]/div/div[2]/div[2]/div[count(. | //div[@class = 'payment-input' and (text() = 'kentest06+kenmerchant_automation8@gmail.com' or . = 'kentest06+kenmerchant_automation8@gmail.com')]) = count(//div[@class = 'payment-input' and (text() = 'kentest06+kenmerchant_automation8@gmail.com' or . = 'kentest06+kenmerchant_automation8@gmail.com')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ad7ff198-89c2-4b0b-934f-be05c551f629</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>payment-input</value>
+      <webElementGuid>594fb4fd-10b2-407b-b85c-8e6a6e03151b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[4]/div[2]/div/div[3]/div/div[1]/div/div[2]/div[2]/div</value>
+      <webElementGuid>82b64745-de00-439c-9413-5060ae066bad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>kentest06+kenmerchant_automation8@gmail.com</value>
+      <webElementGuid>7eb37b09-2d18-4e66-8048-265971ba174d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
