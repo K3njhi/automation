@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>address_container</name>
+   <name>address_container_1</name>
    <tag></tag>
    <elementGuidId>13eb8245-8391-48d5-9f0c-eeae70323768</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>BASIC</key>
-         <value>id(&quot;address&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;seller-common-box&quot;]/div[@class=&quot;address-inner&quot;]/div[@class=&quot;col-md-4 col-sm-4 gutter-30&quot;]/div[@class=&quot;address-box&quot;]/div[@class=&quot;description&quot;][count(. | //div[@class = 'description']) = count(//div[@class = 'description'])]</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='address']/div/div[2]/div[3]/div/div/div</value>
@@ -16,6 +12,10 @@
       <entry>
          <key>CSS</key>
          <value>div.description</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;address&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;seller-common-box&quot;]/div[@class=&quot;address-inner&quot;]/div[@class=&quot;col-md-4 col-sm-4 gutter-30&quot;]/div[@class=&quot;address-box&quot;]/div[@class=&quot;description&quot;][count(. | //div[@class = 'description']) = count(//div[@class = 'description'])]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>

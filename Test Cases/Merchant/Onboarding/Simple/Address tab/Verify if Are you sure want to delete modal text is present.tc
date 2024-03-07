@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if Are you sure want to delete modal text is present</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81c7d85b-a476-4f68-aba5-5493c81777b8</testCaseGuid>
+</TestCaseEntity>

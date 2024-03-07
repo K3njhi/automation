@@ -17,27 +17,5 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.setText(findTestObject('user settings/address_fname_textbox'), 'test')
-
-WebUI.setText(findTestObject('user settings/address_lname_textbox'), 'ken27')
-
-WebUI.setText(findTestObject('user settings/address_textbox'), 'dyan lang')
-
-WebUI.setText(findTestObject('user settings/city_textbox'), 'dito lang')
-
-WebUI.setText(findTestObject('user settings/postalcode_textbox'), '5022')
-
-WebUI.setText(findTestObject('user settings/state_textbox'), 'state')
-
-WebUI.click(findTestObject('user settings/country_dd'))
-
-WebUI.selectOptionByLabel(findTestObject('user settings/country_dd'), 'Philippines', false)
-
-WebUI.click(findTestObject('user settings/country_dd'))
-
-WebUI.click(findTestObject('user settings/add_address_button'))
-
-WebUI.scrollToElement(findTestObject('user settings/address_container_1'), 0)
-
-WebUI.waitForElementVisible(findTestObject('user settings/address_container_1'), 0)
+WebUI.verifyElementClickable(findTestObject('user settings/modal address 2/cancel_btn_2'), FailureHandling.CONTINUE_ON_FAILURE)
 

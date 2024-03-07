@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if OKAY button in delete confirmation modal is present</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea01d6c8-fef3-4d98-855a-a69d2c5a597f</testCaseGuid>
+</TestCaseEntity>

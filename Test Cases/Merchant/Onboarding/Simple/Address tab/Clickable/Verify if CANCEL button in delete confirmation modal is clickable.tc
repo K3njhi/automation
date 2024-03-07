@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if CANCEL button in delete confirmation modal is clickable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>26226f65-05db-4710-9cd3-f63e0cd69ed1</testCaseGuid>
+</TestCaseEntity>

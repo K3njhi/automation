@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>x_buton_2</name>
+   <tag></tag>
+   <elementGuidId>a6482563-86b6-4647-a1c4-d764d4ddc977</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[16]/div/div/div[1]/button[count(. | //button[@type = 'button' and @class = 'bootbox-close-button close']) = count(//button[@type = 'button' and @class = 'bootbox-close-button close'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5411a0c0-d1e2-4b6f-a9ff-e245c601b07e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c4cb1d0d-dae9-4486-b2ec-b4bbb7beb14a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bootbox-close-button close</value>
+      <webElementGuid>ee788e53-dc8d-414e-b6bd-182520270ebe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[16]/div/div/div[1]/button</value>
+      <webElementGuid>210238b4-d67c-4f32-9d2c-8efbc292b20e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

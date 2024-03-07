@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify x button in delete confirmation modal is present</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>63eca491-39bf-40e1-aa7c-e431763dc6ae</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if x button in delete confirmation modal is clickable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7c8106f4-37d2-41be-ba0b-f9a95152dae4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>okay_btn_2</name>
+   <tag></tag>
+   <elementGuidId>2b33796d-61e4-4944-98f1-301b72d0ff4d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[16]/div/div/div[2]/button[2][count(. | //button[@class = 'btn btn btn-primary' and (text() = 'Okay' or . = 'Okay')]) = count(//button[@class = 'btn btn btn-primary' and (text() = 'Okay' or . = 'Okay')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>57d340fe-f691-47dc-a3d6-f3e0b9c963ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn btn-primary</value>
+      <webElementGuid>1421c25a-544b-40c4-9c35-34766a0b1c6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Okay</value>
+      <webElementGuid>8105f4bc-bd4c-4dc8-8e54-3a339335ff8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[16]/div/div/div[2]/button[2]</value>
+      <webElementGuid>9af7ddeb-396a-4428-bffa-ef7d71aacd9e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

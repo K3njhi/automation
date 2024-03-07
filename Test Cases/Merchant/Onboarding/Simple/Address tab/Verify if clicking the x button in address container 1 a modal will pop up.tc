@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Verify if clicking the x button in address container a modal will pop up</name>
+   <name>Verify if clicking the x button in address container 1 a modal will pop up</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>9fc19a72-45ed-4c3b-84ae-565689da9128</testCaseGuid>
