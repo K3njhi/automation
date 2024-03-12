@@ -21,5 +21,5 @@ WebUI.setText(findTestObject('user settings/fname_textbox'), 'qwertyuiopasdfghjk
 
 WebUI.click(findTestObject('user settings/nextprofile_button'))
 
-WebUI.waitForElementAttributeValue(findTestObject('user settings/fname_textbox'), 'class', 'required', 0)
+WebUI.verifyElementAttributeValue(findTestObject('user settings/fname_textbox'), 'class', 'required', 0)
 

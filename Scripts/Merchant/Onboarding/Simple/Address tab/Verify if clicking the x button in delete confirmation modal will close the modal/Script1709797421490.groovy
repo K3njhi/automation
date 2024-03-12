@@ -19,7 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.click(findTestObject('user settings/modal address 2/x_buton_2'))
 
-WebUI.waitForElementNotVisible(findTestObject('user settings/modal address 2/Modal'), 0)
-
-WebUI.waitForElementNotVisible(findTestObject('user settings/modal address 2/modal_text_2'), 0)
+WebUI.waitForElementNotPresent(findTestObject('user settings/modal address 2/Modal_2'), 0)
 

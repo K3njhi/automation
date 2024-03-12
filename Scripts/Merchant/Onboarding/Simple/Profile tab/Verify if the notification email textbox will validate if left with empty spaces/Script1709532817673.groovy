@@ -21,6 +21,6 @@ WebUI.setText(findTestObject('user settings/email_txtbox'), '    ')
 
 WebUI.click(findTestObject('user settings/nextprofile_button'))
 
-WebUI.waitForElementAttributeValue(findTestObject('user settings/email_txtbox'), 'class', 'required emailOnly error-con', 
+WebUI.verifyElementAttributeValue(findTestObject('user settings/email_txtbox'), 'class', 'required emailOnly error-con', 
     0)
 

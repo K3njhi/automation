@@ -17,7 +17,5 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('user settings/modal address/x_button'))
-
-WebUI.waitForElementVisible(findTestObject('user settings/modal address/modal_address'), 0)
+WebUI.verifyElementClickable(findTestObject('user settings/modal address 2/okay_btn_2'), FailureHandling.CONTINUE_ON_FAILURE)
 

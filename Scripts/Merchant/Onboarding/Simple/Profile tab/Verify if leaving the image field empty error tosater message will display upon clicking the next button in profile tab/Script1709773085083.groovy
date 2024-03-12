@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.scrollToElement(findTestObject('user settings/nextprofile_button'), 0)
+/*WebUI.scrollToElement(findTestObject('user settings/nextprofile_button'), 0)
 
 WebUI.click(findTestObject('user settings/nextprofile_button'))
 
@@ -25,5 +25,5 @@ WebUI.waitForElementPresent(findTestObject('spyweb/div_Oops Something went wrong
 
 WebUI.waitForElementVisible(findTestObject('spyweb/div_Oops Something went wrong.Please add a profile image'), 0)
 
-WebUI.scrollToElement(findTestObject('user settings/user_settings_txtlabel'), 0)
+WebUI.scrollToElement(findTestObject('user settings/user_settings_txtlabel'), 0)*/
 

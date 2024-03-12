@@ -21,5 +21,7 @@ WebUI.setText(findTestObject('user settings/seller_location_textbox'), '')
 
 WebUI.click(findTestObject('user settings/nextprofile_button'))
 
+WebUI.waitForElementVisible(findTestObject('user settings/saved_address_textlabel'), 0)
+
 WebUI.refresh()
 

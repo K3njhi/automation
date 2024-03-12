@@ -18,7 +18,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>01bb18bb-ad7d-4d1c-a5b4-9487965d4092</webElementGuid>
+      <webElementGuid>eb0d42ae-9161-4bfa-be3c-3efbf1b317b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,7 +26,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html/body/div[4]/div[2]/div/div[2]/div/div[2]/div[3]/div[2]/div/div[2]/a/i</value>
-      <webElementGuid>340605ab-4085-402b-bd24-6502ba71bccd</webElementGuid>
+      <webElementGuid>5f237c1d-09bd-4b31-9aef-f9a142a3b088</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,6 +34,6 @@
       <name>class</name>
       <type>Main</type>
       <value>icon icon-remove</value>
-      <webElementGuid>8cacaafe-21ef-4b40-b3f7-d6a7ef0648f9</webElementGuid>
+      <webElementGuid>d0c75067-c70c-4e62-af61-c7cfb00c0b8a</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

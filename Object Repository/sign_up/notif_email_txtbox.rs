@@ -6,16 +6,16 @@
    <elementGuidId>c392676c-32a7-4a71-b1de-cb0072877c45</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='nemail']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#nemail</value>
       </entry>
       <entry>
+         <key>XPATH</key>
+         <value>//input[@id='nemail']</value>
+      </entry>
+      <entry>
          <key>BASIC</key>
-         <value>/html/body/div[4]/div[1]/div[1]/div[2]/form/div[4]/input[count(. | //input[@type = 'text' and @name = 'notificationemail' and @id = 'nemail' and @class = 'singfrm-txtbox emailOnly']) = count(//input[@type = 'text' and @name = 'notificationemail' and @id = 'nemail' and @class = 'singfrm-txtbox emailOnly'])]</value>
+         <value>/html/body/div[4]/div[1]/div[1]/div[2]/form/div[4]/input[count(. | //input[@type = 'text' and @class = 'singfrm-txtbox emailOnly']) = count(//input[@type = 'text' and @class = 'singfrm-txtbox emailOnly'])]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b4c1a5e5-272d-406b-9aec-af34eb922239</webElementGuid>
+      <webElementGuid>42ce62ec-5dc1-4080-9f2e-fdd6d01e9cfb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,23 +34,23 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>93e1898d-f253-48dd-bedb-6018864cebc7</webElementGuid>
+      <webElementGuid>87fd5ac9-d015-446a-98de-9f40f67c4c67</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
       <value>notificationemail</value>
-      <webElementGuid>20b8db93-6b4d-47f9-9b20-8442dab6920f</webElementGuid>
+      <webElementGuid>f3c7b828-0321-44b2-a397-53da1bd36e91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>nemail</value>
-      <webElementGuid>2bf5fb11-80bf-4d4a-9158-6c1f10f5d054</webElementGuid>
+      <webElementGuid>b92a92fc-cc5b-47d2-b456-fd705697c4f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>class</name>
       <type>Main</type>
       <value>singfrm-txtbox emailOnly</value>
-      <webElementGuid>ba8ce58d-ab55-4eda-9321-126b8160699f</webElementGuid>
+      <webElementGuid>7bb39441-8feb-42ca-95cb-818bed90bd9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html/body/div[4]/div[1]/div[1]/div[2]/form/div[4]/input</value>
-      <webElementGuid>b4939743-a2a4-4999-a613-119ce753dcfb</webElementGuid>
+      <webElementGuid>cfae5e29-6c2f-4527-b3f7-664dea8caeb0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='nemail']</value>
-      <webElementGuid>811ed936-06c4-4445-817c-a20979383f3e</webElementGuid>
+      <webElementGuid>a6a4b80f-33b5-469f-abc7-8b48932ffe73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='frmaccount']/div[4]/input</value>
-      <webElementGuid>14f19451-6bea-4a7c-a69b-d92085a6d1bc</webElementGuid>
+      <webElementGuid>d3dfb084-c33b-4eac-9ce2-31cebaaa1d7f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div[4]/input</value>
-      <webElementGuid>08d5cdc6-628d-4e6b-a5c5-0524b5f07a5d</webElementGuid>
+      <webElementGuid>fdb8c1be-5505-4b54-820c-3c7359fc1b52</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,6 +98,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'notificationemail' and @id = 'nemail']</value>
-      <webElementGuid>c90d3c25-56ad-47bb-8816-53631bae6a61</webElementGuid>
+      <webElementGuid>7bec7063-d983-4c17-a164-6d64e49780ba</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

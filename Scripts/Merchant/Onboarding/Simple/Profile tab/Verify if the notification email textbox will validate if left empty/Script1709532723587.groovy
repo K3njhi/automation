@@ -17,8 +17,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.setText(findTestObject('user settings/email_txtbox'), '')
+
 WebUI.click(findTestObject('user settings/nextprofile_button'))
 
-WebUI.waitForElementAttributeValue(findTestObject('user settings/email_txtbox'), 'class', 'required emailOnly error-con', 
+WebUI.verifyElementAttributeValue(findTestObject('user settings/email_txtbox'), 'class', 'required emailOnly error-con', 
     0)
 

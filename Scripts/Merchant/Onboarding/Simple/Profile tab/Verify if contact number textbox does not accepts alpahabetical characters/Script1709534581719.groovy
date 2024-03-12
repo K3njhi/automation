@@ -21,6 +21,6 @@ WebUI.setText(findTestObject('user settings/contact_number_textbox'), 'tetwaet')
 
 WebUI.click(findTestObject('user settings/nextprofile_button'))
 
-WebUI.waitForElementAttributeValue(findTestObject('user settings/contact_number_textbox'), 'class', 'required phoneOnly error-con', 
+WebUI.verifyElementAttributeValue(findTestObject('user settings/contact_number_textbox'), 'class', 'required phoneOnly error-con', 
     0)
 

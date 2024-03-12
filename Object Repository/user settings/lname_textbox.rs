@@ -6,16 +6,16 @@
    <elementGuidId>ab5748a9-fee3-4e81-928b-35156a723a9a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>id(&quot;input-lastName&quot;)[count(. | //input[@type = 'text' and @class = 'required' and @name = 'LastName' and @id = 'input-lastName']) = count(//input[@type = 'text' and @class = 'required' and @name = 'LastName' and @id = 'input-lastName'])]</value>
+         <key>CSS</key>
+         <value>#input-lastName</value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='input-lastName']</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#input-lastName</value>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div[2]/div/div[1]/div/div[1]/form/div[4]/div[2]/input[count(. | //input[@type = 'text' and @class = 'required' and @name = 'LastName']) = count(//input[@type = 'text' and @class = 'required' and @name = 'LastName'])]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>4981d93a-931f-4bb5-aa67-3e1925992dd4</webElementGuid>
+      <webElementGuid>b379e85e-f07d-4718-8cc8-f0f1a7979460</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,7 +34,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>ae81388a-91df-43aa-ab7c-255ee77a2a73</webElementGuid>
+      <webElementGuid>baab53f8-055a-496e-baad-fe5ec6f1ad0d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>required</value>
-      <webElementGuid>6205ba8f-cbac-4e26-b2f0-1b2a45d7e635</webElementGuid>
+      <webElementGuid>ed8ccf85-0d2d-48d8-bf34-66a2456d7218</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,23 +50,23 @@
       <name>name</name>
       <type>Main</type>
       <value>LastName</value>
-      <webElementGuid>729103c6-61b6-4736-8141-016435832869</webElementGuid>
+      <webElementGuid>7cec409e-8b5a-44ae-8785-4cfb4de676b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>input-lastName</value>
-      <webElementGuid>f53c771f-53c0-49cb-b251-3628e9432249</webElementGuid>
+      <webElementGuid>ea94e1de-47e6-4dec-9432-dcaf9a7a94c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;input-lastName&quot;)</value>
-      <webElementGuid>ba4541fe-fb92-4aa0-9d4f-97a9116afc50</webElementGuid>
+      <value>/html/body/div[4]/div[2]/div/div[1]/div/div[1]/form/div[4]/div[2]/input</value>
+      <webElementGuid>3554406d-e208-4dc4-8006-f5f3e3941cd2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='input-lastName']</value>
-      <webElementGuid>15856b97-008e-4700-9b8a-d1e3bfabbb40</webElementGuid>
+      <webElementGuid>dcec3e42-3dd5-435c-ac5b-a5eb560bec0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='profile']/div/div/form/div[4]/div[2]/input</value>
-      <webElementGuid>f3bace62-ac0f-423b-99dd-4d73db0f5deb</webElementGuid>
+      <webElementGuid>fc729694-6fc4-4642-9c31-ca9c227ce82e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div[2]/input</value>
-      <webElementGuid>4528568d-d6c1-4076-ba38-15a2e850614d</webElementGuid>
+      <webElementGuid>0c4b9c49-3118-410a-8500-8fbc05e653eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,6 +98,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'LastName' and @id = 'input-lastName']</value>
-      <webElementGuid>57248d11-5c60-484d-aa20-716dd04ef0aa</webElementGuid>
+      <webElementGuid>9381aced-85f9-4682-a0c9-19e7b298e589</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

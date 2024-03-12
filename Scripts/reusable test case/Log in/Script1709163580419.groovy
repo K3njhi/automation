@@ -23,7 +23,7 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://bespokeautomationken.test.arcadier.io/user/marketplace/customlogin?isSeller=false&returnUrl=https%3A%2F%2Fbespokeautomationken.test.arcadier.io%2F')
 
-WebUI.setText(findTestObject('Sign in page/input_Your emailusername_username'), 'kenmerchant_automation8')
+WebUI.setText(findTestObject('Sign in page/input_Your emailusername_username'), 'kenmerchant_automation17')
 
 WebUI.setText(findTestObject('Sign in page/input_Your password_password'), 'welcome8')
 

@@ -19,5 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.click(findTestObject('user settings/nextprofile_button'))
 
-WebUI.waitForElementAttributeValue(findTestObject('user settings/fname_textbox'), 'class', 'required error-con', 0)
+WebUI.verifyElementAttributeValue(findTestObject('user settings/fname_textbox'), 'class', 'required error-con', 0)
 

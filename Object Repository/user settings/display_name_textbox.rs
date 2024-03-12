@@ -15,7 +15,7 @@
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>/html/body/div[4]/div[2]/div/div[1]/div/div[1]/form/div[2]/div/input[count(. | //input[@type = 'text' and @id = 'input-displayName' and @class = 'required']) = count(//input[@type = 'text' and @id = 'input-displayName' and @class = 'required'])]</value>
+         <value>//input[@type = 'text' and @id = 'input-displayName' and @class = 'required']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6ae317ed-5eb5-4424-911b-7f166d197bdf</webElementGuid>
+      <webElementGuid>525626b5-dae7-4c0d-a49e-ad9621fa0cd5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,7 +34,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>649bd2ec-f7d0-4429-a3db-3ad3f56b93d1</webElementGuid>
+      <webElementGuid>d078b897-959d-4ac9-99ac-9b7ddfd9160f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>name</name>
       <type>Main</type>
       <value>DisplayName</value>
-      <webElementGuid>24b927cc-bd01-4004-a90b-de77e7b7180d</webElementGuid>
+      <webElementGuid>864cc6ee-8b9e-4f70-95c8-6b42335f8f2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
       <name>id</name>
       <type>Main</type>
       <value>input-displayName</value>
-      <webElementGuid>150ae600-2d55-4337-bff8-805975a202ed</webElementGuid>
+      <webElementGuid>6f6ca397-f5a5-4869-9b86-cb4e5e31ed25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,15 +58,15 @@
       <name>class</name>
       <type>Main</type>
       <value>required</value>
-      <webElementGuid>d72d2bae-ddc5-4598-9a04-e1c65fb9db45</webElementGuid>
+      <webElementGuid>774e7c42-5ba4-4bf4-a1f4-748a01809380</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>/html/body/div[4]/div[2]/div/div[1]/div/div[1]/form/div[2]/div/input</value>
-      <webElementGuid>ed490117-b53f-4b8c-b657-7cb7df5d1e6d</webElementGuid>
+      <webElementGuid>be842093-fafc-48aa-a8ec-79a590507bdb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='input-displayName']</value>
-      <webElementGuid>f4c41a9a-e84b-4fe3-b44c-3f535aa622e4</webElementGuid>
+      <webElementGuid>3696dd12-0fa9-4f97-ba6d-3a7c3c85bdb7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='profile']/div/div/form/div[2]/div/input</value>
-      <webElementGuid>b15adb82-cb34-485d-b00a-a117fe0fe85d</webElementGuid>
+      <webElementGuid>1e00b32a-a72e-423a-8f68-50b471e36030</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div[2]/div/input</value>
-      <webElementGuid>79f2db60-aeb2-4511-bd98-5dfab6a6a3f1</webElementGuid>
+      <webElementGuid>8bbabf74-066f-4761-b839-b11f9953acaf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,6 +98,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'DisplayName' and @id = 'input-displayName']</value>
-      <webElementGuid>8c50dd03-fce2-4861-b66d-5d36506c3e99</webElementGuid>
+      <webElementGuid>eea5eacb-2c61-4891-a3ab-d76c220226fe</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

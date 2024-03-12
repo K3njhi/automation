@@ -452,4 +452,389 @@
       <testCaseId>Test Cases/Merchant/Onboarding/Simple/Profile tab/Verify if seller textbox accepts alphanumeric and special characers</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>f3a87994-212f-4a5a-88e5-0ac78dcb1fc5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Clickable/Verify if Address tab is clickable</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>86badec6-bb98-4777-92ce-19f8829f20d9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Clickable/verify if ADDRESSEE FIRST NAME textbox is clickable</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>16c292e7-307f-45b9-8b2f-b0b3492e6b5c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Clickable/Verify if ADDRESSEE LAST NAME textbox is clickable</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>75e1b5fe-34f1-48ab-9195-44e306a51b92</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Clickable/Verify if ADDRESS textbox is clickable</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ec56dc0d-5b79-4a94-a683-27bca1077d44</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Clickable/Verify if COUNTRY dropdown is clickable</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>07fd1040-6b6b-4dfd-9a14-2f1ded634f10</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Clickable/Verify if City textbox is clickable</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b00e6be4-5646-4312-afa8-042c925ed27b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Clickable/Verify if State textbox is clickable</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>582591a8-95e6-4857-9daa-ce360106418e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Clickable/Verify if Postal Code textbox is clickable</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ec58c51f-49c9-4c52-be1c-5e5d044819fb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify if ADDRESSEE FIRST NAME textbox will validate if left empty</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>00d47d38-2312-4a6f-b447-7a46ee842d74</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify if ADDRESSEE FIRST NAME textbox does not accepts empty spaces</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a71aafa3-ae71-4d61-b06d-bd07ea3b7382</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify if ADDRESSEE FIRST NAME textbox accepts alphanumerical and special characters</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>cb665a3c-80e1-40a8-a54d-009cd625986f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify if ADDRESSEE LAST NAME textbox will validate if left empty</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f170b55a-07e2-430e-bc5b-061cb2186818</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify if ADDRESSEE LAST NAME textbox does not accepts empty spaces</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>42ebebc9-fb72-4758-bda9-cfedd6f51337</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify if ADDRESSEE LAST NAME textbox accepts alphanumerical and special characters</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7fa9c534-93ba-4b2e-ad3e-d3fcc9b2e332</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify if ADDRESS textbox will validate if left empty</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0a773ef8-158d-4094-b77f-52b556be85c1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify if ADDRESS textbox does not accepts empty spaces</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a4328ef3-d69a-4700-b37f-58eea60cf1bb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify if ADDRESS textbox accepts alphanumerical and special characters</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>fca5dc64-a075-4fd4-8d2a-a019c5f1d718</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify if COUNTRY dropdown will validate if left empty</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>fa170361-c0cd-428e-808b-bbc6f1507179</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify if Country dropdown does not have pre selected country by default</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7dbde77d-a7a8-4f69-8e8a-6cad4055a535</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify if user can only select one country in country dropdown</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e2331cca-ac94-4a74-9e2f-ddfef9ce60d9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify if STATE textbox accepts alphanumerical and special characters</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0baa7129-c828-4a2c-9f0d-441a6207f7f9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify if CITY textbox will validate if left empty</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4d6c206f-5c64-4f5a-8c66-97c426b0c6d8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify if CITY textbox does not accepts empty spaces</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>38d41003-e91b-47e1-a900-75fb627e84ee</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify if CITY textbox accepts alphanumerical and special characters</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>830661f0-c906-4978-955f-798b0715f885</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify if POSTAL CODE textbox will validate if left empty</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>72b51948-479a-45ca-b496-763418fe6e7e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify if POSTAL CODE textbox does not accepts empty spaces</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5cf4675a-c2a8-434e-9120-0c409e193381</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify if POSTAL CODE textbox accepts alphanumerical and special characters</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>767a6582-8f3b-4069-9664-bf742c509320</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Clickable/Verify if Add Address button is clickable</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5ba8c59f-61ab-4e14-8868-6609a726b0ef</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify if toaster message will display when the user failed to input valid data in mandatory field upon clicking the next button in address tab</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d57a2edf-d42e-4650-8411-c8c202a3bf4e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Complex/Address tab/Verify if the user can add address upon clicking the add address button</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d69ebe07-5097-4f96-9068-73f158c24ab9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/UI/Address tab/Verify if added address container is present</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>de7a652c-91cf-4919-a43b-a06df2965c7e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify if clicking the x button in address container 1 a modal will pop up</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d6e1abb6-06d5-44ec-b8d3-96a93da1eeaa</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify if modal text is present</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>31c136be-26da-448a-b2cf-c9d6467b21c0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify if OK button in modal is present</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9285a70e-9232-4a0b-aa35-7d87ac01ec06</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify if x button in modal is present</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4028b96c-698f-4b77-9b59-9a0655586f8a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Clickable/Verify if x button in modal is clickable</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>cf07bd79-ae8a-4173-9b84-f096851e4b3f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Clickable/Verify if OK button in modal is clickable</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>909a8c5c-3b04-4426-9f87-8c602ba3ff3a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify if clicking the x button in modal will close the modal</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6615a85c-28f1-4abe-b292-d126ec6182fd</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify if clicking the OK button in modal will close the modal</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>39e4009b-cb5c-4fa5-99dd-b6f5d29ddd51</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Complex/Address tab/Verify if the user can add address upon clicking the add address button</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0d8902b0-80b3-4e1a-b8d8-428b46d3b8c3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify if x button for address container 2 is present</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0696fa02-a088-4a2c-a815-2d948951bffa</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify if x button for address container 2 is clickable</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>955c37cf-10be-425d-a666-a4fd13304a9c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify clicking the x button for address container 2 a modal will pop up</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4e5f4425-3638-44d8-8a10-3afad8054edb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify if Are you sure want to delete modal text is present</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2d2fb74f-eb81-4524-888f-03aa0639b2ee</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify x button in delete confirmation modal is present</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>de855953-f0bd-47a6-93ff-7591f8796412</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify if cancel button in delete confirmation modal is present</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>70561988-9a42-4263-80a7-bdf2b6373896</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify if OKAY button in delete confirmation modal is present</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>62c86b21-365b-4470-b85c-22b4aee8c07a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify x button in delete confirmation modal is clickable</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>416f6408-fe21-4db4-ae8a-93ca612c5a6c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify if cancel button in delete confirmation modal is clickable</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e3ec787c-0e57-46d9-8922-be94eea5e5d0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify if OKAY button in delete confirmation modal is clickable</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>baa22b57-0f65-4661-b0b8-4ecc4379c9c3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify if clicking the x button in delete confirmation modal will close the modal</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e001eaab-2c7f-4a21-822c-19ca9574156c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify if clicking the cancel button in delete confirmation modal will close the modal</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>dc2926b2-5ca4-407e-8e04-4078afc582d4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Address tab/Verify if clicking the Okay button in delete confirmation modal will delete the saved address and will close the modal</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>dfb3ee21-5898-4b1f-add2-4cf2ebd8e98b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Complex/Address tab/Verify if the user can add address upon clicking the add address button</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2f7c9820-eae0-41b4-a417-75212ffad463</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Complex/Address tab/Verify if the user fill up all the mandatory field in address tab and clicking the next button in address will redirect the user to payment acceptance tab</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>

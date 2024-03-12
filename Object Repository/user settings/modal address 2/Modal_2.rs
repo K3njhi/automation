@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>modal_address</name>
+   <name>Modal_2</name>
    <tag></tag>
-   <elementGuidId>d14a9b61-c33b-4d58-9dcf-d6042b7e4d4e</elementGuidId>
+   <elementGuidId>6b1686da-1741-4327-92ec-13361c5673e1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>/html/body/div[16]/div/div[count(. | //div[@class = 'modal-body']) = count(//div[@class = 'modal-body'])]</value>
+         <value>/html/body/div[16]/div/div[count(. | //div[@class = 'modal-content']) = count(//div[@class = 'modal-content'])]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -15,18 +15,18 @@
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>tag</name>
       <type>Main</type>
-      <value>modal-body</value>
-      <webElementGuid>6526dbf8-39da-46e3-94ba-2a7689dad930</webElementGuid>
+      <value>div</value>
+      <webElementGuid>b5bda008-51a2-4ad1-81b5-8f5a19e5de0a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>tag</name>
+      <name>class</name>
       <type>Main</type>
-      <value>div</value>
-      <webElementGuid>19a31dc5-5d96-49ff-b53b-233dda326bea</webElementGuid>
+      <value>modal-content</value>
+      <webElementGuid>bbacf1d5-46d1-4abd-b38f-f559fa173bcd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,6 +34,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html/body/div[16]/div/div</value>
-      <webElementGuid>7f35e1b2-a1f4-4ede-a085-70f4bcd6970e</webElementGuid>
+      <webElementGuid>a87555f4-09a2-4c59-baf1-2fad54e56c24</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

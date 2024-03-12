@@ -27,6 +27,5 @@ WebUI.click(findTestObject('user settings/nextprofile_button'))
 
 WebUI.scrollToElement(findTestObject('user settings/user_settings_txtlabel'), 0)
 
-WebUI.waitForElementAttributeValue(findTestObject('user settings/display_name_textbox'), 'class', 'required error-con', 
-    0)
+WebUI.verifyElementAttributeValue(findTestObject('user settings/display_name_textbox'), 'class', 'required error-con', 0)
 

@@ -21,6 +21,6 @@ WebUI.setText(findTestObject('user settings/address_lname_textbox'), '      ')
 
 WebUI.click(findTestObject('user settings/add_address_button'))
 
-WebUI.waitForElementAttributeValue(findTestObject('user settings/address_lname_textbox'), 'class', 'required error-con', 
+WebUI.verifyElementAttributeValue(findTestObject('user settings/address_lname_textbox'), 'class', 'required error-con', 
     0)
 

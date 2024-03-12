@@ -21,5 +21,5 @@ WebUI.setText(findTestObject('user settings/lname_textbox'), '     ')
 
 WebUI.click(findTestObject('user settings/nextprofile_button'))
 
-WebUI.waitForElementAttributeValue(findTestObject('user settings/lname_textbox'), 'class', 'required error-con', 0)
+WebUI.verifyElementAttributeValue(findTestObject('user settings/lname_textbox'), 'class', 'required error-con', 0)
 

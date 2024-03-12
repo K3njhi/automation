@@ -19,6 +19,6 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.click(findTestObject('user settings/add_address_button'))
 
-WebUI.waitForElementAttributeValue(findTestObject('user settings/address_fname_textbox'), 'class', 'required error-con', 
+WebUI.verifyElementAttributeValue(findTestObject('user settings/address_fname_textbox'), 'class', 'required error-con', 
     0)
 

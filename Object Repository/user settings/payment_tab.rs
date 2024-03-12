@@ -6,16 +6,16 @@
    <elementGuidId>e36285f7-52f7-465d-b7a9-b9427e8fd307</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>/html/body/div[4]/div[2]/ul/li[3]/a[count(. | //a[@href = '#payment_acceptance' and @id = 'payment-tab']) = count(//a[@href = '#payment_acceptance' and @id = 'payment-tab'])]</value>
+         <key>CSS</key>
+         <value>#payment-tab</value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//a[@id='payment-tab']</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#payment-tab</value>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div[2]/ul/li[3]/a[count(. | //a[@href = '#payment_acceptance']) = count(//a[@href = '#payment_acceptance'])]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>d6b1c818-9d2e-4eec-892d-9030ee919805</webElementGuid>
+      <webElementGuid>c70d16ea-8bd6-4a68-bf61-c4fd547611d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,15 +34,15 @@
       <name>href</name>
       <type>Main</type>
       <value>#payment_acceptance</value>
-      <webElementGuid>06c21500-acfd-40b0-9174-d4aa2352995c</webElementGuid>
+      <webElementGuid>6057a5ed-b759-4149-8e75-dfc95b7176cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>payment-tab</value>
-      <webElementGuid>2fd05b91-6cfe-4522-bacd-664afe5af738</webElementGuid>
+      <webElementGuid>86c06fc6-d02a-4805-ac79-76548e8fdfc1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>disabled</name>
       <type>Main</type>
       <value>disabled</value>
-      <webElementGuid>838645f7-01af-43e7-b5bc-ba8190ca261e</webElementGuid>
+      <webElementGuid>5dfabb54-8a0d-4d5a-b26e-ec52a82b0c31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +58,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>validatePermission(&quot;view-merchant-payment-methods&quot;, &quot;User Addresses&quot;, &quot;Merchant&quot;); Validate('#payment-tab', 2, false)</value>
-      <webElementGuid>2eda7b6e-8efe-4fbe-8084-309b8f4cc339</webElementGuid>
+      <webElementGuid>212ac985-762d-4ee3-834e-0c31e123033d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
 PAYMENT ACCEPTANCE&#xd;
                         &#xd;
                     </value>
-      <webElementGuid>9f1a7c03-4e8d-497c-9f8c-9d524e240b81</webElementGuid>
+      <webElementGuid>898cb413-f59c-4b45-bc6e-52d00615d69a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@ PAYMENT ACCEPTANCE&#xd;
       <name>xpath</name>
       <type>Main</type>
       <value>/html/body/div[4]/div[2]/ul/li[3]/a</value>
-      <webElementGuid>9ec004f5-2214-495f-99eb-d863c95b5783</webElementGuid>
+      <webElementGuid>5b3789c9-233a-42fa-80c9-9c15b3360f56</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@ PAYMENT ACCEPTANCE&#xd;
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='payment-tab']</value>
-      <webElementGuid>1f693940-eb82-423a-ba24-fd95a2b22aa5</webElementGuid>
+      <webElementGuid>26d9105c-844c-4de1-a62c-4d8f6d62d488</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@ PAYMENT ACCEPTANCE&#xd;
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='setting-tab']/li[3]/a</value>
-      <webElementGuid>9876accc-818a-46cc-8af2-a8ff3bb1c583</webElementGuid>
+      <webElementGuid>c76b0b8b-ddd0-4324-b921-da083264bde9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@ PAYMENT ACCEPTANCE&#xd;
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ADDRESS'])[1]/following::a[1]</value>
-      <webElementGuid>6ac6d73c-2f74-4b25-82b7-095a0d5dd3c5</webElementGuid>
+      <webElementGuid>be499030-1b1a-43e9-95d0-9a01cc5706b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@ PAYMENT ACCEPTANCE&#xd;
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PROFILE'])[2]/following::a[2]</value>
-      <webElementGuid>26bbda87-c6f3-4273-8fc8-d043416687db</webElementGuid>
+      <webElementGuid>a83de4e0-c003-4e87-9287-1f3f3d0e7312</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@ PAYMENT ACCEPTANCE&#xd;
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '#payment_acceptance')]</value>
-      <webElementGuid>a84d8cc1-729c-4e88-bcac-f08df7aaeae1</webElementGuid>
+      <webElementGuid>53d20997-d919-4f27-8b24-d6586b5e9503</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@ PAYMENT ACCEPTANCE&#xd;
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/ul/li[3]/a</value>
-      <webElementGuid>7f610909-3732-49fa-ac05-e2b4b3b14d7c</webElementGuid>
+      <webElementGuid>8a32ce06-602f-40df-abb4-11ac541acbf5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@ PAYMENT ACCEPTANCE
 PAYMENT ACCEPTANCE
                         
                     ')]</value>
-      <webElementGuid>c1a15243-722c-49cd-96f1-a9106bf86710</webElementGuid>
+      <webElementGuid>f32e0705-2c0b-41da-ad5c-9cd4dbf4759a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

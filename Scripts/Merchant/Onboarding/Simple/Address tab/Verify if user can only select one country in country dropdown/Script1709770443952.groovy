@@ -17,12 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('reusable test case/Log in'), [:], FailureHandling.CONTINUE_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('reusable test case/scroll down'), [:], FailureHandling.CONTINUE_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('reusable test case/click next button in profile tab'), [:], FailureHandling.CONTINUE_ON_FAILURE)
-
 WebUI.scrollToElement(findTestObject('user settings/user_settings_txtlabel'), 0)
 
 WebUI.click(findTestObject('user settings/country_dd'))

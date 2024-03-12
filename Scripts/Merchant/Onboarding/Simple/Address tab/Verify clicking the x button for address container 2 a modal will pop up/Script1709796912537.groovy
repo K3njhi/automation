@@ -21,5 +21,5 @@ WebUI.scrollToElement(findTestObject('user settings/delete_address_btn_2'), 0)
 
 WebUI.click(findTestObject('user settings/delete_address_btn_2'))
 
-WebUI.waitForElementVisible(findTestObject('user settings/modal address 2/Modal'), 0)
+WebUI.waitForElementVisible(findTestObject('user settings/modal address 2/Modal_2'), 0)
 

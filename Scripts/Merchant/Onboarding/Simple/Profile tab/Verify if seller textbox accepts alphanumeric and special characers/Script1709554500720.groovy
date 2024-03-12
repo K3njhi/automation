@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.setText(findTestObject('user settings/seller_location_textbox'), 'qwertyuiopasdfghjklzrwrxcvtwetbnm1234567890-=!@#$%^&*()_+{}:"|>?<[];\'\\,./~`')
 
-WebUI.scrollToElement(findTestObject('user settings/nextprofile_button'), 0)
-
 WebUI.click(findTestObject('user settings/nextprofile_button'))
+
+WebUI.waitForElementVisible(findTestObject('user settings/saved_address_textlabel'), 0)
 

@@ -6,16 +6,16 @@
    <elementGuidId>6a1889a4-3be1-4c62-b73c-9e8c0683d5f7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>/html/body/div[4]/div[2]/div/div[1]/div/div[1]/form/div[1]/div/div/div[1]/img[count(. | //img[@id = 'user-photo']) = count(//img[@id = 'user-photo'])]</value>
+         <key>CSS</key>
+         <value>#user-photo</value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//img[@id='user-photo']</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#user-photo</value>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div[2]/div/div[1]/div/div[1]/form/div[1]/div/div/div[1]/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -26,15 +26,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>edc21f7e-6af6-4a5d-a7e6-dc6424f89710</webElementGuid>
+      <webElementGuid>799ada71-7d5a-4025-9c9c-68559319adea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>user-photo</value>
-      <webElementGuid>e8a41800-1d7a-45ba-a23c-b1699d9d4bf3</webElementGuid>
+      <webElementGuid>45966325-41d9-4a0e-b534-53e1b6767d90</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>src</name>
       <type>Main</type>
       <value>/areas/user/assets/account/images/default_user.svg</value>
-      <webElementGuid>0c7df558-38c3-4b8c-b349-e0e6eb66f28b</webElementGuid>
+      <webElementGuid>e4754caa-f3ce-41a3-a0ae-976ea263786d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html/body/div[4]/div[2]/div/div[1]/div/div[1]/form/div[1]/div/div/div[1]/img</value>
-      <webElementGuid>43338fe9-19a7-44d8-88a2-6a59c14cd2e3</webElementGuid>
+      <webElementGuid>c4c6e20f-de9d-4071-8187-c8f2da06ba5b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//img[@id='user-photo']</value>
-      <webElementGuid>d1b85d0f-0b4b-40dd-8ffd-3e2e29314612</webElementGuid>
+      <webElementGuid>ee736030-856f-4e5a-a4d4-e8992f6cd59f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='profile']/div/div/form/div/div/div/div/img</value>
-      <webElementGuid>458d4893-3ef0-434a-b6c6-d4d98855750a</webElementGuid>
+      <webElementGuid>9a4dad5d-9ca8-47d2-bac9-41472cc9dbdd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/img</value>
-      <webElementGuid>ee0c2762-2ed8-4fa0-8a6c-f0ae1d6effd5</webElementGuid>
+      <webElementGuid>198fc61c-5151-4f72-9046-1ff69917a365</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,6 +82,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@id = 'user-photo' and @src = '/areas/user/assets/account/images/default_user.svg']</value>
-      <webElementGuid>5f3fa487-0843-46b9-8a3b-028683db9eae</webElementGuid>
+      <webElementGuid>2269158b-8902-445d-b704-a780ebb89a8d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

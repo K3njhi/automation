@@ -6,16 +6,16 @@
    <elementGuidId>fa1efeb5-c4bb-498e-b8f9-93bde786cefd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>/html/body/div[4]/div[2]/div/div[3]/div/div[5]/a[count(. | //a[@class = 'my-btn btn-red' and @id = 'next-tab']) = count(//a[@class = 'my-btn btn-red' and @id = 'next-tab'])]</value>
+         <key>CSS</key>
+         <value>#payment_acceptance > div.container > div.next-tab-area > #next-tab</value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>(//a[@id='next-tab'])[5]</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#payment_acceptance > div.container > div.next-tab-area > #next-tab</value>
+         <key>BASIC</key>
+         <value>//a[@class = 'my-btn btn-red' and @id = 'next-tab']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>5efc2486-9fe3-4c08-b7fc-8a1453a82106</webElementGuid>
+      <webElementGuid>e10ae948-0223-45e5-afd5-761852c0ac4d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>my-btn btn-red</value>
-      <webElementGuid>e9062706-7ee7-4627-8a35-0149f08fc25c</webElementGuid>
+      <webElementGuid>3fef9d44-179d-40c6-87ea-c90c7ba0964d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>Validate('undefined', 3, true)</value>
-      <webElementGuid>d4014420-0526-4a05-861e-9f1373232856</webElementGuid>
+      <webElementGuid>b8af9bbd-472e-4b17-83c7-8afdffe3980a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
       <name>id</name>
       <type>Main</type>
       <value>next-tab</value>
-      <webElementGuid>5036ee1e-e5ab-4efc-b2fe-0867d8984a33</webElementGuid>
+      <webElementGuid>c3281bb5-27a2-4496-8b39-47979d3e6912</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +58,7 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript:void(0);</value>
-      <webElementGuid>51479c3a-7fb1-4483-9294-692c9ca332fd</webElementGuid>
+      <webElementGuid>50611ca2-bf8d-4ac6-990d-0071156a5551</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,15 +68,15 @@
       <value>&#xd;
                                 SAVE&#xd;
                             </value>
-      <webElementGuid>30825fa3-5ab5-4693-9967-554ab21c8fc3</webElementGuid>
+      <webElementGuid>0085afec-3f11-486f-bb46-9eacd7e8926c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>/html/body/div[4]/div[2]/div/div[3]/div/div[5]/a</value>
-      <webElementGuid>985a0d9b-7cd7-4d90-b35e-9387e943c27a</webElementGuid>
+      <webElementGuid>05b2bb6d-8364-4833-8574-634f7ef23f47</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -84,7 +84,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//a[@id='next-tab'])[5]</value>
-      <webElementGuid>00d0ed12-a763-494d-a1b1-82f57703f4b5</webElementGuid>
+      <webElementGuid>8e00171a-0e11-4cd9-b3ef-665119be8982</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,7 +92,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='payment_acceptance']/div/div[5]/a</value>
-      <webElementGuid>a36e0abe-a212-4d0a-8dc3-096354b92a07</webElementGuid>
+      <webElementGuid>d28d9408-7de5-4811-ac53-f522c0f02f93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -100,7 +100,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'SAVE')]</value>
-      <webElementGuid>db354f90-e32e-401f-83da-92665c20fb35</webElementGuid>
+      <webElementGuid>703bfec2-874d-4833-899b-f491fa53d111</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,7 +108,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[2]/following::a[1]</value>
-      <webElementGuid>635d440f-47d4-4438-8c63-dec7e22c556c</webElementGuid>
+      <webElementGuid>382c4c07-6ad7-4ebf-af9a-aa8b2eb0c882</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -116,7 +116,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Account Name'])[1]/following::a[2]</value>
-      <webElementGuid>a54dfd2f-8fbb-48b8-b6b1-69d5aa0d35c0</webElementGuid>
+      <webElementGuid>9243ae67-e78b-4b65-81bb-aead76f0b6df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -124,7 +124,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ABOUT US'])[1]/preceding::a[1]</value>
-      <webElementGuid>c11c83c2-f2f6-4041-9cfd-5a4e24499d0d</webElementGuid>
+      <webElementGuid>956b9928-e865-443d-aa24-e57a7ba51bd6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -132,7 +132,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='TERMS OF SERVICE'])[1]/preceding::a[2]</value>
-      <webElementGuid>bb3eab71-3ea0-4ebd-8d2c-6c6713ce6c2f</webElementGuid>
+      <webElementGuid>369f2f0f-b7ee-4e15-b63e-25a735d2be96</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -140,7 +140,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='SAVE']/parent::*</value>
-      <webElementGuid>45df2e54-1cf2-418c-a69b-b3d696d54c6e</webElementGuid>
+      <webElementGuid>0a4c9846-37ea-4653-a89f-d307ad697fff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -148,7 +148,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'javascript:void(0);')])[10]</value>
-      <webElementGuid>8866ca24-cf47-4023-be3c-f3b89b308d2a</webElementGuid>
+      <webElementGuid>2bd9cde7-e130-41cd-83d1-7424e601a647</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -156,7 +156,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/a</value>
-      <webElementGuid>d132de98-b70a-40ee-8270-3bacb2f6a600</webElementGuid>
+      <webElementGuid>1d30a5f4-90aa-43c0-b4a1-84a423002ca8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -168,6 +168,6 @@
                             ' or . = '
                                 SAVE
                             ')]</value>
-      <webElementGuid>7a5efa63-d6a1-4dd7-aef6-9ae976c6bad9</webElementGuid>
+      <webElementGuid>c9c6f21f-4a0e-4bfc-a570-fea738f98cde</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

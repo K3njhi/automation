@@ -17,8 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('user settings/add_address_button'))
+WebUI.click(findTestObject('user settings/nextaddress_button'))
 
-WebUI.verifyElementAttributeValue(findTestObject('user settings/address_lname_textbox'), 'class', 'required error-con', 
-    0)
+WebUI.scrollToElement(findTestObject('user settings/user_settings_txtlabel'), 0)
+
+WebUI.verifyElementVisible(findTestObject('user settings/link_account_button'))
 

@@ -17,11 +17,14 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.setText(findTestObject('user settings/contact_number_textbox'), '235236236')
+WebUI.setText(findTestObject('user settings/contact_number_textbox'), '23523623633463488')
 
 WebUI.click(findTestObject('user settings/nextprofile_button'))
 
 WebUI.refresh()
 
-WebUI.waitForElementAttributeValue(findTestObject('user settings/contact_number_textbox'), 'value', '235236236', 0)
+WebUI.scrollToElement(findTestObject('user settings/contact_number_textbox'), 0)
+
+WebUI.verifyElementAttributeValue(findTestObject('user settings/contact_number_textbox'), 'value', '23523623633463488', 
+    0)
 

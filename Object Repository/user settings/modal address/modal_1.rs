@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Modal</name>
+   <name>modal_1</name>
    <tag></tag>
-   <elementGuidId>6b1686da-1741-4327-92ec-13361c5673e1</elementGuidId>
+   <elementGuidId>d14a9b61-c33b-4d58-9dcf-d6042b7e4d4e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -15,18 +15,18 @@
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>tag</name>
+      <name>class</name>
       <type>Main</type>
-      <value>div</value>
-      <webElementGuid>b5bda008-51a2-4ad1-81b5-8f5a19e5de0a</webElementGuid>
+      <value>modal-content</value>
+      <webElementGuid>ec2034de-b722-463a-a59f-8af25c175eaa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>tag</name>
       <type>Main</type>
-      <value>modal-content</value>
-      <webElementGuid>bbacf1d5-46d1-4abd-b38f-f559fa173bcd</webElementGuid>
+      <value>div</value>
+      <webElementGuid>72f65b68-6b85-48f5-aae7-b130fb19d20d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,6 +34,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html/body/div[16]/div/div</value>
-      <webElementGuid>a87555f4-09a2-4c59-baf1-2fad54e56c24</webElementGuid>
+      <webElementGuid>e81b546c-211e-4800-a1cc-be774b49601d</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

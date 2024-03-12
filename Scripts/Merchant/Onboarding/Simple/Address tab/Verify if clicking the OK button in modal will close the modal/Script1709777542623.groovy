@@ -17,7 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.click(findTestObject('user settings/delete_address_button_1'))
+
 WebUI.click(findTestObject('user settings/modal address/ok_button'))
 
-WebUI.waitForElementVisible(findTestObject('user settings/modal address/modal_address'), 0)
+WebUI.waitForElementNotPresent(findTestObject('user settings/modal address/modal_1'), 0)
 
