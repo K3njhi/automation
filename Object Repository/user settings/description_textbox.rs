@@ -6,19 +6,19 @@
    <elementGuidId>ab2f4044-6e1b-4006-90d2-06a03d190792</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>id(&quot;input-description&quot;)[count(. | //textarea[@name = 'description' and @id = 'input-description' and @class = 'big-text-area']) = count(//textarea[@name = 'description' and @id = 'input-description' and @class = 'big-text-area'])]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//textarea[@id='input-description']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;input-description&quot;)[count(. | //textarea[@name = 'description' and @id = 'input-description' and @class = 'big-text-area']) = count(//textarea[@name = 'description' and @id = 'input-description' and @class = 'big-text-area'])]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>#input-description</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>b64f7584-fc70-41df-95f6-c8d4c232e19b</webElementGuid>
+      <webElementGuid>a7fee452-80fa-44d2-9641-f68299721ce6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,7 +34,7 @@
       <name>name</name>
       <type>Main</type>
       <value>description</value>
-      <webElementGuid>9208cd89-51e5-4077-8110-6bfc4ce6801f</webElementGuid>
+      <webElementGuid>15e947b4-a481-4c4c-acc1-e2ac28e566bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>id</name>
       <type>Main</type>
       <value>input-description</value>
-      <webElementGuid>f6a85c29-5a53-48fc-94ab-72a4c20dfc13</webElementGuid>
+      <webElementGuid>7986ace3-feb1-48a5-8f37-a2f7bf5e6e0b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
       <name>class</name>
       <type>Main</type>
       <value>big-text-area</value>
-      <webElementGuid>0da597a9-5088-44ce-bffb-b905876adf5f</webElementGuid>
+      <webElementGuid>d7166f39-7f06-4e08-8cc9-b94642d43d04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;input-description&quot;)</value>
-      <webElementGuid>e77b8ac0-69e1-4f3b-a841-1d6aca724d1a</webElementGuid>
+      <webElementGuid>cb4db3d3-73d0-4de8-8d25-b314c344463e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//textarea[@id='input-description']</value>
-      <webElementGuid>a7a704d6-0b59-4c68-ae20-73f9f557122d</webElementGuid>
+      <webElementGuid>4fa0e01c-d6a9-415c-8a3e-d6434274c744</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='profile']/div/div/form/div[3]/div/textarea</value>
-      <webElementGuid>3654a33b-0f7b-4633-b00b-8d6471dcf616</webElementGuid>
+      <webElementGuid>1302fdcb-7d77-478b-b53f-c2fcac0152d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//textarea</value>
-      <webElementGuid>c949af68-4c9b-4ffd-bee6-ae90c8b3dcad</webElementGuid>
+      <webElementGuid>40a6560f-bed6-4896-8834-66c5153f2713</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,6 +90,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//textarea[@name = 'description' and @id = 'input-description']</value>
-      <webElementGuid>8516ed8b-06f7-4dce-8064-866354062e3f</webElementGuid>
+      <webElementGuid>abe56a5e-3714-4de1-a9c0-281d022d1c21</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

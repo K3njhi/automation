@@ -25,5 +25,6 @@ WebUI.scrollToElement(findTestObject('user settings/nextprofile_button'), 0)
 
 WebUI.click(findTestObject('user settings/nextprofile_button'))
 
-WebUI.waitForElementAttributeValue(findTestObject('user settings/display_name_textbox'), 'class', 'required', 0)
+WebUI.waitForElementAttributeValue(findTestObject('spyweb/Page_bespokeautomationken/input_DISPLAY NAME_DisplayName'), 'class', 
+    'required', 0)
 

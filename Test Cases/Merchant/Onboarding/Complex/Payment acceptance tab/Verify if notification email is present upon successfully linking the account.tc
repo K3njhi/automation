@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if notification email is present upon successfully linking the account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1f28bef-3f0b-476d-95c9-eff32550c2f5</testCaseGuid>
+</TestCaseEntity>

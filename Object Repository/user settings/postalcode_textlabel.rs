@@ -6,18 +6,18 @@
    <elementGuidId>38b79e90-a806-4ab9-8d86-9f7d67c851ce</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>/html/body/div[4]/div[2]/div/div[2]/div/div[1]/form/div[3]/div[4]/label[count(. | //label[(text() = 'POSTAL CODE' or . = 'POSTAL CODE')]) = count(//label[(text() = 'POSTAL CODE' or . = 'POSTAL CODE')])]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='address-fields']/div[4]/label</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div[2]/div/div[2]/div/div[1]/form/div[3]/div[4]/label[count(. | //label[(text() = 'POSTAL CODE' or . = 'POSTAL CODE')]) = count(//label[(text() = 'POSTAL CODE' or . = 'POSTAL CODE')])]</value>
       </entry>
       <entry>
          <key>CSS</key>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -25,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>ea4dbf73-c3f2-43f8-b6a8-8352f2cdc0c9</webElementGuid>
+      <webElementGuid>683ef446-2aff-454c-8afe-47141c9f8f07</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -33,7 +33,7 @@
       <name>text</name>
       <type>Main</type>
       <value>POSTAL CODE</value>
-      <webElementGuid>fffa7537-aad7-4a1c-854f-f0fb94cc3cb2</webElementGuid>
+      <webElementGuid>50f77677-aece-4113-8bed-166ec4fa940b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html/body/div[4]/div[2]/div/div[2]/div/div[1]/form/div[3]/div[4]/label</value>
-      <webElementGuid>7f2b758d-4b30-4f84-974c-11db36fa4b21</webElementGuid>
+      <webElementGuid>127db1af-f54b-4fb7-929d-ef2930ecf873</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='address-fields']/div[4]/label</value>
-      <webElementGuid>0fa7f949-efcd-481f-a1d1-75920509791c</webElementGuid>
+      <webElementGuid>7ced86b6-9405-47ce-a82c-04edb9f9280c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -57,7 +57,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CITY'])[1]/following::label[1]</value>
-      <webElementGuid>6d9b94e2-18bf-4b97-a0cf-a93f20ea207f</webElementGuid>
+      <webElementGuid>d63ffa41-d4b2-466a-8a2a-bbf79965096e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='STATE'])[1]/following::label[2]</value>
-      <webElementGuid>64aad179-565e-4828-a795-3731cd8e159d</webElementGuid>
+      <webElementGuid>4f7bb0c3-0344-4637-8a7c-9c88e98520a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SAVED ADDRESSES'])[1]/preceding::label[1]</value>
-      <webElementGuid>a583673b-d095-491f-8134-3a706a08a62f</webElementGuid>
+      <webElementGuid>2581aa87-fef0-4d67-9e87-6786dde24f1f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='NEXT'])[2]/preceding::label[1]</value>
-      <webElementGuid>5fdf2df2-4ed8-4a0c-9c22-80f4e1e4db36</webElementGuid>
+      <webElementGuid>49e53e6c-3d34-4e45-aa05-4f712f2f3824</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='POSTAL CODE']/parent::*</value>
-      <webElementGuid>45cde231-661d-4711-9dea-753ae49d1883</webElementGuid>
+      <webElementGuid>033a6653-a178-4b4b-815f-8bec8eff34dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/label</value>
-      <webElementGuid>889dc547-8755-40c3-b6a8-66481077b465</webElementGuid>
+      <webElementGuid>30f32528-5aeb-42d3-8588-c6c88dccee7a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,6 +105,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'POSTAL CODE' or . = 'POSTAL CODE')]</value>
-      <webElementGuid>2ec60331-4a10-4fa6-a6bf-8ab7c21aa19f</webElementGuid>
+      <webElementGuid>7311c802-da57-49d6-940d-994909605348</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

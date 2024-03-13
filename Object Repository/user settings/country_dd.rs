@@ -6,19 +6,19 @@
    <elementGuidId>d766269a-e39d-4893-9221-c9d20d9c2cd8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>/html/body/div[4]/div[2]/div/div[2]/div/div[1]/form/div[3]/div[1]/select[count(. | //select[@name = 'country' and @id = 'country' and @class = 'required']) = count(//select[@name = 'country' and @id = 'country' and @class = 'required'])]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//select[@id='country']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div[2]/div/div[2]/div/div[1]/form/div[3]/div[1]/select[count(. | //select[@name = 'country' and @id = 'country' and @class = 'required']) = count(//select[@name = 'country' and @id = 'country' and @class = 'required'])]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>#country</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>7f5d9886-9ceb-460f-ab2a-432dcd2c879d</webElementGuid>
+      <webElementGuid>3c716019-ad27-45e5-8c96-0e3ffc31c245</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,7 +34,7 @@
       <name>name</name>
       <type>Main</type>
       <value>country</value>
-      <webElementGuid>d4ff8d34-768d-4449-9de7-f4f526b757b1</webElementGuid>
+      <webElementGuid>22d7dbce-19a0-46c7-9c2f-8c4e50323a3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>id</name>
       <type>Main</type>
       <value>country</value>
-      <webElementGuid>42b4a49f-d215-4669-80fa-51d1501e2b0c</webElementGuid>
+      <webElementGuid>f54dab68-b30c-43e7-80ff-93e7177f1867</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
       <name>class</name>
       <type>Main</type>
       <value>required</value>
-      <webElementGuid>660d3cce-117f-41d4-a13f-7e55893a02de</webElementGuid>
+      <webElementGuid>eb22c765-683d-458d-a044-c5e7fa7c7029</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +58,7 @@
       <name>text</name>
       <type>Main</type>
       <value> (SELECT COUNTRY)</value>
-      <webElementGuid>468d4d3b-0088-430d-a07c-4f3cbf631f3a</webElementGuid>
+      <webElementGuid>fe202df8-bbe5-4d84-b921-d802e5403af2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html/body/div[4]/div[2]/div/div[2]/div/div[1]/form/div[3]/div[1]/select</value>
-      <webElementGuid>c87b9c63-6e48-48b0-b727-9a22d0399f62</webElementGuid>
+      <webElementGuid>7dc6210d-d025-4130-9309-e5a6ea4683eb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='country']</value>
-      <webElementGuid>c2f328fb-d504-4b2e-9bcf-4af7385c1ec6</webElementGuid>
+      <webElementGuid>7f190b3f-d08a-473e-9e48-fedad9fd0632</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='address-fields']/div/select</value>
-      <webElementGuid>e7f090b5-9e87-40ab-9db1-145ab48c6c91</webElementGuid>
+      <webElementGuid>66be733f-f479-473f-b082-81b49f3cdb7e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='COUNTRY'])[1]/following::select[1]</value>
-      <webElementGuid>126ced05-00fd-4a23-97a6-55df16db55bf</webElementGuid>
+      <webElementGuid>0645687b-a6ca-4b47-b792-057da9bd8998</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ADDRESS'])[2]/following::select[1]</value>
-      <webElementGuid>8d9d63e2-e0db-462a-887e-0434b1755359</webElementGuid>
+      <webElementGuid>2f0cca0d-ddef-4653-a835-e3c2a8876847</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='STATE'])[1]/preceding::select[1]</value>
-      <webElementGuid>c6a4c61e-376f-4e87-8555-d9c128e23f83</webElementGuid>
+      <webElementGuid>846569f3-103a-402d-99ba-44cd00adee2b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,7 +114,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CITY'])[1]/preceding::select[1]</value>
-      <webElementGuid>d52d3eb8-244a-471d-a0fa-4814197ef400</webElementGuid>
+      <webElementGuid>0674b21d-bb00-4843-848e-920000068f4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,7 +122,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>c003da1c-b1c9-4483-91aa-48ba16b7db98</webElementGuid>
+      <webElementGuid>aa4ca1d5-48b2-43bc-8553-4aa9cab5cdc4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -614,6 +614,6 @@
                                             Zambia
                                             Zimbabwe
                                 &quot;))]</value>
-      <webElementGuid>7d50c6da-589c-4e5d-b257-a2348848d12c</webElementGuid>
+      <webElementGuid>c74a89a3-71a2-4b2a-bb6e-6d47d33b9376</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

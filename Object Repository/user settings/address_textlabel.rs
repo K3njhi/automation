@@ -6,19 +6,19 @@
    <elementGuidId>0492954c-79ed-401f-978d-eb9368759530</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>/html/body/div[4]/div[2]/div/div[2]/div/div[1]/form/div[2]/div/label[count(. | //label[(text() = 'ADDRESS' or . = 'ADDRESS')]) = count(//label[(text() = 'ADDRESS' or . = 'ADDRESS')])]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//form[@id='address-form']/div[2]/div/label</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div[2]/div/div[2]/div/div[1]/form/div[2]/div/label[count(. | //label[(text() = 'ADDRESS' or . = 'ADDRESS')]) = count(//label[(text() = 'ADDRESS' or . = 'ADDRESS')])]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>div.col-md-12.gutter-30 > label</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>de4a59d2-b1d1-44f0-a069-9a76619b3d37</webElementGuid>
+      <webElementGuid>e77d8e1f-8f9b-48f1-9490-7cecf0b30b6e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,7 +34,7 @@
       <name>text</name>
       <type>Main</type>
       <value>ADDRESS</value>
-      <webElementGuid>f86e438f-6274-4f18-a81d-82bc9ef74776</webElementGuid>
+      <webElementGuid>e6065c8b-fd87-42f4-bf59-7ad8a82824a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html/body/div[4]/div[2]/div/div[2]/div/div[1]/form/div[2]/div/label</value>
-      <webElementGuid>ef150c65-5443-4fdc-85f1-f2d1a49fd604</webElementGuid>
+      <webElementGuid>6a05ec60-9213-4c58-842c-72958467ddef</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='address-form']/div[2]/div/label</value>
-      <webElementGuid>183e43c4-6c99-451c-bce2-801a08ca7eed</webElementGuid>
+      <webElementGuid>a196b7bd-75d4-43a2-abaa-d4ac764eb4c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ADDRESSEE LAST NAME'])[1]/following::label[1]</value>
-      <webElementGuid>5a121d31-6e74-432d-aa65-2fb9aa799a0f</webElementGuid>
+      <webElementGuid>10331871-c69e-42d9-970e-56b418889218</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ADDRESSEE FIRST NAME'])[1]/following::label[2]</value>
-      <webElementGuid>3b776c15-1e67-4b53-a621-26200a96bba4</webElementGuid>
+      <webElementGuid>9c2a7bcb-0381-4521-ba02-4f254d61c947</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='COUNTRY'])[1]/preceding::label[1]</value>
-      <webElementGuid>caf30f47-dda9-41f3-99fc-9aecfec5b2a9</webElementGuid>
+      <webElementGuid>a84dec03-bd19-406b-8c0e-02eccc47208b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='STATE'])[1]/preceding::label[2]</value>
-      <webElementGuid>7bfdffea-bb79-4a43-8f57-26c28d89ca76</webElementGuid>
+      <webElementGuid>7bdfed2f-9376-4d28-a5fa-68f89cf76298</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/form/div[2]/div/label</value>
-      <webElementGuid>64b4ecb8-3af6-4c7e-80a4-4e6171d762b2</webElementGuid>
+      <webElementGuid>48b9e1da-c1fc-42b5-be26-66fddd08d537</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,6 +98,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'ADDRESS' or . = 'ADDRESS')]</value>
-      <webElementGuid>11b02d5e-e2bd-4617-88ad-60cfec27f403</webElementGuid>
+      <webElementGuid>17f40540-a58f-4fdf-a3ff-f1fce9cb20ef</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

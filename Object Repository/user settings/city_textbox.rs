@@ -6,19 +6,19 @@
    <elementGuidId>3cf911c0-20f1-40f0-b8fa-2f7750621a23</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>/html/body/div[4]/div[2]/div/div[2]/div/div[1]/form/div[3]/div[3]/input[count(. | //input[@type = 'text' and @name = 'city' and @id = 'city' and @class = 'required']) = count(//input[@type = 'text' and @name = 'city' and @id = 'city' and @class = 'required'])]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='city']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div[2]/div/div[2]/div/div[1]/form/div[3]/div[3]/input[count(. | //input[@type = 'text' and @name = 'city' and @id = 'city' and @class = 'required']) = count(//input[@type = 'text' and @name = 'city' and @id = 'city' and @class = 'required'])]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>#city</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6acb475c-e7f4-4f61-8781-009f6b4ff8dc</webElementGuid>
+      <webElementGuid>c42132a1-d415-4bbf-878f-c0138e1ac805</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,7 +34,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>7e426581-577e-40fe-bcb9-6f688f8fe82e</webElementGuid>
+      <webElementGuid>7f4e3a03-8bf8-4f77-831b-b1dc7f01ac38</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>name</name>
       <type>Main</type>
       <value>city</value>
-      <webElementGuid>2d2f0438-67c3-4bf7-a963-8830b62a1188</webElementGuid>
+      <webElementGuid>dd4f6a7a-4c3c-4753-8ac6-0a26e577a934</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
       <name>id</name>
       <type>Main</type>
       <value>city</value>
-      <webElementGuid>6fd5c7df-3fd9-42b5-9e23-e98053906fff</webElementGuid>
+      <webElementGuid>6c110b9c-5fff-4a11-8e9a-5686af00b6b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>class</name>
       <type>Main</type>
       <value>required</value>
-      <webElementGuid>50aa7f67-14e8-440b-9e51-bbd6b10f4107</webElementGuid>
+      <webElementGuid>18a164d6-89f8-4218-815a-20cb8307fc15</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html/body/div[4]/div[2]/div/div[2]/div/div[1]/form/div[3]/div[3]/input</value>
-      <webElementGuid>bd2c73f1-4cab-4c3a-b13d-f132dfe42d23</webElementGuid>
+      <webElementGuid>55ab8aa7-6e79-4c01-af9f-80c3c8dc2748</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='city']</value>
-      <webElementGuid>74964d60-7479-40c9-9c59-f44a6fab2c51</webElementGuid>
+      <webElementGuid>de88cd4d-a568-4198-b29a-baafb0d759f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='address-fields']/div[3]/input</value>
-      <webElementGuid>98a3ccd3-e83b-4465-8dd8-c64589a4b76c</webElementGuid>
+      <webElementGuid>b3dc33ba-1c75-4af8-bd73-c6b20965d174</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/input</value>
-      <webElementGuid>d134064b-9fbc-47a4-ab78-cc690c5d6309</webElementGuid>
+      <webElementGuid>73663401-35d5-41e8-87f8-112f963990f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,6 +98,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'city' and @id = 'city']</value>
-      <webElementGuid>acd4e683-351d-4261-9e2c-82b570760a83</webElementGuid>
+      <webElementGuid>77bc07b5-5fb6-41a4-bbd9-dfe562271c21</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

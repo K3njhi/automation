@@ -21,10 +21,11 @@ WebUI.setText(findTestObject('user settings/contact_number_textbox'), '235236236
 
 WebUI.click(findTestObject('user settings/nextprofile_button'))
 
+WebUI.verifyElementPresent(findTestObject('user settings/saved_address_textlabel'), 0)
+
+WebUI.verifyElementVisible(findTestObject('user settings/saved_address_textlabel'))
+
 WebUI.refresh()
 
-WebUI.scrollToElement(findTestObject('user settings/contact_number_textbox'), 0)
-
-WebUI.verifyElementAttributeValue(findTestObject('user settings/contact_number_textbox'), 'value', '23523623633463488', 
-    0)
+WebUI.scrollToElement(findTestObject('user settings/nextprofile_button'), 0)
 

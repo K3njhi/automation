@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>modal_payment</name>
+   <tag></tag>
+   <elementGuidId>832be442-bb02-4f01-b3e6-d02c204d7b5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[16]/div/div[count(. | //div[@class = 'modal-content']) = count(//div[@class = 'modal-content'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f68dfff2-b0fa-4ede-b9e1-e3fd4e65bebb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-content</value>
+      <webElementGuid>58763708-9c41-42ad-8fdf-df698dc01b7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[16]/div/div</value>
+      <webElementGuid>ef81fdd6-cb80-4bed-ade1-4f46cdc75bba</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

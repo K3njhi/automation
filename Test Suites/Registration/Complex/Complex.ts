@@ -33,6 +33,13 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
+      <guid>08bc0075-74b9-4400-8795-75b5aa44c5da</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Registration/Complex/Verify if toaster message will display if the user used existing email or username to sign up</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
       <guid>f3ed7748-f13e-4a1e-ac79-539a5441e2e1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>

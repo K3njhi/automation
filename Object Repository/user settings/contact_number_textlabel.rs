@@ -6,18 +6,18 @@
    <elementGuidId>67657269-09b6-4c81-90f2-041ba35269a2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>id(&quot;profile&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;seller-common-box&quot;]/form[1]/div[@class=&quot;item-form-group&quot;]/div[@class=&quot;col-md-6&quot;]/label[1][count(. | //label[(text() = 'CONTACT NUMBER' or . = 'CONTACT NUMBER')]) = count(//label[(text() = 'CONTACT NUMBER' or . = 'CONTACT NUMBER')])]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='profile']/div/div/form/div[5]/div[2]/label</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;profile&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;seller-common-box&quot;]/form[1]/div[@class=&quot;item-form-group&quot;]/div[@class=&quot;col-md-6&quot;]/label[1][count(. | //label[(text() = 'CONTACT NUMBER' or . = 'CONTACT NUMBER')]) = count(//label[(text() = 'CONTACT NUMBER' or . = 'CONTACT NUMBER')])]</value>
       </entry>
       <entry>
          <key>CSS</key>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -25,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>917f08c7-84b2-4934-a965-cc347927e218</webElementGuid>
+      <webElementGuid>28c6580d-f795-46d1-974d-b74f1406ed72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -33,7 +33,7 @@
       <name>text</name>
       <type>Main</type>
       <value>CONTACT NUMBER</value>
-      <webElementGuid>04f01dad-2439-4add-885e-b739f9822d45</webElementGuid>
+      <webElementGuid>1c5879c4-1ba7-4ee1-be01-0d405333679f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;profile&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;seller-common-box&quot;]/form[1]/div[@class=&quot;item-form-group&quot;]/div[@class=&quot;col-md-6&quot;]/label[1]</value>
-      <webElementGuid>54f836d4-4140-4d43-ada8-3381599ae7a8</webElementGuid>
+      <webElementGuid>432d3297-e4df-46dd-a79a-fe71bcd24bbd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='profile']/div/div/form/div[5]/div[2]/label</value>
-      <webElementGuid>2d3c23fb-9d0c-4597-b67a-b07010d3b30f</webElementGuid>
+      <webElementGuid>05aca6fe-3128-4135-96e2-9d78ecfa2435</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -57,7 +57,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='NOTIFICATION EMAIL'])[1]/following::label[1]</value>
-      <webElementGuid>23f22aa6-bb27-4182-92b8-0848d157057c</webElementGuid>
+      <webElementGuid>32ec0aab-e4be-4fe7-8d4c-ce64707bb91b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='LAST NAME'])[1]/following::label[2]</value>
-      <webElementGuid>a860d4ab-d9d2-474b-9720-abd4845b3327</webElementGuid>
+      <webElementGuid>7796364c-dd13-448a-a4b9-666b34875fc2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OPENID LOGIN'])[1]/preceding::label[1]</value>
-      <webElementGuid>f0573044-f883-493d-866c-30439842a030</webElementGuid>
+      <webElementGuid>280952c5-0fb9-4f74-b4b5-716bee642d24</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Seller Location'])[1]/preceding::label[2]</value>
-      <webElementGuid>87d967bb-46a7-4418-b90e-1c4320adfd7e</webElementGuid>
+      <webElementGuid>89ba33e4-b640-4513-8ccf-273bfdd4f54a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='CONTACT NUMBER']/parent::*</value>
-      <webElementGuid>ab0e0674-ce51-44bf-9300-1877d0e13319</webElementGuid>
+      <webElementGuid>0dd99007-7736-41de-86c2-2f01b6786525</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div[2]/label</value>
-      <webElementGuid>e85375e6-ae0a-41b8-a72d-605e963bbe09</webElementGuid>
+      <webElementGuid>4f15cdcd-81ba-4d5e-8f2e-e3c8038bf47a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,6 +105,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'CONTACT NUMBER' or . = 'CONTACT NUMBER')]</value>
-      <webElementGuid>5ccfd4b5-060d-4300-a362-6098582ff8ee</webElementGuid>
+      <webElementGuid>5442ea6d-9dea-4d43-8dca-1b74ce477f98</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

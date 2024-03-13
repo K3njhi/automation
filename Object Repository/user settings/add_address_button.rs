@@ -6,19 +6,19 @@
    <elementGuidId>27c7b3c0-e27a-4373-bf00-2314bcc2b418</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>/html/body/div[4]/div[2]/div/div[2]/div/div[1]/form/div[4]/input[count(. | //input[@type = 'button' and @value = 'ADD ADDRESS' and @class = 'my-btn btn-black']) = count(//input[@type = 'button' and @value = 'ADD ADDRESS' and @class = 'my-btn btn-black'])]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@value='ADD ADDRESS']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div[2]/div/div[2]/div/div[1]/form/div[4]/input[count(. | //input[@type = 'button' and @value = 'ADD ADDRESS' and @class = 'my-btn btn-black']) = count(//input[@type = 'button' and @value = 'ADD ADDRESS' and @class = 'my-btn btn-black'])]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>input.my-btn.btn-black</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>c705e5bb-b351-4768-b715-88924b3fa7d1</webElementGuid>
+      <webElementGuid>e8ee858d-bf43-4f4d-80a9-693e68f4d855</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,7 +34,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>43379d4c-e4dd-4df0-9cff-fc250bea4366</webElementGuid>
+      <webElementGuid>00d3c4e1-d468-4f82-9f2d-4691fb836b95</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>value</name>
       <type>Main</type>
       <value>ADD ADDRESS</value>
-      <webElementGuid>9e190098-7e3c-4761-b92b-25d555a532f8</webElementGuid>
+      <webElementGuid>41e8bb4e-0584-4cd0-8d64-d6dff4c46585</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>add_address(event)</value>
-      <webElementGuid>7b58b251-409c-4c78-acaa-c7bcfda7c590</webElementGuid>
+      <webElementGuid>4c85314a-9148-4b5d-b568-ffcc6118ef72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>class</name>
       <type>Main</type>
       <value>my-btn btn-black</value>
-      <webElementGuid>fa387fc4-3c18-4b84-a6b0-31dbb1de90bc</webElementGuid>
+      <webElementGuid>f862e7b2-afea-4586-943b-4b2ffb729a02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html/body/div[4]/div[2]/div/div[2]/div/div[1]/form/div[4]/input</value>
-      <webElementGuid>a19fd61d-5376-4a0e-852c-7d9c30ca8c6d</webElementGuid>
+      <webElementGuid>48b13784-117a-4c88-9c83-8ffa7e75fdeb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@value='ADD ADDRESS']</value>
-      <webElementGuid>9c90e45b-8e3e-450d-bf3a-cf531fed0e57</webElementGuid>
+      <webElementGuid>6b9e9143-5189-4e2f-8959-5a0cc9ffe0f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='address-form']/div[4]/input</value>
-      <webElementGuid>2215cc02-8a7c-4b54-b963-de08f45d8d09</webElementGuid>
+      <webElementGuid>f09afcf4-0d65-43b4-a9b7-6039ef49f856</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div[4]/input</value>
-      <webElementGuid>6b3c4877-068f-468a-a402-473f9fb9339d</webElementGuid>
+      <webElementGuid>32a4709e-2c39-4719-bcd9-09b3f44af2b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,6 +98,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'button']</value>
-      <webElementGuid>66c95d00-a3f4-4045-be99-834cb768974b</webElementGuid>
+      <webElementGuid>e9b034d9-9b4a-4a90-9b09-844ea2e704f7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

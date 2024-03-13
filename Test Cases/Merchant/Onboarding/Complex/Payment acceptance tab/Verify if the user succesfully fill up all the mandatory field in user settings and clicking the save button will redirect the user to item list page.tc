@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if the user succesfully fill up all the mandatory field in user settings and clicking the save button will redirect the user to item list page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a3b62a2b-ff76-4600-b99e-11452648d1c3</testCaseGuid>
+</TestCaseEntity>

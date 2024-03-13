@@ -17,11 +17,12 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('user settings/fname_textbox'))
+WebUI.click(findTestObject('spyweb/Page_bespokeautomationken/input_FIRST NAME_FirstName'))
 
-WebUI.setText(findTestObject('user settings/fname_textbox'), '    ')
+WebUI.setText(findTestObject('spyweb/Page_bespokeautomationken/input_FIRST NAME_FirstName'), '    ')
 
 WebUI.click(findTestObject('user settings/nextprofile_button'))
 
-WebUI.verifyElementAttributeValue(findTestObject('user settings/fname_textbox'), 'class', 'required error-con', 0)
+WebUI.verifyElementAttributeValue(findTestObject('spyweb/Page_bespokeautomationken/input_FIRST NAME_FirstName'), 'class', 
+    'required error-con', 0)
 

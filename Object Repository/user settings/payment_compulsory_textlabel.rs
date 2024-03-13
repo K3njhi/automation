@@ -6,19 +6,19 @@
    <elementGuidId>96778960-f158-4692-90f8-e5c0e60013e9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>/html/body/div[4]/div[2]/div/div[3]/div/div[1]/div/div[2]/div[4]/span[count(. | //span[(text() = 'This payment method is compulsory.' or . = 'This payment method is compulsory.')]) = count(//span[(text() = 'This payment method is compulsory.' or . = 'This payment method is compulsory.')])]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='payment_acceptance']/div/div/div/div[2]/div[4]/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div[2]/div/div[3]/div/div[1]/div/div[2]/div[4]/span[count(. | //span[(text() = 'This payment method is compulsory.' or . = 'This payment method is compulsory.')]) = count(//span[(text() = 'This payment method is compulsory.' or . = 'This payment method is compulsory.')])]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>div.col-xs-12.col-sm-2.verified > span</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>30ab466c-59d0-4ce8-902a-11fe9b568bd7</webElementGuid>
+      <webElementGuid>b22866df-9f65-4810-a89e-1f95ba32fabb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,7 +34,7 @@
       <name>text</name>
       <type>Main</type>
       <value>This payment method is compulsory.</value>
-      <webElementGuid>7a4ae409-a0d9-45cf-ab44-044ab4ae6f45</webElementGuid>
+      <webElementGuid>a9c08da5-1973-4cd9-b4b7-4bc44c318756</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html/body/div[4]/div[2]/div/div[3]/div/div[1]/div/div[2]/div[4]/span</value>
-      <webElementGuid>ac569be3-2841-480b-9a6c-32481ca5adb1</webElementGuid>
+      <webElementGuid>105f2c94-42ea-4644-a0c9-0f2c39f5be0a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='payment_acceptance']/div/div/div/div[2]/div[4]/span</value>
-      <webElementGuid>ba7976e0-d339-430a-8b19-93eafdfdf9ce</webElementGuid>
+      <webElementGuid>095ab02d-e0c5-4755-95a0-01569e5f9806</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Link Account'])[1]/following::span[1]</value>
-      <webElementGuid>8db9aa19-16b8-48ff-b1c8-1911cc485ad7</webElementGuid>
+      <webElementGuid>3ee3acd6-2b87-4f49-8408-960235fda677</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No account linked yet'])[1]/following::span[1]</value>
-      <webElementGuid>5bdf4a03-bf98-4666-9c04-ef1e0731fb60</webElementGuid>
+      <webElementGuid>00124e56-1bdb-4b52-8acf-1efd92a1f229</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::span[1]</value>
-      <webElementGuid>417fae0a-91b7-4352-8ec6-b830eec666f4</webElementGuid>
+      <webElementGuid>8d982916-83d5-41f9-b896-300fcdb2727a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ACCOUNT CONFIGURATION'])[1]/preceding::span[1]</value>
-      <webElementGuid>dba58752-c09a-4caf-9e0f-51164912fb84</webElementGuid>
+      <webElementGuid>c4da9f6a-0906-46a4-9eb6-7564adf9ff2b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='This payment method is compulsory.']/parent::*</value>
-      <webElementGuid>0813be40-4924-4c3c-b62d-93f34b155e47</webElementGuid>
+      <webElementGuid>64b2b363-5c78-4247-9b48-b91f17f22260</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[4]/span</value>
-      <webElementGuid>b9b99751-d1ee-4abf-8b93-a1a3ab086203</webElementGuid>
+      <webElementGuid>c54642f1-3683-4647-9bd3-ccd2975163f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,6 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'This payment method is compulsory.' or . = 'This payment method is compulsory.')]</value>
-      <webElementGuid>835f348a-8250-4e26-b538-870c106dd0ef</webElementGuid>
+      <webElementGuid>5f2ead6d-5d74-4341-85e3-fb6254d399b2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

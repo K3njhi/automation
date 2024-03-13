@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>toaster_payment_title</name>
+   <tag></tag>
+   <elementGuidId>4bde4724-83f5-4c7b-bb69-172ee5de18d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[16]/div/div[1][count(. | //div[@class = 'toast-title' and (text() = 'Oops! Something went wrong.' or . = 'Oops! Something went wrong.')]) = count(//div[@class = 'toast-title' and (text() = 'Oops! Something went wrong.' or . = 'Oops! Something went wrong.')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6eda139e-53ee-4a05-8cfe-1d311d4d16e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toast-title</value>
+      <webElementGuid>5fb4fc2a-3392-40bb-94d7-b7cff03c75f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Oops! Something went wrong.</value>
+      <webElementGuid>df644add-103b-4424-ac34-daafb0a7dfbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[16]/div/div[1]</value>
+      <webElementGuid>5a9ea4a9-9d17-44e1-b126-c908af64245b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

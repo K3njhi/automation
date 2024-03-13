@@ -6,11 +6,15 @@
    <elementGuidId>e1de07d7-9853-46f9-8f44-8216c4e68448</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
          <key>BASIC</key>
          <value></value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -18,7 +22,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html/body/div[4]/div[2]/div/div[2]/div/div[2]/div[3]/div[2]/div/div[1]</value>
-      <webElementGuid>9408b464-d882-4db1-b851-35031fe20619</webElementGuid>
+      <webElementGuid>910ec757-4d52-43ab-af69-2e366b661797</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -26,7 +30,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>dba6d8d0-f686-4086-b1a5-9b8fc6ba1687</webElementGuid>
+      <webElementGuid>bbb227da-003e-4130-8c5d-8845e25bdf39</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,6 +38,6 @@
       <name>class</name>
       <type>Main</type>
       <value>description</value>
-      <webElementGuid>e4eeb902-8841-4841-9595-b7072834c24b</webElementGuid>
+      <webElementGuid>da83e024-52b5-4f46-b875-4c6a4cc40573</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

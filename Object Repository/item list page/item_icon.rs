@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>item_icon</name>
+   <tag></tag>
+   <elementGuidId>6b37407e-5f5e-41e2-a107-66f659e9e6f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h1/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon.icon-bag</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>e3608ca4-cbee-440a-8b57-c61304de1569</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon icon-bag</value>
+      <webElementGuid>ccbd47dd-ca02-4299-8613-280b12720fef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-seller seller-items enable-print seller-item-page  pace-done&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;seller-titlearea&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/h1[1]/i[@class=&quot;icon icon-bag&quot;]</value>
+      <webElementGuid>ad906d0a-6853-4578-8988-08459855ad68</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/i</value>
+      <webElementGuid>4dbaff97-4cf6-46e7-ad36-59c30c0c4868</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

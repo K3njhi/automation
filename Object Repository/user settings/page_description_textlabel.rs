@@ -6,6 +6,10 @@
    <elementGuidId>5feac03b-e346-4363-95a1-ae4c459d0ee3</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
          <key>BASIC</key>
          <value>/html/body/div[4]/div[1]/div/div/p[count(. | //p[(text() = 'Configure your profile, your delivery methods and how you receive payments.' or . = 'Configure your profile, your delivery methods and how you receive payments.')]) = count(//p[(text() = 'Configure your profile, your delivery methods and how you receive payments.' or . = 'Configure your profile, your delivery methods and how you receive payments.')])]</value>
       </entry>
@@ -18,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>7b763ec7-de2f-44e3-8eba-2e3047501e3b</webElementGuid>
+      <webElementGuid>c9499951-9ec1-4430-bd2f-c236015a0ae8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Configure your profile, your delivery methods and how you receive payments.</value>
-      <webElementGuid>1fee1a1f-d268-41d5-ab6b-e104ca593945</webElementGuid>
+      <webElementGuid>53dfb7ff-aa38-4da7-88f4-2361a84d03b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,6 +38,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html/body/div[4]/div[1]/div/div/p</value>
-      <webElementGuid>c36e362b-1c63-4de8-a465-7174a258ee64</webElementGuid>
+      <webElementGuid>155dbf06-a9f5-428e-9712-91363fe05a6f</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

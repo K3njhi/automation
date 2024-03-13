@@ -17,9 +17,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.setText(findTestObject('user settings/fname_textbox'), 'qwertyuiopasdfghjklzrwrxcvtwetbnm1234567890-=!@#$%^&*()_+{}:"|>?<[];\'\\,./~`')
+WebUI.setText(findTestObject('spyweb/Page_bespokeautomationken/input_FIRST NAME_FirstName'), 'qwertyuiopasdfghjklzrwrxcvtwetbnm1234567890-=!@#$%^&*()_+{}:"|>?<[];\'\\,./~`')
 
 WebUI.click(findTestObject('user settings/nextprofile_button'))
 
-WebUI.verifyElementAttributeValue(findTestObject('user settings/fname_textbox'), 'class', 'required', 0)
+WebUI.verifyElementAttributeValue(findTestObject('spyweb/Page_bespokeautomationken/input_FIRST NAME_FirstName'), 'class', 
+    'required', 0)
 

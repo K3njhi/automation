@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if clicking the Cancel button in modal payment will close the modal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1b84974a-9282-4cf9-97a5-da12ab75c647</testCaseGuid>
+</TestCaseEntity>

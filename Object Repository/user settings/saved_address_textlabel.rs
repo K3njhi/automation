@@ -6,18 +6,18 @@
    <elementGuidId>4ac439d0-a53f-4bae-aeb8-63be182338e4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>/html/body/div[4]/div[2]/div/div[2]/div/div[2]/div[1]/h4[count(. | //h4[@class = 'title' and (text() = 'SAVED ADDRESSES' or . = 'SAVED ADDRESSES')]) = count(//h4[@class = 'title' and (text() = 'SAVED ADDRESSES' or . = 'SAVED ADDRESSES')])]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='address']/div/div[2]/div/h4</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div[2]/div/div[2]/div/div[2]/div[1]/h4[count(. | //h4[@class = 'title' and (text() = 'SAVED ADDRESSES' or . = 'SAVED ADDRESSES')]) = count(//h4[@class = 'title' and (text() = 'SAVED ADDRESSES' or . = 'SAVED ADDRESSES')])]</value>
       </entry>
       <entry>
          <key>CSS</key>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -25,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h4</value>
-      <webElementGuid>4806c496-cf8b-4b9a-85e2-7a45f1db12cb</webElementGuid>
+      <webElementGuid>6609f1dc-25a9-47ef-ad2c-dcac8b899f79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -33,7 +33,7 @@
       <name>class</name>
       <type>Main</type>
       <value>title</value>
-      <webElementGuid>cf35f257-136e-489b-8122-3d5064211352</webElementGuid>
+      <webElementGuid>03d46a32-d13a-4590-87d2-e526afa5ae8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>text</name>
       <type>Main</type>
       <value>SAVED ADDRESSES</value>
-      <webElementGuid>0c0d8477-48ce-4543-9d6f-b0c5d903636f</webElementGuid>
+      <webElementGuid>04d2ffed-ad84-4398-af3a-559f1666a779</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html/body/div[4]/div[2]/div/div[2]/div/div[2]/div[1]/h4</value>
-      <webElementGuid>f7caa78b-1537-44d9-b0e6-1d3745259198</webElementGuid>
+      <webElementGuid>06b53318-e58e-4912-b3c4-d5f1bfd5c989</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='address']/div/div[2]/div/h4</value>
-      <webElementGuid>79178dee-9c2c-46b6-94cf-59c9adf862b7</webElementGuid>
+      <webElementGuid>cc58e3fd-0e81-4905-8250-87bda8c6cbc3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='POSTAL CODE'])[1]/following::h4[1]</value>
-      <webElementGuid>f1071484-e1bb-4e34-8032-94aac0569f15</webElementGuid>
+      <webElementGuid>6fdc977f-1d17-4c07-92e0-4ec876b90b0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CITY'])[1]/following::h4[1]</value>
-      <webElementGuid>e2f601e7-bff2-48e6-8cc9-77110c889248</webElementGuid>
+      <webElementGuid>31bfc2ad-310a-4b70-9561-e63a0af9e50f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='NEXT'])[2]/preceding::h4[1]</value>
-      <webElementGuid>5efe49e0-5d3b-4499-a46c-525a3997ee34</webElementGuid>
+      <webElementGuid>f4d38ed2-3881-4358-a723-85ff359772a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Method'])[1]/preceding::h4[1]</value>
-      <webElementGuid>1f54498b-730d-494d-a0b0-dff4890d41d3</webElementGuid>
+      <webElementGuid>da29e503-97c1-4d12-9ef5-37d3faac9182</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='SAVED ADDRESSES']/parent::*</value>
-      <webElementGuid>a1bbf802-7f47-433f-bfa8-708bd61d2b01</webElementGuid>
+      <webElementGuid>35b884c9-488d-43f5-9c50-60eb93bd0677</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/h4</value>
-      <webElementGuid>e69d579f-fed8-4390-a9ca-9ed4e782bb9b</webElementGuid>
+      <webElementGuid>274f9d90-dfe9-4e79-9fd6-8331ae736e3e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,6 +113,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h4[(text() = 'SAVED ADDRESSES' or . = 'SAVED ADDRESSES')]</value>
-      <webElementGuid>258ba442-d29c-477c-9bd7-f097a4c2df87</webElementGuid>
+      <webElementGuid>cdf635db-aa6b-4664-acf6-c95875fd3cab</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

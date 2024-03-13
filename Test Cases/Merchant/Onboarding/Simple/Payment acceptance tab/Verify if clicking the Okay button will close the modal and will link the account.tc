@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if clicking the Okay button will close the modal and will link the account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2030f13-c00a-41a1-ab05-092dbcf45054</testCaseGuid>
+</TestCaseEntity>

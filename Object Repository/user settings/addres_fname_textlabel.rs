@@ -6,19 +6,19 @@
    <elementGuidId>2bed3e97-cae9-41c7-8b3a-e885079d9fcc</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>/html/body/div[4]/div[2]/div/div[2]/div/div[1]/form/div[1]/div[1]/label[count(. | //label[(text() = 'ADDRESSEE FIRST NAME' or . = 'ADDRESSEE FIRST NAME')]) = count(//label[(text() = 'ADDRESSEE FIRST NAME' or . = 'ADDRESSEE FIRST NAME')])]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//form[@id='address-form']/div/div/label</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div[2]/div/div[2]/div/div[1]/form/div[1]/div[1]/label[count(. | //label[(text() = 'ADDRESSEE FIRST NAME' or . = 'ADDRESSEE FIRST NAME')]) = count(//label[(text() = 'ADDRESSEE FIRST NAME' or . = 'ADDRESSEE FIRST NAME')])]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>div.col-md-6.gutter-30 > label</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>58152935-5623-44a9-bfe5-c1f68b708e60</webElementGuid>
+      <webElementGuid>ae2c8409-4c3a-4a58-8c5b-5a34036d2f0b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,7 +34,7 @@
       <name>text</name>
       <type>Main</type>
       <value>ADDRESSEE FIRST NAME</value>
-      <webElementGuid>42da0801-8e32-48a4-b5d7-db8e564563e4</webElementGuid>
+      <webElementGuid>e0fdb4b4-e659-401e-949e-956f30774f4b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html/body/div[4]/div[2]/div/div[2]/div/div[1]/form/div[1]/div[1]/label</value>
-      <webElementGuid>6912499c-b423-415f-a5a5-15d0abc520e1</webElementGuid>
+      <webElementGuid>0ce2970d-8250-4bc8-8e26-95da8596d5f4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='address-form']/div/div/label</value>
-      <webElementGuid>95a53d18-baa4-427b-994d-56d211d6b25a</webElementGuid>
+      <webElementGuid>4b0616e6-36e7-42a0-9ca2-2e4713fbdd2e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='NEW DELIVERY ADDRESS'])[1]/following::label[1]</value>
-      <webElementGuid>8795b92b-d637-4788-974e-efad79281e64</webElementGuid>
+      <webElementGuid>bee014bd-6a6c-4184-98e8-c73bcf5a29c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='NEXT'])[1]/following::label[1]</value>
-      <webElementGuid>ca29e1a1-80a1-4ba7-a324-c27f657df50f</webElementGuid>
+      <webElementGuid>6c4192f3-adc1-4704-a0f8-f84edd672b73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ADDRESSEE LAST NAME'])[1]/preceding::label[1]</value>
-      <webElementGuid>336b4210-897c-4670-8852-30bcbebde85b</webElementGuid>
+      <webElementGuid>0d43f9a2-7f4f-43a0-8b23-3ad6fd0b2f9c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ADDRESS'])[2]/preceding::label[2]</value>
-      <webElementGuid>54d822f7-2561-4976-875a-abc762479ee8</webElementGuid>
+      <webElementGuid>f9eae2e5-e46a-4e57-aba4-8b4850dc609a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='ADDRESSEE FIRST NAME']/parent::*</value>
-      <webElementGuid>53212b54-7701-4b3c-8eec-da037775c221</webElementGuid>
+      <webElementGuid>6db7fa54-9798-41be-bc86-ec1dc30e565e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/form/div/div/label</value>
-      <webElementGuid>e0102892-8026-4f0d-9562-0aa42f1eb7c6</webElementGuid>
+      <webElementGuid>cdd42a98-8373-44b4-9704-cdb82d9c4f0f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,6 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'ADDRESSEE FIRST NAME' or . = 'ADDRESSEE FIRST NAME')]</value>
-      <webElementGuid>b99d3057-b701-4eed-9ddc-f2f246c9d0e6</webElementGuid>
+      <webElementGuid>e1d48119-7cce-4c57-8a0d-c2bc135ade24</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

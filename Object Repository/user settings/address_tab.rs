@@ -6,19 +6,19 @@
    <elementGuidId>dbbd2290-8824-4bd4-bd8f-55b3681dcf39</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>/html/body/div[4]/div[2]/ul/li[2]/a[count(. | //a[@href = '#address' and @id = 'address-tab']) = count(//a[@href = '#address' and @id = 'address-tab'])]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//a[@id='address-tab']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div[2]/ul/li[2]/a[count(. | //a[@href = '#address' and @id = 'address-tab']) = count(//a[@href = '#address' and @id = 'address-tab'])]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>#address-tab</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>bd87b6f6-b91d-484f-a011-ad80b281b730</webElementGuid>
+      <webElementGuid>f128bd48-8c81-4362-859e-5c7b8f950db6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,7 +34,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#address</value>
-      <webElementGuid>622c3a28-6586-45f6-850e-a5d4d6ee0d17</webElementGuid>
+      <webElementGuid>8518ada4-aa19-43a8-b0c1-ddecf7692d03</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>id</name>
       <type>Main</type>
       <value>address-tab</value>
-      <webElementGuid>798a8a59-74c4-4132-ab73-5afbe9337069</webElementGuid>
+      <webElementGuid>7e864297-1268-42a1-9b1f-9a10bb0fd844</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>validatePermission(&quot;view-merchant-addresses&quot;, &quot;User Addresses&quot;, &quot;Merchant&quot;); Validate('#address-tab', 1, false);</value>
-      <webElementGuid>0340c4d8-3a18-4b96-8762-2fd4b5893fba</webElementGuid>
+      <webElementGuid>09c1fe3a-cc18-4a4f-a473-94907cdf64f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html/body/div[4]/div[2]/ul/li[2]/a</value>
-      <webElementGuid>a8810fa0-97ae-46e7-ace6-5f77f457fb1d</webElementGuid>
+      <webElementGuid>b642f732-2402-460f-b3d9-7a88c8825dc9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='address-tab']</value>
-      <webElementGuid>5d17a123-2e60-4212-9779-b834e582db81</webElementGuid>
+      <webElementGuid>3cc3f683-0200-4834-a8a9-02b202ead329</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='setting-tab']/li[2]/a</value>
-      <webElementGuid>f41d7ad0-b097-46a8-83d4-087994c633d2</webElementGuid>
+      <webElementGuid>8d5ad30a-9a57-4e71-a82f-a76335d3e693</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PROFILE'])[2]/following::a[1]</value>
-      <webElementGuid>e3591a1c-44e1-4487-b908-4897b8e49b5f</webElementGuid>
+      <webElementGuid>19f29294-9eb8-480a-9d13-e2cb4e7f5579</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='USER SETTINGS'])[1]/following::a[2]</value>
-      <webElementGuid>fddd4175-c8c7-42ec-9c11-b8f4a8d9b0d6</webElementGuid>
+      <webElementGuid>ae1f1f86-56b4-4387-927b-a48ff51b9619</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PAYMENT ACCEPTANCE'])[1]/preceding::a[1]</value>
-      <webElementGuid>508d4905-e60c-4b1e-862f-ff65d769f495</webElementGuid>
+      <webElementGuid>5ed327fc-164a-4504-b632-350bb992127c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '#address')]</value>
-      <webElementGuid>51473335-5184-4363-ba4b-008d3394a64e</webElementGuid>
+      <webElementGuid>575f43dd-f56d-44c7-b6e9-82d2046822dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,7 +114,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div[2]/ul/li[2]/a</value>
-      <webElementGuid>57e23cac-5d8b-40cb-8caa-67a84130bb9f</webElementGuid>
+      <webElementGuid>1bbb8289-fa6c-4f15-bdf8-ce2c0b7ba91c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
             ' or . = '
                 ADDRESS
             ')]</value>
-      <webElementGuid>3973aa79-ee2c-495b-9304-a008aec3b232</webElementGuid>
+      <webElementGuid>840c247f-d402-431d-a2ae-670ac1eae88a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

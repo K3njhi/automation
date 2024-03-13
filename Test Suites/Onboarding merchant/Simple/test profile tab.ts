@@ -837,4 +837,137 @@
       <testCaseId>Test Cases/Merchant/Onboarding/Complex/Address tab/Verify if the user fill up all the mandatory field in address tab and clicking the next button in address will redirect the user to payment acceptance tab</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>84abc708-c0d7-4ba3-b4fb-fd96299cc16b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Payment acceptance tab/Clickable/Verify if Payment acceptance tab is clickable</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f859bc30-10e0-42b4-9e8a-11c54aa83bff</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Payment acceptance tab/Verify if no account linked yet is present by default</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>61ec450c-4a8b-43a9-8df5-7d5e25b88766</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Verify if there is toaster message if the user failed to link mandatory payment method</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>746698d6-05c1-44d9-a6b2-3fd2c4e8df8a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Payment acceptance tab/Clickable/Verify if link account button is clickable</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>78d81ae0-7e9c-4867-8d94-d047359b5d2e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Payment acceptance tab/Verify if clicking the link account button a modal will pop up</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>78e7a5ab-162b-4b4c-b3ba-a7059da5b5eb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Payment acceptance tab/Verify if modal payment text is present upon clicking the link account button</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>fb32a950-e682-46c6-96f8-f951afd2a88f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Payment acceptance tab/Verify if Cancel button in modal payment is present upon clicking the link account button</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5847833a-5881-45a2-95ca-e9ae5ce261ef</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Payment acceptance tab/Verify if Okay button in modal payment is present upon clicking the link account button</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c8a4dde8-a60a-4c61-ba5e-1e38620b2d72</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Payment acceptance tab/Clickable/Verfiy if Cancel button in modal payment is clickable</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>82597361-b805-4671-890a-cc2bfcd503a2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Payment acceptance tab/Clickable/Verify if Okay button in modal payment is clickable</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a942f196-e9eb-4bc5-acc6-b8538f7a63b0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Payment acceptance tab/Verify if clicking the Cancel button in modal payment will close the modal</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f9cbd748-017d-4bfa-aca2-1e3448fa2c09</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Payment acceptance tab/Verify if clicking the Okay button will close the modal and will link the account</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>55132f23-8ae2-4d96-843e-847c1f85135f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Complex/Payment acceptance tab/Verify if verified icon is present upon successfully linking the account</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d0ceadf7-61f7-4c2d-830e-66414af7c2d5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Complex/Payment acceptance tab/Verify if verify text is present upon successfully linking the account</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ab1d8be5-f6c8-4e38-8d15-ae88323733a0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Verify if clicking the profile tab texlabel will redirect the user to profile tab</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d882a7d8-5518-4068-8487-996336b1dd83</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Verify if clicking the Address tab textlabel will redirect the user to address tab</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0c245669-3c94-4f8b-aef6-a5d136bdfb57</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Verify if clicking the Payment acceptance tab text label will redirect the user to payment acceptance tab</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f773411c-a666-4e71-9663-91bde4914f7b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Simple/Payment acceptance tab/Clickable/Verify if Save button is clickable</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>fc894e7c-ec1f-4e32-8132-61bb44360cc8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Merchant/Onboarding/Complex/Payment acceptance tab/Verify if the user succesfully fill up all the mandatory field in user settings and clicking the save button will redirect the user to item list page</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>

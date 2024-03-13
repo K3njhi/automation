@@ -6,19 +6,19 @@
    <elementGuidId>74b93687-c322-4f82-b67b-53770b28e521</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>/html/body/div[4]/div[2]/div/div[2]/div/div[1]/div[1]/h4[count(. | //h4[@class = 'title' and (text() = 'NEW DELIVERY ADDRESS' or . = 'NEW DELIVERY ADDRESS')]) = count(//h4[@class = 'title' and (text() = 'NEW DELIVERY ADDRESS' or . = 'NEW DELIVERY ADDRESS')])]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='address']/div/div/div/h4</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div[2]/div/div[2]/div/div[1]/div[1]/h4[count(. | //h4[@class = 'title' and (text() = 'NEW DELIVERY ADDRESS' or . = 'NEW DELIVERY ADDRESS')]) = count(//h4[@class = 'title' and (text() = 'NEW DELIVERY ADDRESS' or . = 'NEW DELIVERY ADDRESS')])]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>h4.title</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h4</value>
-      <webElementGuid>6680be30-9675-4922-9195-0490d1fae015</webElementGuid>
+      <webElementGuid>ee9170af-9eba-4767-835b-42f048ea769b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>title</value>
-      <webElementGuid>345af7bb-200c-4e00-bf35-49d628c4aeff</webElementGuid>
+      <webElementGuid>712c2ddf-c808-4005-bddb-4aa58a1c444b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>NEW DELIVERY ADDRESS</value>
-      <webElementGuid>1bf8b3da-d4c8-4f53-8bc2-c4d13257b0de</webElementGuid>
+      <webElementGuid>9eb4dbfa-ac85-408a-87bd-5a324cc738ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html/body/div[4]/div[2]/div/div[2]/div/div[1]/div[1]/h4</value>
-      <webElementGuid>693b1f54-a626-4921-8e20-70c23a227b20</webElementGuid>
+      <webElementGuid>e83b7b98-c3ac-4e7b-a02d-4402870373f8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='address']/div/div/div/h4</value>
-      <webElementGuid>72817025-746e-4d5d-be2a-10e0de843e50</webElementGuid>
+      <webElementGuid>f45dd434-7105-449c-9b78-c69c89dbf918</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='NEXT'])[1]/following::h4[1]</value>
-      <webElementGuid>388ceff8-2c81-4376-84bb-3c21b00b402e</webElementGuid>
+      <webElementGuid>bc34fa03-ca4f-4e92-989a-85a0a6a30456</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Seller Location'])[1]/following::h4[1]</value>
-      <webElementGuid>0d8fa222-2814-4386-a8b8-80174dc211fa</webElementGuid>
+      <webElementGuid>82a73037-1028-45b7-9a1a-ac24b1012e3e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ADDRESSEE FIRST NAME'])[1]/preceding::h4[1]</value>
-      <webElementGuid>5178f6b3-e6c1-4704-b162-f95b86c2c5bf</webElementGuid>
+      <webElementGuid>1f6f5de1-d0ae-4713-a9b6-8c1bcab6fc07</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ADDRESSEE LAST NAME'])[1]/preceding::h4[1]</value>
-      <webElementGuid>9cd0b842-44dd-4c90-855c-2f5185f9adda</webElementGuid>
+      <webElementGuid>728937e0-ac55-4958-9e6a-b78920e5b201</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='NEW DELIVERY ADDRESS']/parent::*</value>
-      <webElementGuid>7c87d9ca-2cab-4dd0-8a57-f45f3065c5d4</webElementGuid>
+      <webElementGuid>8a7088db-938f-4f99-bd04-03fc6953a176</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h4</value>
-      <webElementGuid>e58e6e29-4a81-434e-a098-9210ad4ef9ab</webElementGuid>
+      <webElementGuid>5c04fcf4-061f-47f0-9888-ceaae4a4f1d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,6 +114,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h4[(text() = 'NEW DELIVERY ADDRESS' or . = 'NEW DELIVERY ADDRESS')]</value>
-      <webElementGuid>4a9267b6-81cd-4940-a635-bf60bbb45ee3</webElementGuid>
+      <webElementGuid>3a3b0a9c-4d86-4492-ad0d-d3cbf83696eb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,10 +6,6 @@
    <elementGuidId>721c0fef-b4a1-46e2-a99e-48e56288f2c9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#notification-email</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='notification-email']</value>
       </entry>
@@ -17,8 +13,12 @@
          <key>BASIC</key>
          <value>/html/body/div[4]/div[2]/div/div[1]/div/div[1]/form/div[5]/div[1]/input[count(. | //input[@type = 'text' and @class = 'required emailOnly' and @name = 'Email']) = count(//input[@type = 'text' and @class = 'required emailOnly' and @name = 'Email'])]</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#notification-email</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>738fb98a-d32a-41fa-8379-739de4285657</webElementGuid>
+      <webElementGuid>3a9ab358-148a-4829-b103-eadc8c17566f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,7 +34,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>1ccb65c6-e68b-4f81-a2ce-2e111f1b85ef</webElementGuid>
+      <webElementGuid>420d4281-d2d2-422f-b53f-272d9276e8bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>required emailOnly</value>
-      <webElementGuid>3756921b-a92b-4fe5-8021-86ee2e6e9842</webElementGuid>
+      <webElementGuid>e91717be-553c-4120-a1f4-ad250db05110</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>id</name>
       <type>Main</type>
       <value>notification-email</value>
-      <webElementGuid>9b8ec6b4-d82d-40ee-9fce-74d4c91fda4c</webElementGuid>
+      <webElementGuid>b43ddb87-2fa6-4802-8b6f-6d7bef67eb6d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Email</value>
-      <webElementGuid>c6ce7ee4-c2c5-4917-8c81-5ce6fe57e88b</webElementGuid>
+      <webElementGuid>06045add-8e36-42b2-918e-89e0fccf7d1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>value</name>
       <type>Main</type>
       <value>kentest06+bespokeautomationmerchant1@gmail.com</value>
-      <webElementGuid>6369d3d8-47e1-48b1-a7a1-bc9999ef0726</webElementGuid>
+      <webElementGuid>21a8d494-2413-43a5-ae28-18e59b3fdf20</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html/body/div[4]/div[2]/div/div[1]/div/div[1]/form/div[5]/div[1]/input</value>
-      <webElementGuid>42f4a8ec-ff70-4d16-9e58-16e4c881bbf4</webElementGuid>
+      <webElementGuid>9783e15e-fb61-4841-a45f-94dfa7255b1a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='notification-email']</value>
-      <webElementGuid>06bec70c-e66f-4231-aa18-b4f057e98a26</webElementGuid>
+      <webElementGuid>2b286e9b-bd65-41e8-b3bc-c4e8ace176fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='profile']/div/div/form/div[5]/div/input</value>
-      <webElementGuid>18cec50f-9dc9-495f-9fa7-d526b5ef7e0f</webElementGuid>
+      <webElementGuid>1de24efb-b029-4c03-84bc-daa52d86a3c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/input</value>
-      <webElementGuid>f54bcb2d-9244-40ab-966e-38286620b1c5</webElementGuid>
+      <webElementGuid>de2d056b-212d-4094-9260-5dc07e991557</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,6 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'notification-email' and @name = 'Email']</value>
-      <webElementGuid>359aaf32-b5aa-4412-85aa-8f882c47c6d3</webElementGuid>
+      <webElementGuid>d613af73-a86c-466e-85aa-cd26dbbcab65</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

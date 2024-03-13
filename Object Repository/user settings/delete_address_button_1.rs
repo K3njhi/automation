@@ -10,12 +10,12 @@
          <value>//a[@id='120877']/i</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>i.icon.icon-remove</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>/html/body/div[4]/div[2]/div/div[2]/div/div[2]/div[3]/div[1]/div/div[2]/a/i[count(. | //i[@class = 'icon icon-remove']) = count(//i[@class = 'icon icon-remove'])]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon.icon-remove</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>0caf07b7-b78a-4a8f-910f-56e01b209d17</webElementGuid>
+      <webElementGuid>bfa0b434-fe56-408d-a902-645ffbabc89b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>icon icon-remove</value>
-      <webElementGuid>de066f05-3710-4a94-bfe0-5f6c14dc7ad2</webElementGuid>
+      <webElementGuid>87341f25-577c-45b3-84e4-cbb656f0051c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html/body/div[4]/div[2]/div/div[2]/div/div[2]/div[3]/div[1]/div/div[2]/a/i</value>
-      <webElementGuid>aed77e36-9feb-4821-99e0-a50f10ce994c</webElementGuid>
+      <webElementGuid>a54c32bb-b0bd-4ff9-918c-5a7c3da2bdb4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='120877']/i</value>
-      <webElementGuid>eef66ac6-14b4-46a2-9bbc-49657c8f6e8b</webElementGuid>
+      <webElementGuid>e1938370-aad7-4d91-94ac-b7b52ffa2c6c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -58,6 +58,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/a/i</value>
-      <webElementGuid>c71a7b65-6744-44e6-893e-b623aff94ae6</webElementGuid>
+      <webElementGuid>5305939b-5c17-47ce-8e99-25a810561365</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if verified icon is present upon successfully linking the account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9939965-d571-432f-a99b-1bea4f8f10b3</testCaseGuid>
+</TestCaseEntity>

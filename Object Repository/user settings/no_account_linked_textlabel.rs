@@ -6,19 +6,19 @@
    <elementGuidId>c1f35495-9a89-403d-8abe-d6625c90e1df</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>/html/body/div[4]/div[2]/div/div[3]/div/div[1]/div/div[2]/div[2]/div[count(. | //div[@class = 'payment-input']) = count(//div[@class = 'payment-input'])]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='payment_acceptance']/div/div/div/div[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div[2]/div/div[3]/div/div[1]/div/div[2]/div[2]/div[count(. | //div[@class = 'payment-input']) = count(//div[@class = 'payment-input'])]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>div.payment-input</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>3a3f088a-2aac-46ac-9778-0aeaafaf0d09</webElementGuid>
+      <webElementGuid>bcaec391-93ba-41bc-8be2-494e50642415</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>payment-input</value>
-      <webElementGuid>b932cf2a-243b-4554-9be1-0c3ea48adaef</webElementGuid>
+      <webElementGuid>d6a3fcc4-6e52-4f03-9fb8-a9c976343a90</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
                                                 &#xd;
                                                 &#xd;
                                             </value>
-      <webElementGuid>e73361a1-0be3-4782-895d-244713c360ba</webElementGuid>
+      <webElementGuid>26bc5d05-1eaf-4f88-8e51-44b619af22e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html/body/div[4]/div[2]/div/div[3]/div/div[1]/div/div[2]/div[2]/div</value>
-      <webElementGuid>8f787a15-8ae1-46f5-98b7-dc3647e5251e</webElementGuid>
+      <webElementGuid>e4b75b43-7b2f-49cf-a13c-cb59f29abcc8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='payment_acceptance']/div/div/div/div[2]/div[2]/div</value>
-      <webElementGuid>0eb5439f-1397-4271-aa5d-4574ff753da4</webElementGuid>
+      <webElementGuid>64db5d2a-9398-4980-ac80-8b1fcccbe2ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cash on delivery'])[1]/following::div[2]</value>
-      <webElementGuid>c199005f-5d91-4e4b-9a9f-f7a33e4fa257</webElementGuid>
+      <webElementGuid>1d765342-df6d-4511-9e7e-e03bbf82ed9f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Method'])[1]/following::div[6]</value>
-      <webElementGuid>b706d08a-a5f1-4bbe-b71d-bbdd485ef763</webElementGuid>
+      <webElementGuid>a5faa508-e163-4e8a-a636-9a4d3cbd776c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Link Account'])[1]/preceding::div[1]</value>
-      <webElementGuid>18f834d6-4dc5-4b41-8c1d-a976ae61a638</webElementGuid>
+      <webElementGuid>2dc42ef0-2e9e-4250-9031-8973ade60a13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='This payment method is compulsory.'])[1]/preceding::div[4]</value>
-      <webElementGuid>601f8d57-609a-456d-9a5f-cbc83858b8d4</webElementGuid>
+      <webElementGuid>152cdcb3-845a-4439-b757-b73a8e66f222</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='No account linked yet']/parent::*</value>
-      <webElementGuid>8a82720f-4341-4303-b1ef-24cf1b7eb4ce</webElementGuid>
+      <webElementGuid>d4603db3-1110-402b-9799-12bffd53384a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div</value>
-      <webElementGuid>88c39e8c-f8ed-47f0-8f56-4c7c6297e7f0</webElementGuid>
+      <webElementGuid>2b89f4a5-64a7-48af-9e61-414f89938a15</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
                                                 
                                                 
                                             ')]</value>
-      <webElementGuid>ceb86a38-c537-48da-bb5e-69580a8da565</webElementGuid>
+      <webElementGuid>0759007a-1886-4d74-92d9-926dc052256a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

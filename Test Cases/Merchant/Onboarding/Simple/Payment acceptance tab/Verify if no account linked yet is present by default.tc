@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if no account linked yet is present by default</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e175e3f4-0df1-4717-88d9-756ea75f2e54</testCaseGuid>
+</TestCaseEntity>

@@ -6,6 +6,10 @@
    <elementGuidId>46e4383e-cb25-465d-a3ec-47ba03615e37</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//div[@id='profile']/div/div[2]</value>
+      </entry>
+      <entry>
          <key>BASIC</key>
          <value>/html/body/div[4]/div[2]/div/div[2]/div/div[3][count(. | //div[@class = 'seller-setting-msg' and @data-resource-key = 'strSeller_OnboardingSettings_SaleMadeOnMarketplace' and (text() = '
                         For each transaction that is made through the marketplace, there will be a seller transaction fee of:0% 
@@ -18,15 +22,11 @@
                     ')])]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='profile']/div/div[2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.seller-setting-msg</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,7 +34,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>255d396f-00f9-4aa1-aa4b-283095157826</webElementGuid>
+      <webElementGuid>2597c612-c8d5-46dc-8e57-41c32d3a097a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>seller-setting-msg</value>
-      <webElementGuid>147f14ef-d2db-4979-80ee-ecff7228f293</webElementGuid>
+      <webElementGuid>ecf287eb-ae96-4726-b668-574c1b0515b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
       <name>data-resource-key</name>
       <type>Main</type>
       <value>strSeller_OnboardingSettings_SaleMadeOnMarketplace</value>
-      <webElementGuid>9a65cbb8-a42c-4f94-a458-3dae3b1be3fc</webElementGuid>
+      <webElementGuid>7c2d9d43-59f7-4976-85ee-cc3bbb4ebaea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -60,7 +60,7 @@
       <value>
                         For each transaction that is made through the marketplace, there will be a seller transaction fee of:0% 
                     </value>
-      <webElementGuid>ee6cb6af-376d-42ae-968b-f4265b0fe0fa</webElementGuid>
+      <webElementGuid>dec529c5-ba1d-4c25-bb61-0cc218aaf74c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -68,7 +68,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html/body/div[4]/div[2]/div/div[2]/div/div[3]</value>
-      <webElementGuid>156103c8-386b-445a-887a-956abcb17014</webElementGuid>
+      <webElementGuid>d1b84aae-f5f6-480b-b34f-451bb836b8e5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -76,7 +76,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='profile']/div/div[2]</value>
-      <webElementGuid>14541933-e0d3-4dbe-9b74-48326056e405</webElementGuid>
+      <webElementGuid>dbc42628-00b8-450f-baa0-8416516625b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -84,7 +84,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Seller Location'])[1]/following::div[2]</value>
-      <webElementGuid>d0536d4c-8f95-4b00-a343-3eeab4803dda</webElementGuid>
+      <webElementGuid>61bd7607-d0f3-456d-bedc-4c2a0739a9fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,7 +92,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OPENID LOGIN'])[1]/following::div[3]</value>
-      <webElementGuid>4d227aca-9c28-47a4-8f1d-a8c407785b8c</webElementGuid>
+      <webElementGuid>6a9dd3d3-c7ec-49b3-9a39-932a9af7b78c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -100,7 +100,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='NEXT'])[1]/preceding::div[1]</value>
-      <webElementGuid>d02f03f1-9d60-4f19-b286-48a5a638b812</webElementGuid>
+      <webElementGuid>829b90b5-8e31-45f0-a982-76f689448799</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,7 +108,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='NEW DELIVERY ADDRESS'])[1]/preceding::div[2]</value>
-      <webElementGuid>bb79fa94-c385-4839-801c-de6ea6d2b16f</webElementGuid>
+      <webElementGuid>7be8e518-7316-421f-8235-381b60c25c3f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -116,7 +116,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='For each transaction that is made through the marketplace, there will be a seller transaction fee of:']/parent::*</value>
-      <webElementGuid>028a07a1-632c-4a68-9629-f36265e3aae7</webElementGuid>
+      <webElementGuid>f3b8c021-13d9-43aa-8c9a-a4f2e53fc236</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -124,7 +124,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div[2]</value>
-      <webElementGuid>5669d2ec-e3bd-4db2-b827-cc7873318445</webElementGuid>
+      <webElementGuid>a68161c6-4e3f-44e7-83f2-df5b6b8113a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -136,6 +136,6 @@
                     ' or . = '
                         For each transaction that is made through the marketplace, there will be a seller transaction fee of:0% 
                     ')]</value>
-      <webElementGuid>4e106f5e-0cc8-4beb-b4fc-9065ae339983</webElementGuid>
+      <webElementGuid>30d23b27-4358-4185-83d9-cd08ffad84a2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

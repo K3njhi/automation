@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if modal payment text is present upon clicking the link account button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2b1760af-ec52-4484-b60c-bec1529aea38</testCaseGuid>
+</TestCaseEntity>

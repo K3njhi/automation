@@ -6,10 +6,6 @@
    <elementGuidId>fa1efeb5-c4bb-498e-b8f9-93bde786cefd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#payment_acceptance > div.container > div.next-tab-area > #next-tab</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(//a[@id='next-tab'])[5]</value>
       </entry>
@@ -17,8 +13,12 @@
          <key>BASIC</key>
          <value>//a[@class = 'my-btn btn-red' and @id = 'next-tab']</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#payment_acceptance > div.container > div.next-tab-area > #next-tab</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>e10ae948-0223-45e5-afd5-761852c0ac4d</webElementGuid>
+      <webElementGuid>b7651a56-97d8-4983-b2f1-6aa1a45d5b6e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>my-btn btn-red</value>
-      <webElementGuid>3fef9d44-179d-40c6-87ea-c90c7ba0964d</webElementGuid>
+      <webElementGuid>172ad63c-2161-4d8b-918d-8e2fb58dbc17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>Validate('undefined', 3, true)</value>
-      <webElementGuid>b8af9bbd-472e-4b17-83c7-8afdffe3980a</webElementGuid>
+      <webElementGuid>1085c53a-7a01-4d08-902d-3ff63b11f2bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
       <name>id</name>
       <type>Main</type>
       <value>next-tab</value>
-      <webElementGuid>c3281bb5-27a2-4496-8b39-47979d3e6912</webElementGuid>
+      <webElementGuid>f831b6a5-025c-4c42-bfbf-a86a6826e406</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +58,7 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript:void(0);</value>
-      <webElementGuid>50611ca2-bf8d-4ac6-990d-0071156a5551</webElementGuid>
+      <webElementGuid>52c3ff57-4b30-4358-9db6-ece8eabb90e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,7 +68,7 @@
       <value>&#xd;
                                 SAVE&#xd;
                             </value>
-      <webElementGuid>0085afec-3f11-486f-bb46-9eacd7e8926c</webElementGuid>
+      <webElementGuid>be0d8047-6228-45ca-b441-41ee14c6cd5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -76,7 +76,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html/body/div[4]/div[2]/div/div[3]/div/div[5]/a</value>
-      <webElementGuid>05b2bb6d-8364-4833-8574-634f7ef23f47</webElementGuid>
+      <webElementGuid>9869f587-f709-4d3f-8325-4e59159b8707</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -84,7 +84,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//a[@id='next-tab'])[5]</value>
-      <webElementGuid>8e00171a-0e11-4cd9-b3ef-665119be8982</webElementGuid>
+      <webElementGuid>17549465-1fc0-49d8-8271-8975ea261187</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,7 +92,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='payment_acceptance']/div/div[5]/a</value>
-      <webElementGuid>d28d9408-7de5-4811-ac53-f522c0f02f93</webElementGuid>
+      <webElementGuid>5a1b227c-daa7-4005-a7d6-d00f6ce2345b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -100,7 +100,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'SAVE')]</value>
-      <webElementGuid>703bfec2-874d-4833-899b-f491fa53d111</webElementGuid>
+      <webElementGuid>038471a9-7244-448e-8c7b-6eac681276e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,7 +108,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[2]/following::a[1]</value>
-      <webElementGuid>382c4c07-6ad7-4ebf-af9a-aa8b2eb0c882</webElementGuid>
+      <webElementGuid>2b9a1ad1-c821-4559-8d0b-b174dd429f8f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -116,7 +116,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Account Name'])[1]/following::a[2]</value>
-      <webElementGuid>9243ae67-e78b-4b65-81bb-aead76f0b6df</webElementGuid>
+      <webElementGuid>eb125f46-82b0-4400-ad24-dfd336568b0b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -124,7 +124,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ABOUT US'])[1]/preceding::a[1]</value>
-      <webElementGuid>956b9928-e865-443d-aa24-e57a7ba51bd6</webElementGuid>
+      <webElementGuid>0f93efba-ab30-4bad-a70d-cf4d33322362</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -132,7 +132,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='TERMS OF SERVICE'])[1]/preceding::a[2]</value>
-      <webElementGuid>369f2f0f-b7ee-4e15-b63e-25a735d2be96</webElementGuid>
+      <webElementGuid>a5e5fcef-195b-4fa1-9394-dc1525af42b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -140,7 +140,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='SAVE']/parent::*</value>
-      <webElementGuid>0a4c9846-37ea-4653-a89f-d307ad697fff</webElementGuid>
+      <webElementGuid>3eda94ec-9cee-433b-9504-bd9a6cff720d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -148,7 +148,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'javascript:void(0);')])[10]</value>
-      <webElementGuid>2bd9cde7-e130-41cd-83d1-7424e601a647</webElementGuid>
+      <webElementGuid>841fe596-a387-4288-aa6a-b6a625c0c5ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -156,7 +156,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/a</value>
-      <webElementGuid>1d30a5f4-90aa-43c0-b4a1-84a423002ca8</webElementGuid>
+      <webElementGuid>8042d4de-27e6-4283-aaa2-64ffcb7aefcd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -168,6 +168,6 @@
                             ' or . = '
                                 SAVE
                             ')]</value>
-      <webElementGuid>c9c6f21f-4a0e-4bfc-a570-fea738f98cde</webElementGuid>
+      <webElementGuid>52a375fc-5bdc-47fb-a21b-aca8953c8e22</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

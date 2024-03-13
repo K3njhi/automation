@@ -30,9 +30,8 @@ WebUI.click(findTestObject('sign_up/create_btn_2'))
 WebUI.waitForElementVisible(findTestObject('user settings/user_settings_txtlabel'), 0)
 
 WebUI.delay(15)*/
-
 WebUI.scrollToPosition(0, 500)
 
-WebUI.verifyElementAttributeValue(findTestObject('user settings/email_txtbox'), 'value', 'kentest06+kenmerchant_automation16@gmail.com', 
+WebUI.verifyElementAttributeValue(findTestObject('user settings/email_txtbox'), 'value', 'kentest06+kenmerchant_automation42@gmail.com', 
     0)
 

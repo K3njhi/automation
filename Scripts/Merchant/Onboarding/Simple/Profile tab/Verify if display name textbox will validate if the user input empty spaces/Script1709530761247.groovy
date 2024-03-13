@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.scrollToElement(findTestObject('user settings/user_settings_txtlabel'), 0)
 
-WebUI.setText(findTestObject('user settings/display_name_textbox'), '    ')
+WebUI.setText(findTestObject('spyweb/Page_bespokeautomationken/input_DISPLAY NAME_DisplayName'), '    ')
 
 WebUI.scrollToElement(findTestObject('user settings/nextprofile_button'), 0)
 
@@ -27,5 +27,6 @@ WebUI.click(findTestObject('user settings/nextprofile_button'))
 
 WebUI.scrollToElement(findTestObject('user settings/user_settings_txtlabel'), 0)
 
-WebUI.verifyElementAttributeValue(findTestObject('user settings/display_name_textbox'), 'class', 'required error-con', 0)
+WebUI.verifyElementAttributeValue(findTestObject('spyweb/Page_bespokeautomationken/input_DISPLAY NAME_DisplayName'), 'class', 
+    'required error-con', 0)
 

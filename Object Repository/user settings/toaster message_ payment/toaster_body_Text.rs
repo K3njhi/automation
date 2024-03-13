@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>toaster_body_Text</name>
+   <tag></tag>
+   <elementGuidId>d0ba2b44-377a-49c2-972a-32b62e4319cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[16]/div/div[2][count(. | //div[@class = 'toast-message' and (text() = 'You need to link the mandatory payment method before proceeding.' or . = 'You need to link the mandatory payment method before proceeding.')]) = count(//div[@class = 'toast-message' and (text() = 'You need to link the mandatory payment method before proceeding.' or . = 'You need to link the mandatory payment method before proceeding.')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b17591f9-1a9c-4e3c-a871-381e16313b55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toast-message</value>
+      <webElementGuid>3ae6b30e-4287-4c22-bd17-0df5883e95b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>You need to link the mandatory payment method before proceeding.</value>
+      <webElementGuid>a9d38c8b-7724-4bed-8dcb-5482e0a0d9d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[16]/div/div[2]</value>
+      <webElementGuid>942f8731-7ddf-433c-ac0c-2a1f3e5772dc</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

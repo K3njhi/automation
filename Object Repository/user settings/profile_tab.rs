@@ -6,10 +6,6 @@
    <elementGuidId>bd613c21-a8a4-4fd1-9f5a-dae19d2c774a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#profile-tab</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//a[@id='profile-tab']</value>
       </entry>
@@ -17,8 +13,12 @@
          <key>BASIC</key>
          <value>/html/body/div[4]/div[2]/ul/li[1]/a</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#profile-tab</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>34aa1c93-2c9f-4eef-8a8d-47ed6aba5e1d</webElementGuid>
+      <webElementGuid>ae162f56-09b6-4368-aaee-a61126313f61</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>id</name>
       <type>Main</type>
       <value>profile-tab</value>
-      <webElementGuid>28d67436-51b0-4227-9fdd-609f5525e3c7</webElementGuid>
+      <webElementGuid>1192c203-6404-4e25-851c-81c965919335</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html/body/div[4]/div[2]/ul/li[1]/a</value>
-      <webElementGuid>2dbfa085-a597-481b-a769-f5d65c52611c</webElementGuid>
+      <webElementGuid>aa16d0e0-3887-4cfb-8c69-6f5a92a6780c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='profile-tab']</value>
-      <webElementGuid>ee50c914-976e-4529-8953-039c1cc8cc2a</webElementGuid>
+      <webElementGuid>b0ead7a1-acb2-4306-848b-6604f7dac8d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='setting-tab']/li/a</value>
-      <webElementGuid>f20b2d7a-b7c2-4090-98b4-04e79ce0fd94</webElementGuid>
+      <webElementGuid>fab9c4b5-4a3e-4999-aec9-584955ae67e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='USER SETTINGS'])[1]/following::a[1]</value>
-      <webElementGuid>7a907f3b-6edf-49d8-951f-2d7159af557d</webElementGuid>
+      <webElementGuid>20d98d64-d377-4af1-aed0-00ee9b2e1c7d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Password'])[2]/following::a[2]</value>
-      <webElementGuid>591cc8b4-c968-400e-9e61-bd515b814b3d</webElementGuid>
+      <webElementGuid>90653be7-4bac-4bd6-8c6b-21f082564e3b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ADDRESS'])[1]/preceding::a[1]</value>
-      <webElementGuid>0ad79057-db3f-4210-b1e7-d799f0d0eadc</webElementGuid>
+      <webElementGuid>c0895d3f-2845-4b7d-a78a-1b7559f082a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '#profile')]</value>
-      <webElementGuid>9879ffeb-0dcc-4f3f-ad42-6852d9fda1d5</webElementGuid>
+      <webElementGuid>9bf163a2-20d9-4dd2-80d6-fa3e4bf8ee67</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div[2]/ul/li/a</value>
-      <webElementGuid>b5a8ae3b-7925-4f27-9bdd-8ce07fc1d8ce</webElementGuid>
+      <webElementGuid>a20ab352-f465-4a60-87ac-a4789bd9b6cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
             ' or . = '
                 PROFILE
             ')]</value>
-      <webElementGuid>7a02c0e2-7c31-47f8-8aaa-0587c97bcdfd</webElementGuid>
+      <webElementGuid>eb81b76d-5133-4ac5-ab46-5b68470ad37a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,6 +6,10 @@
    <elementGuidId>b4903436-d853-4c7c-9e9e-6e7237b0a41b</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
          <key>BASIC</key>
          <value>/html/body/div[4]/div[2]/div/div[3]/div/div[1]/div/div[2]/div[4]/div[count(. | //div[@class = 'verified-icon']) = count(//div[@class = 'verified-icon'])]</value>
       </entry>
@@ -18,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>5240919b-1568-41f8-a3ec-0f3f03b42b42</webElementGuid>
+      <webElementGuid>e3cecddb-2795-48bc-816d-126c76c974a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>verified-icon</value>
-      <webElementGuid>ddda8d5a-185f-40a5-b884-8d3e71d10b23</webElementGuid>
+      <webElementGuid>5261c9fb-876e-4759-bfc6-03ec3a6fa36a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,6 +38,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html/body/div[4]/div[2]/div/div[3]/div/div[1]/div/div[2]/div[4]/div</value>
-      <webElementGuid>623fe6cc-15fa-432d-a4ce-a362319b1bb3</webElementGuid>
+      <webElementGuid>e5d0a0e4-ac6b-42d8-949d-d1124fdb338d</webElementGuid>
    </webElementProperties>
 </WebElementEntity>
