@@ -6,6 +6,10 @@
    <elementGuidId>04450437-7163-403e-9236-a5eb8a336cbf</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
          <key>BASIC</key>
          <value>/html/body/div[4]/div[1]/div[1]/div[2]/form/div[4]/div/span[count(. | //span[@class = 'email-error-sec' and (text() = 'Please enter valid email address' or . = 'Please enter valid email address')]) = count(//span[@class = 'email-error-sec' and (text() = 'Please enter valid email address' or . = 'Please enter valid email address')])]</value>
       </entry>
@@ -18,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>f5638439-87f8-4ddd-8bbe-96f9082c420e</webElementGuid>
+      <webElementGuid>3e980cb0-a958-44ea-82f0-e8e8949b39ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>email-error-sec</value>
-      <webElementGuid>4947a14e-0dee-4d7b-a85b-a8b6448fc736</webElementGuid>
+      <webElementGuid>2a54e98e-69c4-4b77-949c-63690bba33c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Please enter valid email address</value>
-      <webElementGuid>cc20025d-76e7-4e4f-9828-920af33d3e31</webElementGuid>
+      <webElementGuid>f0ee3461-fea2-4624-8896-9f4b1bd92057</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,6 +46,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html/body/div[4]/div[1]/div[1]/div[2]/form/div[4]/div/span</value>
-      <webElementGuid>6e0b73b0-c8c6-436a-9f72-085af4b4b4f5</webElementGuid>
+      <webElementGuid>90fa4aa0-abb1-4492-a925-1aa4e8c6ce31</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

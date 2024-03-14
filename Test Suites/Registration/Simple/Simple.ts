@@ -144,11 +144,4 @@
       <testCaseId>Test Cases/Merchant/Registration/Simple/Verify if validation text is present if the user inputs invalid email address</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
-   <testCaseLink>
-      <guid>363c6fa5-9acb-469b-b2f7-96de82d10dab</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/reusable test case/delay</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
 </TestSuiteEntity>

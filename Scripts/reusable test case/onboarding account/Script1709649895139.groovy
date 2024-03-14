@@ -17,13 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.setText(findTestObject('sign_up/username_txtbox'), 'kenmerchant_automation43')
+WebUI.setText(findTestObject('sign_up/username_txtbox'), 'kenmerchant_automation46')
 
 WebUI.setText(findTestObject('sign_up/password_txtbox'), 'welcome8')
 
 WebUI.setText(findTestObject('sign_up/reconfirm_pas_txtbox'), 'welcome8')
 
-WebUI.setText(findTestObject('sign_up/notif_email_txtbox'), 'kentest06+kenmerchant_automation43@gmail.com')
+WebUI.setText(findTestObject('sign_up/notif_email_txtbox'), 'kentest06+kenmerchant_automation46@gmail.com')
 
 WebUI.click(findTestObject('sign_up/create_btn_2'))
 

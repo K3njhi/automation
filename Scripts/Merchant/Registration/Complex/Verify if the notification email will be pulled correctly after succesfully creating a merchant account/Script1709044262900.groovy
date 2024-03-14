@@ -32,6 +32,6 @@ WebUI.waitForElementVisible(findTestObject('user settings/user_settings_txtlabel
 WebUI.delay(15)*/
 WebUI.scrollToPosition(0, 500)
 
-WebUI.verifyElementAttributeValue(findTestObject('user settings/email_txtbox'), 'value', 'kentest06+kenmerchant_automation42@gmail.com', 
+WebUI.verifyElementAttributeValue(findTestObject('user settings/email_txtbox'), 'value', 'kentest06+kenmerchant_automation45@gmail.com', 
     0)
 
